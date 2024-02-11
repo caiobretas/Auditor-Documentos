@@ -2,5 +2,7 @@
 venv
 .cache
 .pyc
-
 __pycache__/
+
+auth/token.json
+auth/credentials.json
