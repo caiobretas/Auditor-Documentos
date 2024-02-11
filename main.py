@@ -1,33 +1,37 @@
 '''main class'''
 import os
-import re
 
 from controllers.drive import Drive
 from controllers.pymupdf import BytesReader
+from models.date_compiler import DateCompiler
 
 os.system('clear')
 os.system(f'export OPENAI_API_KEY={os.environ.get("OPENAI_API_KEY")}')
+# os.system('pip install --upgrade -r requirements.txt')
 
-file_id = '1Cf47MCZInGnhGXzGbdBeXelfamZ9PU81'
-document_bytes, document_id = Drive().get_file_media_by_id(file_id)
+# file_id = '1Cf47MCZInGnhGXzGbdBeXelfamZ9PU81'
+# file_id = '1ZUuB2vZlELOVxo2heZfxK_yBa5MLtZRU'
+# file_id = '1zsTrCG1hPGZFjlzJeSA6m7JEPRBDpd38'
+# file_id = '1ZKaPqJHjOW9mzwYEVwr6eR35p5Jn-nHk'
+# file_id = '1ZdyzJYrMPEv-sVXdx1LCooP4V5CjZFjw'
+# file_id = '1ZblEw5EYcmLiW3QDqvR5btIEC41wLcaa'
+file_id = '1QpYUQF0cjmYdVghoZ0n-mHjB4C60NLOv'
+# https://drive.google.com/file/d/1QpYUQF0cjmYdVghoZ0n-mHjB4C60NLOv/view?usp=drivesdk
 
-if document_bytes:
-    document_str, document = BytesReader().read_document(document_bytes)
-    with open(f'documents/{document_id}.txt', 'w', encoding='utf8') as f:
-        f.write(document_str)
+drive = Drive()
+bytes_reader = BytesReader()
 
-padroes = [
-    # Para o formato "DD/MM/YYYY"
-    r"Rio de Janeiro,"
-    r"\s+(\d{2}/\d{2}/\d{4})",
-    # Para o formato "DD de mês de YYYY"
-    r"Rio de Janeiro,"
-    r"\s+(\d{1,2})\s+de\s+(janeiro|fevereiro|março|abril|maio|junho|"
-    r"julho|agosto|setembro|outubro|novembro|dezembro)\s+de\s+(\d{4})"
-]
+document_bytes, document_id = drive.get_file_media_by_id(file_id)
 
-padroes_compilados = [re.compile(padrao, re.IGNORECASE) for padrao in padroes]
-datas_encontradas = []
-for pc in padroes_compilados:
-    datas_encontradas.extend(pc.findall(document_str))
-print(datas_encontradas)
+if not document_bytes:
+    raise ValueError('Document not found')
+
+document_str, document = bytes_reader.read_document(document_bytes)
+date_compiler = DateCompiler(document_str, document_id)
+date_compiler.compile_dates()
+
+
+
+
+with open(f'documents/{document_id}.txt', 'w', encoding='utf8') as f:
+    f.write(document_str)

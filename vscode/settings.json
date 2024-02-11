@@ -3,7 +3,7 @@
     "editor.hover.enabled": true,
     "workbench.startupEditor": "none",
     "explorer.compactFolders": false,
-    "terminal.integrated.fontSize": 24,
+    "terminal.integrated.fontSize": 16,
     "editor.rulers": [
         80,
         120

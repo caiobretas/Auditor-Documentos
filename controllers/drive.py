@@ -18,7 +18,8 @@ class Drive:
         self.service: Resource = build('drive', 'v3', credentials=CREDS)
 
     def get_file_media_by_id(self,
-                             file_id) -> Union[None, Tuple[io.BytesIO, str]]:
+                             file_id) -> Union[Tuple[None, None],
+                                               Tuple[io.BytesIO, str]]:
         """Retorna um objeto ByteIO pelo seu ID."""
         try:
             request = self.service.files().get_media(
@@ -41,7 +42,7 @@ class Drive:
 
         except HttpError as he:
             logging.error(he)
-            return None
+            return None, None
 
     def get_files_by_folder_id(self, folder_id):
         """Listar todos os arquivos em um diretório e subdiretórios."""
@@ -57,7 +58,6 @@ class Drive:
                 supportsAllDrives=True,
                 includeItemsFromAllDrives=True).execute()
             files = response.get('files')
-            print(files)
             return response.get('files')
 
         except HttpError as he:
