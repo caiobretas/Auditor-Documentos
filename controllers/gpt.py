@@ -34,3 +34,5 @@ if __name__ == '__main__':
     dê a data de assinatura.
     '''
     gpt.ask('Rio de Janeiro, 11/02/2023')
+
+
