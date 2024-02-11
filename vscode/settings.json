@@ -32,11 +32,11 @@
     "python.languageServer": "Pylance",
     "python.formatting.autopep8Args": [
       "--indent-size=4",
-      "--max-line-length=80"
-      // "--ignore=E111"
+      "--max-line-length=80",
+      "--ignore=E111"
     ],
     "python.linting.flake8Args": [
-      // "--ignore=E111",
+      "--ignore=E111"
     ],
     "python.linting.flake8Enabled": true,
     // "python.linting.mypyEnabled": true,
