@@ -1,6 +1,7 @@
 import io
 import logging
 import os
+from typing import Tuple, Union
 
 from googleapiclient.discovery import Resource, build
 from googleapiclient.errors import HttpError
@@ -16,14 +17,14 @@ class Drive:
     def __init__(self):
         self.service: Resource = build('drive', 'v3', credentials=CREDS)
 
-    def get_file_media_by_id(self, file_id) -> io.BytesIO | None:
+    def get_file_media_by_id(self,
+                             file_id) -> Union[None, Tuple[io.BytesIO, str]]:
         """Retorna um objeto ByteIO pelo seu ID."""
         try:
             request = self.service.files().get_media(
                 fileId=file_id,
                 supportsAllDrives=True
             )
-
             fh = io.BytesIO()
             downloader = MediaIoBaseDownload(fh, request)
 
@@ -36,7 +37,7 @@ class Drive:
                 )
 
             fh.seek(0)
-            return fh
+            return fh, file_id
 
         except HttpError as he:
             logging.error(he)

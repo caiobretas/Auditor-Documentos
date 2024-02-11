@@ -1,15 +1,17 @@
 from io import IOBase
 
-import fitz
+from fitz import Document, fitz
 
 
 class BytesReader:
 
-    def __init__(self, bytes_obj: IOBase):
-        self.bytes_obj = bytes_obj
+    def __init__(self):
         self.position = 0
 
-    def read(self):
-        fh: IOBase = self.bytes_obj
-        pdf_document = fitz.open('pdf', fh.read())
-        print(pdf_document)
+    def read_document(self, bytes_obj: IOBase) -> tuple[str,Document]:
+
+        pdf_document: Document = fitz.open('pdf', bytes_obj.read())
+        text = ''
+        for page in pdf_document:
+            text += page.get_text()
+        return text, pdf_document
