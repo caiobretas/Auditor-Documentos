@@ -9,14 +9,7 @@ os.system('clear')
 os.system(f'export OPENAI_API_KEY={os.environ.get("OPENAI_API_KEY")}')
 # os.system('pip install --upgrade -r requirements.txt')
 
-# file_id = '1Cf47MCZInGnhGXzGbdBeXelfamZ9PU81'
-# file_id = '1ZUuB2vZlELOVxo2heZfxK_yBa5MLtZRU'
-# file_id = '1zsTrCG1hPGZFjlzJeSA6m7JEPRBDpd38'
-# file_id = '1ZKaPqJHjOW9mzwYEVwr6eR35p5Jn-nHk'
-# file_id = '1ZdyzJYrMPEv-sVXdx1LCooP4V5CjZFjw'
-# file_id = '1ZblEw5EYcmLiW3QDqvR5btIEC41wLcaa'
 file_id = '1QpYUQF0cjmYdVghoZ0n-mHjB4C60NLOv'
-# https://drive.google.com/file/d/1QpYUQF0cjmYdVghoZ0n-mHjB4C60NLOv/view?usp=drivesdk
 
 drive = Drive()
 bytes_reader = BytesReader()
