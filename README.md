@@ -6,6 +6,7 @@ O sistema consulta um banco de dados para obter metadados e Google IDs de docume
 
 ## Funcionalidades
 - Consulta automática a banco de dados de documentos.
+- Manejo do banco de dados com a SQLALCHEMY ORM
 - Integração com a Google Drive API para acesso e download de documentos PDF.
 - Extração de texto de documentos PDF usando PyMuPDF.
 - Processamento e análise de texto utilizando a OpenAI API.
