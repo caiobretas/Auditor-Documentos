@@ -1,5 +1,4 @@
 '''módulo com as entidades Document '''
-# from typing import List, Optional
 from datetime import date, datetime
 
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
@@ -34,7 +33,7 @@ class Document(Base):
         return f'{self.__class__.__name__}({attrs})'
 
 
-class DocumentVigency(Base):
+class Vigency(Base):
     '''representa a tabela signatures'''
 
     __tablename__ = 'vigencies'
@@ -57,7 +56,7 @@ class DocumentVigency(Base):
         return f'{self.__class__.__name__}({attrs})'
 
 
-class DocumentCategory(Base):
+class Category(Base):
     '''representa a tabela categories'''
 
     __tablename__ = 'categories'
@@ -80,7 +79,6 @@ class DocumentCategory(Base):
 
 if __name__ == '__main__':
     doc = Document(id=1)
-    cat = DocumentCategory(id=1)
-    vig = DocumentVigency(id=1)
-    print(vars(doc))
+    cat = Category(id=1)
+    vig = Vigency(id=1)
     print(doc, cat, vig)

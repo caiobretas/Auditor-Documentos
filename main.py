@@ -7,6 +7,7 @@ from models.date_compiler import DateCompiler
 
 os.system('clear')
 os.system(f'export OPENAI_API_KEY={os.environ.get("OPENAI_API_KEY")}')
+
 # os.system('pip install --upgrade -r requirements.txt')
 
 file_id = '1QpYUQF0cjmYdVghoZ0n-mHjB4C60NLOv'
