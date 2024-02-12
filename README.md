@@ -15,9 +15,11 @@ O sistema consulta um banco de dados para obter metadados e Google IDs de docume
 - Python 3.9+
 - Conta no Google Cloud com acesso à Google Drive e Gmail API
 - Acesso à API da OpenAI
-- Personalizar as entidades conforme necessidade em /entities
 
 ## Configuração
+- Personalizar as entidades conforme necessidade em /entities
+- Personalizar as classes de repositório dado as entidades em /repositories
+- Personalizar os padrões dos compilers em models/compilers
 
 ### Instalação de Dependências
 Instale todas as dependências necessárias com o seguinte comando:
