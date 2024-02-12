@@ -23,5 +23,5 @@ document_str, document = bytes_reader.read_document(document_bytes)
 date_compiler = DateCompiler(document_str, document_id)
 date_compiler.compile_dates()
 
-# with open(f'documents/{document_id}.txt', 'w', encoding='utf8') as f:
-#     f.write(document_str)
+with open(f'documents/{document_id}.txt', 'w', encoding='utf8') as f:
+    f.write(document_str)

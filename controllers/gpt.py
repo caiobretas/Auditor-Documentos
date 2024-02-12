@@ -26,13 +26,12 @@ class GPT:
         )
         print(completion.choices[0].message)
 
-if __name__ == '__main__':
-    os.system('clear')
-    gpt = GPT()
-    role_content = '''
-    A sua resposta deve ser composta de apenas 1 palavra, sempre.
-    dê a data de assinatura.
-    '''
-    gpt.ask('Rio de Janeiro, 11/02/2023')
-
+# if __name__ == '__main__':
+#     os.system('clear')
+#     gpt = GPT()
+#     role_content = '''
+#     A sua resposta deve ser composta de apenas 1 palavra, sempre.
+#     dê a data de assinatura.
+#     '''
+#     gpt.ask('Rio de Janeiro, 11/02/2023')
 

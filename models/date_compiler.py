@@ -47,11 +47,11 @@ class DateCompiler:
         found_dates = set()
         not_found_dates = set()
 
-        for cp in compiled_patterns:
-            for comp_date in cp.findall(self.document_str):
+        for comp_pattern in compiled_patterns:
+            for comp_date in comp_pattern.findall(self.document_str):
                 try:
                     # as vezes o doc tem 2 datas de assinatura
-                    # ex https://drive.google.com/file/d/1QpYUQF0cjmYdVghoZ0n-mHjB4C60NLOv/view
+                    # ex 1QpYUQF0cjmYdVghoZ0n-mHjB4C60NLOv
                     if len(comp_date) == 3:  # Formato DD/MM/YYYY e DD/mês/YYYY
                         day, month, year = comp_date
                         month_number = self._month_mapping.\
@@ -62,7 +62,7 @@ class DateCompiler:
 
                 except ValueError as e:
                     logging.\
-                        error('Erro ao processar a data: %s - %s', comp_date, e)
+                        error('Erro processando a data: %s - %s', comp_date, e)
                     not_found_dates.add((self.document_id, None))
 
         return found_dates

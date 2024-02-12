@@ -15,7 +15,7 @@ KEY = os.environ.get('GOOGLE_DRIVE_KEY')
 class Drive:
     '''classe responsável pelas requisições com a Google'''
     def __init__(self):
-        self.service: Resource = build('drive', 'v3', credentials=CREDS)
+        self.service = build('drive', 'v3', credentials=CREDS)
 
     def get_file_media_by_id(self,
                              file_id) -> Union[Tuple[None, None],
@@ -57,12 +57,7 @@ class Drive:
                 pageSize=1000,
                 supportsAllDrives=True,
                 includeItemsFromAllDrives=True).execute()
-            files = response.get('files')
             return response.get('files')
 
         except HttpError as he:
             logging.error(he)
-            files = None
-
-        finally:
-            return files
