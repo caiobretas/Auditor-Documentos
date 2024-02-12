@@ -21,4 +21,4 @@ Este repositório contém o código para um sistema automatizado de auditoria de
 ### Instalação de Dependências
 Instale todas as dependências necessárias com o seguinte comando:
 ```bash
-pip install -r requirements.txt
+pip install --upgrade -r requirements.txt
