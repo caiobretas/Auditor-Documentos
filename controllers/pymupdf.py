@@ -4,7 +4,8 @@ from fitz import Document, fitz
 
 
 class BytesReader:
-
+    '''Classe responsável por ler os bytes de um documento pdf
+    Retorna o objeto e sua String correspondente'''
     def __init__(self):
         self.position = 0
 
@@ -15,3 +16,4 @@ class BytesReader:
         for page in pdf_document:
             text += page.get_text()
         return text, pdf_document
+    

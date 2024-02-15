@@ -1,0 +1,452 @@
+ 
+1 
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS PARA CRIAÇÃO E MODELAGEM 3D DE 
+CENÁRIOS PARA USO EM PESQUISA DE COMPORTAMENTO DE CONSUMO E 
+GAMIFICAÇÃO NA PLATAFORMA ROBLOX. 
+ 
+LUMX STUDIOS LTDA., sociedade limitada, inscrita no CNPJ sob o nº 42.887.120/0001-00, 
+com sede à Rua Marechal Mascarenhas de Morais, nº 143, complemento 503, Copacabana, 
+CEP: 22.030-040, Rio de Janeiro/RJ, doravante denominada “Contratante”;  
+ 
+E, de outro lado, 
+ 
+ALEX RAMOS BARCELOS, microempreendedor individual, inscrito no CNPJ sob o nº 
+18.505.296/0001-68, com sede à Av. Cauduro, nº 57, apto. 403, Bom Fim, CEP: 90.035-110, 
+Porto Alegre/RS, doravante denominado “Contratado”.   
+ 
+Contratante e Contratado, quando em conjunto, denominados como “Partes” e, isoladamente, 
+como “Parte”. 
+ 
+CONSIDERANDO QUE: 
+ 
+a) 
+A Contratante é uma relevante startup do ramo digital, focada no desenvolvimento de 
+estruturas criptografada de NFT, softwares e demais produtos digitais inovadores; 
+ 
+b) 
+O Contratado é pessoa jurídica qualificada para atuar no desenvolvimento do projeto 
+e produção de ambiente para pesquisa de comportamento de consumo e gamificação na 
+plataforma ROBLOX (“Projeto”); 
+ 
+c) 
+A prestação de serviços entre Contratante e Contratado será intermediada pela 
+LITTLE DEVIL ENTERTAINMENT DESENVOLVIMENTO DE JOGOS LTDA ("Little Devil”), 
+responsável pela gerência do Projeto e condução dos contratos relacionados ("Contratos 
+Relacionados”); 
+ 
+d) 
+O presente instrumento é um Contrato Relacionado ao contrato firmado entre 
+Contratante e Little Devil, para desenvolvimento de ambiente para pesquisa de 
+comportamento de consumo e gamificação na plataforma ROBLOX; e 
+ 
+e) 
+As Partes se comprometem a envidar os melhores esforços para atender às 
+solicitações da The Coca-Cola Company (“Cliente Final”), cumprindo os prazos e demandas 
+do Projeto. 
+ 
+Resolvem as Partes, de comum acordo, celebrar o presente Contrato de Prestação de 
+Serviços (“Contrato”), documento que será redigido conforme os termos e condições abaixo: 
+ 
+ 
+Clicksign a82c2465-8a5c-4f96-be19-3cec68dad4f3
+2 
+ 
+01) OBJETO 
+ 
+I) 
+ O objeto do presente Contrato é a criação e modelagem 3D de cenários para uso no 
+Projeto (“Serviços”), para a Contratante pelo Contratado, de acordo com o escopo descrito no 
+item 2 (dois). 
+ 
+02) DETALHAMENTO DE ESCOPO 
+ 
+I) 
+Os Serviços consistirão no cumprimento das seguintes entregas, sem prejuízo de 
+outras demandas correlatas ao Projeto: 
+ 
+Entrega 1 
+ 
+a) 
+01 (um) Lobby; 
+b) 
+01 (um) Casa com quarto, sala, cozinha e banheiro; 
+c) 
+01 (um) Cenário para o jogo Maze Runner; 
+d) 
+01 (um) Cenário para o jogo Capture The Flag; 
+e) 
+01 (um) Cenário para o jogo Fly Adventures; 
+f) 01 (um) Cenário para o jogo Co-op Side Scroller; e 
+g) 
+01 (um) Cenário para o jogo Crazy Race. 
+ 
+ 
+Entrega 2 
+ 
+a) 
+04 (quatro) Mercados completos; 
+b) 
+01 (um) Cozinha completa; 
+c) 
+01 (um) Cenário para a dinâmica The Voice. 
+ 
+03) PRAZOS 
+ 
+I) 
+ O desenvolvimento dos Serviços descritos no item 2 (dois), Entrega 1, ocorrerá no 
+prazo de 70 (setenta) dias corridos, a contar do dia 11.10.2022, com duas entregas 
+intermediárias, a serem acordadas pelas Partes por escrito, respeitando o calendário do 
+Projeto.  
+ 
+II) 
+ O desenvolvimento dos Serviços descritos no item 2 (dois), Entrega 2, ocorrerá no 
+prazo de 70 (setenta) dias corridos, a contar do dia da assinatura do contrato, com duas 
+entregas intermediárias, a serem acordadas pelas Partes por escrito, respeitando o calendário 
+do Projeto.  
+ 
+III) 
+ Caso a Cliente Final do Projeto estabeleça um calendário alternativo ao entregue, os 
+prazos serão revistos, de comum acordo pelas Partes e por escrito, para o melhor 
+desempenho do Projeto. 
+ 
+Clicksign a82c2465-8a5c-4f96-be19-3cec68dad4f3
+3 
+04) INVESTIMENTO 
+ 
+I) 
+Pela prestação dos Serviços estabelecidos neste Contrato, a Contratante pagará à 
+Contratada a quantia fixa e irreajustável de R$ 45.000,00 (quarenta e cinco mil reais) 
+(“Preço”), na conta bancária abaixo, indicada no item “a”:  
+ 
+a) 
+O pagamento será efetuado em 2 parcelas, sendo a 1ª parcela de R$17.500,00 
+(dezessete mil e quinhentos reais), paga em 45 (quarenta e cinco) dias do kick-off do 
+projeto, acontecido no dia 03/10/2022, e a 2ª parcela, referente à R$ 27.500,00 (vinte e 
+sete mil e quinhentos reais), paga até dia 02.01.2023, mediante transferência bancária 
+na conta do Contratado: Banco do Brasil, Agência: 3876-8, Conta Corrente: 40409-8; 
+e/ou PIX: CPF 116.850.457-07. 
+ 
+II) 
+A nota fiscal relativa aos Serviços prestados será encaminhada pelo Contratado à 
+Contratante para o endereço de e-mail financeiro@lumxstudios.com até 15 (quinze) dias 
+antes do seu respectivo vencimento. Caso seja constatado algum erro nas notas fiscais, serão 
+as mesmas devolvidas e os respectivos pagamentos serão sustados até sua efetiva correção, 
+sem que isso implique na paralisação dos Serviços, ou qualquer reajuste ou multa à 
+Contratante se o pagamento, em virtude do erro constatado, ocorrer após a data de seu 
+vencimento. 
+ 
+III) 
+Na hipótese de atraso no pagamento por culpa exclusiva da Contratante, será devida 
+multa moratória equivalente a 2% (dois por cento), acrescida de correção monetária com base 
+na variação do IPCA/IBGE e juros de 1% (um por cento) ao mês, sobre o valor em atraso. 
+ 
+IV) 
+Em caso de atraso na entrega dos Serviços conforme calendário do Projeto, será 
+devida multa moratória pelo Contratado equivalente a 10% (dez por cento) sobre o valor pago. 
+ 
+V) 
+A remuneração do Contratado indicada neste Contrato poderá ser revista, de comum 
+acordo pelas Partes, caso ocorram: a) alterações, substanciais, no briefing ou na 
+complexidade do trabalho; b) alterações nos prazos estabelecidos decorrentes de atraso por 
+parte da Contratante na entrega de materiais ou aprovações necessárias ao desenvolvimento 
+do trabalho; c) atraso ou descumprimento dos prazos e obrigações estipulados e/ou 
+solicitados pela Contratante; e d) modificações no escopo, que venham a ser solicitadas, após 
+entrega parcial ou entrega final, já aprovada. 
+ 
+05) RESCISÃO 
+ 
+I) 
+Em caso de rescisão do Contrato por culpa da Contratada, incidirá sobre esta multa 
+equivalente ao valor integral do Preço estabelecido na Cláusula 4ª. 
+ 
+II) 
+O presente Contrato também poderá ser rescindido pelas Partes, sem qualquer ônus 
+pela rescisão, independentemente de envio de notificação prévia, nos seguintes casos: 
+ 
+Clicksign a82c2465-8a5c-4f96-be19-3cec68dad4f3
+4 
+a) 
+Quando decretada a falência ou insolvência de umas das Partes; ou 
+b) 
+Caso qualquer das Partes seja envolvida, por qualquer forma, em processo 
+e/ou procedimento que (i) possa prejudicar a imagem da outra Parte, ou (ii) envolva 
+ilícito, fraude, corrupção ou similar. 
+ 
+06) PROPRIEDADE INTELECTUAL 
+ 
+I) 
+Para fins deste Contrato, considera-se Propriedade Intelectual todos os direitos de 
+propriedade industrial, direitos autorais e conexos, e direitos sobre os softwares. Todos os 
+direitos de Propriedade Intelectual relacionados aos Serviços pertencem exclusivamente à 
+Contratante, incluindo, mas não se limitando às invenções de qualquer natureza, softwares, 
+códigos, patentes, modelos de utilidade, desenhos industriais, marcas, bibliotecas, interfaces, 
+nomes comerciais, nomes de domínio, bancos de dados, design, know-how, segredos 
+comerciais e direitos autorais. 
+ 
+II) 
+Ficam assegurados à Contratante todos os Direitos de Propriedade Intelectual sobre 
+qualquer fruto da presente prestação de Serviços, inclusive eventuais atualizações, 
+adaptações, melhorias e sugestões relacionadas à prestação de serviços que tenham sido 
+desenvolvidas sob a égide deste Contrato, inclusive caso este instrumento seja rescindido 
+antecipadamente, sendo vedado ao Contratado realizar qualquer ato que possa ser 
+considerado infração de Propriedade Intelectual ou de qualquer forma, usufruir, copiar, 
+utilizar, transferir, armazenar, imitar, gravar, sincronizar, editar, modificar, realizar engenharia 
+reversa, compilar, descompilar, reproduzir, ceder, licenciar, se apropriar, apagar, alterar e 
+modificar a Propriedade Intelectual, no todo ou em parte, sem prévia e expressa autorização 
+da Contratante, sejam estas atividades desempenhadas por si próprio ou por quaisquer 
+terceiros que venha a dar ou permitir acesso, ainda que de forma incidental. 
+ 
+III) 
+O Contratado reconhece e concorda que qualquer invenção, obra, criação que 
+prepare, faça, crie, desenvolva, conceba ou reduza à prática, sozinha ou em conjunto com 
+outros prestadores de serviço, durante a vigência deste Contrato, seja utilizando-se dos 
+recursos, equipamentos, instalações, suprimentos, conhecimentos, segredos de negócio, 
+tecnologias, softwares, propriedades intelectuais, dados ou materiais da Contratante ou não, 
+se protegível por direitos de propriedade intelectual ou não, incluindo segredos de negócio, 
+know-how, fluxos, melhorias, entre outros que (i) resultem ou estejam relacionadas aos 
+Serviços realizados pelo Contratado para a Contratante; (ii) resultem de atividades e 
+pesquisas realizadas dentro das instalações da Contratante, ou com os recursos, tecnologia, 
+propriedade intelectual, instalações e equipamentos da Contratante; mesmo em casos em 
+que o Contratado proceda com o ato de criação fora das instalações da Contratante, contanto 
+que ocorra em conexão à Contratante e/ou à Propriedade Intelectual da Contratante; ou (iii) 
+estejam direta ou indiretamente relacionadas ao negócio da Contratante ou às suas 
+atividades, serão de única e exclusiva propriedade da Contratante. 
+ 
+Clicksign a82c2465-8a5c-4f96-be19-3cec68dad4f3
+5 
+IV) 
+O Contratado declara não deter quaisquer direitos sobre a Propriedade Intelectual 
+decorrente de suas criações, restando-lhe resguardados apenas seus direitos morais, caso 
+expressamente aplicáveis nos termos das leis vigentes. 
+ 
+V) 
+Aplicam-se à presente relação entre o Contratado e a Contratante, além das normas 
+dispostas pelo Código Civil, a Lei nº 5.988/73 (“Lei de Direitos Autorais”) e Lei 9.279/96 (“Lei 
+da Propriedade Industrial”) e a Lei n° 9.609/98 (“Lei de Software”) que, em conjunto, regulam 
+a atividade objeto do presente contrato. 
+ 
+VI) 
+Convencionam as Partes, pelo presente instrumento, que estão autorizadas à 
+utilização recíproca de suas marcas e denominações sociais, em decorrência deste Contrato, 
+tão somente com a finalidade de uso interno e/ou institucional, bem como para a composição 
+de portfólio de clientes. 
+ 
+06) PROTEÇÃO DE DADOS 
+ 
+I) 
+ As Partes, por si e por seus colaboradores, obrigam-se, sempre que aplicável, a 
+atuarem no presente Contrato em conformidade com a legislação vigente sobre proteção de 
+dados relativos a uma pessoa física (“Titular”) identificada ou identificável (“Dados Pessoais”) 
+e as determinações de órgãos reguladores / fiscalizadores sobre a matéria, em especial mas 
+sem se limitar à Lei Federal nº 13.709/2018 (“Lei Geral de Proteção de Dados”), o que inclui 
+os dados, pertinentes aos Serviços, dos clientes e colaboradores da Contratante e/ou do 
+Contratado, inclusive seus sócios. 
+ 
+ 
+ 
+ 
+07) DISPOSIÇÕES GERAIS 
+ 
+I) 
+Todas as obrigações assumidas neste Contrato possuem caráter irrevogável e 
+irretratável, sendo que as Partes se obrigam por si e seus sucessores a cumprir, sem 
+restrições, todos os termos e condições do presente Contrato. 
+ 
+II) 
+As Partes são independentes e nenhuma disposição no presente Contrato deverá ser 
+interpretada no sentido de sugerir a existência de uma joint venture, ou qualquer tipo de 
+participação societária, relação de emprego ou sociedade entre as Partes ou em nome destas. 
+ 
+III) 
+O objeto deste Contrato configura trabalho autônomo de prestação de serviços, não 
+gerando qualquer vínculo trabalhista, inexistindo subordinação hierárquica ou pessoalidade 
+na prestação dos Serviços.  
+ 
+IV) 
+As Partes reconhecem expressamente e concordam que a presente contratação não 
+caracteriza compromisso de exclusividade de uma à outra, respeitado o escopo do Projeto, 
+permitindo à Contratante, a seu critério, fazer outras contratações de natureza similar. 
+Clicksign a82c2465-8a5c-4f96-be19-3cec68dad4f3
+6 
+ 
+V) 
+Toda e qualquer renúncia, alteração, dispensa ou modificação de qualquer direito, 
+obrigação, termo ou condição da contratação só será válida e vinculante se efetuada por 
+escrito e assinada pelas Partes.  
+ 
+VI) 
+O Contratado agirá atendendo sempre às normas éticas de sua categoria profissional, 
+bem como manterá absoluto sigilo das informações, que lhe forem passadas pela Contratante 
+em decorrência do Projeto por 3 (três) anos a contar da assinatura deste Contrato. 
+ 
+VII) 
+Na hipótese de ser declarada nula ou inválida qualquer cláusula constante deste 
+Contrato, tal declaração não afetará as demais disposições deste Contrato que permanecerão 
+em vigor.  
+ 
+VIII) 
+O não exercício de qualquer direito previsto neste Contrato, bem como a falta ou 
+atraso, pelas Partes, no exercício total ou parcial de quaisquer poderes ou direitos contratuais, 
+não constituirá renúncia a tais poderes ou direitos, nem poderá ser alegado pela outra Parte 
+como precedente e nem constituirá novação. 
+ 
+IX) 
+É vedada a cessão ou subcontratação dos Serviços pelo Contratado, no todo ou em 
+parte, a terceiros, sem a prévia e expressa anuência da Contratante. 
+ 
+X) 
+Todas as notificações e comunicações a serem realizadas entre as Partes, 
+decorrentes deste Contrato, deverão ser efetuadas por escrito e entregues (i) pessoalmente, 
+(ii) via carta registrada, (iii) por meio de cartório de registro de títulos e documentos, ou (iv) 
+via 
+correio 
+eletrônico, 
+no 
+endereço 
+de 
+e-mail 
+financeiro@lumxstudios.com 
+ou 
+juridico@lumxstudios.com 
+se 
+para 
+a 
+Contratante 
+e 
+no 
+endereço 
+de 
+e-mail  
+alexrbrcls@gmail.com se para o Contratado.  
+XI) 
+ 
+a) 
+Qualquer alteração nos endereços e informações mencionados no item acima 
+deverá ser prontamente informada, sob pena de a notificação ou a comunicação 
+encaminhada para os dados não atualizados ser considerada recebida e válida. 
+ 
+XII) 
+Este instrumento, assinado pelas Partes e pelas testemunhas abaixo identificadas, 
+configura título executivo, de modo que todos os débitos e obrigações de fazer e não fazer 
+dele decorrentes poderão ser objeto de ação de execução específica. 
+ 
+XIII) 
+Os signatários abaixo declaram, sob as penas da lei civil e penal, que possuem todas 
+as autorizações necessárias para representar as Partes contratantes e firmar o presente 
+Contrato em nome destas. 
+ 
+XIV) 
+As Partes reconhecem a forma de contratação por meios eletrônicos como válida e 
+eficaz, mesmo que feita com assinatura eletrônica ou certificação fora dos padrões ICP-Brasil, 
+nos termos do art. 10, §2º, da Medida Provisória nº 2.200/2001. 
+ 
+Clicksign a82c2465-8a5c-4f96-be19-3cec68dad4f3
+7 
+XV) 
+Elegem as partes o foro da comarca da capital do Rio de Janeiro, com exclusão de 
+qualquer outro, por mais privilegiado que seja, para dirimir eventuais dúvidas surgidas em 
+decorrência do presente ajuste. 
+ 
+E, por estarem justas e contratadas, as Partes assinam o presente instrumento, na presença 
+de 2 (duas) testemunhas que também o subscrevem. 
+ 
+Rio de Janeiro, 08 de dezembro de 2022. 
+ 
+ 
+ 
+LUMX STUDIOS LTDA. 
+ 
+ 
+ALEX RAMOS BARCELOS 
+Testemunhas: 
+ 
+ 
+1. Nome: Caio Diniz Bretas 
+CPF: 150.712.927-00 
+ 
+2. Nome: Michel Ruthenberg 
+Goldberg 
+CPF: 160.306.787-60 
+ 
+ 
+Clicksign a82c2465-8a5c-4f96-be19-3cec68dad4f3
+CONTRATO LUMX_LD - Alex.docx
+Documento número #a82c2465-8a5c-4f96-be19-3cec68dad4f3
+Hash do documento original (SHA256): b51ff79f6c6fd13991ca6b59d87f2d17fbf52ef8c44ca44a88da0155ab09ffae
+Assinaturas
+Michel Ruthenberg Goldberg
+CPF: 160.306.787-60
+Assinou como testemunha em 08 dez 2022 às 19:56:00
+Caio Diniz Bretas
+CPF: 150.712.927-00
+Assinou como testemunha em 08 dez 2022 às 14:08:55
+Caio Barbosa Zacarias
+CPF: 162.868.767-31
+Assinou como parte em 08 dez 2022 às 14:08:11
+ALEX RAMOS BARCELOS
+CPF: 116.850.457-07
+Assinou como parte em 09 dez 2022 às 11:01:30
+Log
+08 dez 2022, 14:07:38
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 criou este documento número a82c2465-8a5c-4f96-be19-3cec68dad4f3. Data
+limite para assinatura do documento: 07 de janeiro de 2023 (14:02). Finalização automática após
+a última assinatura: não habilitada. Idioma: Português brasileiro.
+08 dez 2022, 14:07:43
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 adicionou à Lista de Assinatura:
+michel@lumxstudios.com para assinar como testemunha, via E-mail, com os pontos de
+autenticação: Token via E-mail; Nome Completo; CPF; endereço de IP. Dados informados pelo
+Operador para validação do signatário: nome completo Michel Ruthenberg Goldberg e CPF
+160.306.787-60.
+08 dez 2022, 14:07:43
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 adicionou à Lista de Assinatura:
+caio.bretas@lumxstudios.com para assinar como testemunha, via E-mail, com os pontos de
+autenticação: Token via E-mail; Nome Completo; CPF; endereço de IP. Dados informados pelo
+Operador para validação do signatário: nome completo Caio Diniz Bretas e CPF 150.712.927-00.
+Datas e horários em GMT  -03:00 Brasilia
+Log gerado em 13 de dezembro de 2022. Versão v1.18.1.
+a82c2465-8a5c-4f96-be19-3cec68dad4f3
+Página 1 de 2 do Log
+08 dez 2022, 14:07:43
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 adicionou à Lista de Assinatura:
+caio@lumxstudios.com para assinar como parte, via E-mail, com os pontos de autenticação:
+Token via E-mail; Nome Completo; CPF; endereço de IP. Dados informados pelo Operador para
+validação do signatário: nome completo Caio Barbosa Zacarias e CPF 162.868.767-31.
+08 dez 2022, 14:07:43
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 adicionou à Lista de Assinatura:
+alexrbrcls@gmail.com para assinar como parte, via E-mail, com os pontos de autenticação:
+Token via E-mail; Nome Completo; CPF; endereço de IP.
+08 dez 2022, 14:08:11
+Caio Barbosa Zacarias assinou como parte. Pontos de autenticação: Token via E-mail
+caio@lumxstudios.com. CPF informado: 162.868.767-31. IP: 201.44.93.2. Componente de
+assinatura versão 1.419.0 disponibilizado em https://app.clicksign.com.
+08 dez 2022, 14:08:56
+Caio Diniz Bretas assinou como testemunha. Pontos de autenticação: Token via E-mail
+caio.bretas@lumxstudios.com. CPF informado: 150.712.927-00. IP: 201.17.85.82. Componente
+de assinatura versão 1.419.0 disponibilizado em https://app.clicksign.com.
+08 dez 2022, 19:56:00
+Michel Ruthenberg Goldberg assinou como testemunha. Pontos de autenticação: Token via E-
+mail michel@lumxstudios.com. CPF informado: 160.306.787-60. IP: 201.17.85.82. Componente
+de assinatura versão 1.419.0 disponibilizado em https://app.clicksign.com.
+09 dez 2022, 11:01:31
+ALEX RAMOS BARCELOS assinou como parte. Pontos de autenticação: Token via E-mail
+alexrbrcls@gmail.com. CPF informado: 116.850.457-07. IP: 189.6.244.19. Componente de
+assinatura versão 1.420.0 disponibilizado em https://app.clicksign.com.
+13 dez 2022, 13:03:16
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 finalizou o processo de assinatura. Processo de assinatura concluído para o
+documento número a82c2465-8a5c-4f96-be19-3cec68dad4f3.
+Documento assinado com validade jurídica.
+Para conferir a validade, acesse https://validador.clicksign.com e utilize a senha gerada pelos signatários ou
+envie este arquivo em PDF.
+As assinaturas digitais e eletrônicas têm validade jurídica prevista na Medida Provisória nº. 2200-2 / 2001
+Este Log é exclusivo e deve ser considerado parte do documento nº a82c2465-8a5c-4f96-be19-3cec68dad4f3, com os efeitos
+prescritos nos Termos de Uso da Clicksign, disponível em www.clicksign.com.
+Datas e horários em GMT  -03:00 Brasilia
+Log gerado em 13 de dezembro de 2022. Versão v1.18.1.
+a82c2465-8a5c-4f96-be19-3cec68dad4f3
+Página 2 de 2 do Log

@@ -1,0 +1,965 @@
+CONTRATO DE LICENCIAMENTO COMERCIAL
+Pelo presente instrumento particular, de um lado:
+LUMX STUDIOS LTDA., sociedade limitada, inscrita no CNPJ/MF sob o nº 42.887.120/0001-00, com
+sede à Rua Voluntários da Pátria, nº 89, sala. 804, Ed. Empresarial Estação Botafogo, na cidade e
+Estado de Rio de Janeiro, CEP: 22270-000, neste ato representada na forma dos seus atos
+constitutivos (“Lumx”);
+E, de outro lado,
+FILME FILME CINEMA DIGITAL LTDA., pessoa jurídica de direito privado, inscrita no CNPJ/MF sob o nº
+37.579.004/0001-86, com sede na Rua Antônio Carlos, nº 288, Consolação, São Paulo/SP, neste ato
+representada na forma dos seus atos constitutivos (“FilmeFilme”).
+Lumx, quando em conjunto com a FilmeFilme, denominadas como “Partes” e, isoladamente, como
+“Parte”.
+CONSIDERANDO QUE:
+a)
+A Lumx é uma startup especializada em consultoria estratégica e desenvolvimento de
+produtos digitais e linhas de negócio com base em tecnologias, tais como Blockchain, NFTs e
+Metaverso;
+b)
+A FilmeFilme é uma plataforma de streaming de conteúdos audiovisuais digitais, os
+quais são disponibilizados aos usuários cadastrados na Plataforma (“Usuários”) através de
+assinatura mensal (“Plataforma”);
+c)
+API’s (Application-Programming Interface) significam interfaces de programação de
+aplicações, que são um conjunto de definições e protocolos para criação e integração de
+softwares de aplicações, incluindo (a) Contracts API e (b) Wallet API, ora licenciadas pela Lumx
+à FilmeFilme (“API’s”);
+d)
+A Lumx é a única e exclusiva detentora dos direitos de propriedade intelectual das
+API’s; e
+e)
+A FilmeFilme tem interesse em obter licença de uso dos API’s da Lumx, para integração
+junto a Plataforma.
+Resolvem as Partes, de comum acordo, celebrar o presente Contrato de Licenciamento Comercial
+(“Contrato”), que será regido conforme os termos e condições abaixo:
+Página 1 de 16
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+1.
+OBJETO
+1.1.
+Pelo presente Contrato, as Partes estabelecem as diretrizes para o licenciamento, pela Lumx
+para a FilmeFilme, a título oneroso, sem exclusividade, o direito intransferível e temporário, dos
+direitos de uso e exploração dos API’s, de forma limitada aos fins previstos neste Contrato, nos
+termos da Cláusula Sexta (Propriedade Intelectual) (“Licenciamento”) e da proposta comercial
+constante no Anexo I (“Proposta”), a qual desde já faz parte integrante do presente Contrato.
+1.2.
+A Lumx prestará suporte à FilmeFilme, visando a integração da Plataforma com as API´s, de
+modo a permitir que os Usuários (i) recebam NFTs como comprovante de suas assinaturas na
+Plataforma e (ii) criem carteiras virtuais privadas para verificação, gestão e transferência dos seus
+NFTs para carteiras externas das redes Ethereum e Polygon (“Integração”).
+1.3.
+Os API’s objeto do Licenciamento descrito na Cláusula 1.1 serão:
+a)
+Lumx Contracts API – Automatiza a criação, verificação, integração, edição e deploy de
+smart contracts a partir da abstração de variáveis e parâmetros pré-selecionados e
+customizáveis; e
+b)
+Lumx Wallet API – Permite a fácil criação de carteiras virtuais privadas para verificação,
+gestão e transferência de NFTs para carteiras externas (“Carteiras”), sem a necessidade de
+conhecimento prévio da tecnologia.
+1.4.
+No âmbito da Integração, a Lumx desenvolverá 02 (dois) smart contracts para a FilmeFilme
+sendo o primeiro para estipular regras para os NFTs já distribuídos e o segundo para NFTs que serão
+distribuídos após a Integração.
+1.4.1.
+As Partes poderão negociar o desenvolvimento de smart contracts adicionais,
+mediante aceite à Proposta específica enviada pela Lumx e independentemente de assinatura
+de novo contrato ou aditivo.
+1.5.
+A Lumx declara que: (i) é legítima e única titular dos direitos autorais relativos aos API’s e/ou
+titular dos direitos de comercialização dos API’s, e detém os conhecimentos técnicos e recursos
+necessários à prestação de serviços de manutenção e suporte técnico relativos aos API’s; (ii) tem
+poderes para licenciar os API’s ora acordados e deseja outorgar licença de uso dos API’s e prestar os
+serviços de suporte e manutenção, se necessários; (iii) possui infraestrutura suficiente para
+atendimento do objeto deste Contrato.
+2.
+LICENCIAMENTO
+Página 2 de 16
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+2.1.
+Caberá à FilmeFilme o desenvolvimento, lançamento e comercialização dos NFTs de sua
+propriedade, devendo a Lumx tão somente licenciar os direitos de uso das API’s listadas, bem como
+prestar o suporte necessário para a Integração.
+2.2.
+Fica desde já acordado que o Licenciamento previsto no presente Contrato se aplica a FILME
+FILME, sua Holding e demais empresas subsidiárias e coligadas no âmbito do objeto social
+Streaming-to-earning, streaming em geral e a comercialização e gestão de Ativos Digitais “NFTs” para
+os assinantes da plataforma de streaming dessas Companhias.
+2.2.1.
+Outrossim, a Lumx não autoriza, de qualquer modo, o sublicenciamento, cessão ou qualquer
+outra forma de transferência total ou parcial das API´s e/ou quaisquer direitos a elas relativos, a
+quaisquer terceiros fora do escopo da Cláusula 2.2 acima, sem a anuência prévia, expressa e por
+escrito da Lumx.
+2.3.
+É vedada a realização de qualquer modificação nas API´s pela FilmeFilme, ainda que com a
+finalidade de incorporar melhoramentos, upgrades ou updates, os quais somente poderão ser
+realizados pela Lumx na qualidade de titular dos direitos econômicos e intelectuais das API´s e suas
+funcionalidades.
+2.4.
+O Licenciamento das API´s inclui suporte técnico pelo prazo de validade deste Contrato, que
+será prestado por acesso remoto, em dias úteis que respeitem os feriados da cidade do Rio de
+Janeiro, das 10h às 19h. O suporte técnico é limitado a questões relacionadas ao uso dos recursos das
+API´s (“Suporte”).
+3.
+FUNCIONAMENTO DAS API’S LICENCIADAS
+3.1.
+O funcionamento das API’s dependerá de acesso à internet e a Lumx fornecerá aos Usuários
+acesso através da plataforma sob o domínio “protocol.lumxstudios.com”.
+3.1.1.
+Para concessão deste acesso, deverá a FilmeFilme enviar à Lumx os dados estritamente
+necessários à Integração, para que a Lumx realize a Integração com a Plataforma.
+3.1.2.
+A FilmeFilme é a única responsável por guardar e zelar pelos dados de acesso, não
+tendo a Lumx qualquer responsabilidade sobre estes.
+3.2.
+A FilmeFilme tem ciência de que o Lumx Wallet API é um programa sublicenciado de
+terceiros, não tendo a Lumx ingerência ou custódia sobre a Private Key desse API, e que eventuais
+problemas ou perdas de acesso à Wallet serão de responsabilidade exclusiva da empresa custodiante
+da chave privada.
+3.3.
+A Lumx se obriga a envidar todos os esforços para que as API´s estejam sempre atualizadas,
+seguras e livre de erros e falhas que possam acarretar a perda de conteúdo durante o período de
+Página 3 de 16
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+utilização. Contudo, os sistemas poderão sofrer interrupções ou paradas ocasionais, programadas ou
+não.
+3.3.1.
+No caso de paradas não programadas, a Lumx envidará todos os esforços para
+estabelecer a operacionalidade das API´s, desde que decorrentes do funcionamento das
+próprias API´s e que não estejam relacionadas a falha de terceiros, tais como provedores de
+serviço de internet.
+3.3.2.
+A Lumx poderá realizar atualizações, updates, upgrades ou aprimoramentos das API´s,
+devendo a FilmeFilme aceitá-las em caso de continuidade do uso.
+3.4.
+A Lumx não se responsabiliza por qualquer inaptidão da FilmeFilme, seus colaboradores e/ou
+seus Usuários em se conectar à internet e/ou em operar as API´s e suas funcionalidades, bem como
+por eventuais programas que a FilmeFIlme, seus colaboradores e/ou seus Usuários utilizem e que
+sejam incompatíveis com as API´s.
+4.
+FORMA E PRAZO DE PAGAMENTO
+4.1.
+As Partes estabelecem que, a título de remuneração pelo presente Contrato, a FilmeFilme
+deverá pagar à Lumx os valores mensais descritos na tabela abaixo, relativos à quantidade de
+Carteiras criadas pelos Usuários através da utilização da Lumx Wallet API (“Preço”):
+Nº DE CARTEIRAS
+VALOR MENSAL
+Até 50.000
+R$ 0,53 por usuário
+De 50.001 até 100.000
+R$ 0,40 por usuário
+De 100.001 até 250.000
+R$ 0,34 por usuário
+A partir de 250.000
+R$ 0,24 por usuário
+4.2.
+Os relatórios envolvendo a quantidade de Carteiras ficarão sob a responsabilidade da
+FilmeFilme, a qual deverá compartilhá-los com a Lumx até o último dia útil de cada mês.
+4.3.
+O pagamento do Preço deverá ser feito pela FilmeFilme mediante depósito bancário
+diretamente na conta bancária de titularidade da Lumx indicada oportunamente, servindo o
+comprovante bancário como recibo.
+4.3.1.
+A nota fiscal relativa ao Preço será encaminhada pela Lumx à FilmeFilme para
+pagamento até o 5º (quinto) dia útil de cada mês. Caso seja constatado algum erro nas notas
+fiscais, serão as mesmas devolvidas e os respectivos pagamentos serão sustados até sua efetiva
+correção, sem que isso implique em qualquer reajuste ou multa à FilmeFilme se o pagamento,
+em virtude do erro constatado, ocorrer após a data de seu vencimento.
+Página 4 de 16
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+4.3.2.
+Na hipótese de atraso no pagamento por culpa exclusiva da FilmeFilme, será devida
+multa moratória equivalente a 2% (dois por cento), acrescida de correção monetária com base
+na variação do IPCA/IBGE e juros de 1% (um por cento) ao mês, sobre o valor em atraso.
+4.3.3.
+Caso a fatura/nota fiscal seja apresentada com atraso, o pagamento poderá ser
+postergado por prazo equivalente ao do atraso.
+4.4.
+Na hipótese de atraso no pagamento do Preço por período superior a 60 (trinta) dias durante
+os quatro primeiros meses, contados da data de assinatura, sendo a partir do quinto mês serão de 30
+(trinta) dias, por culpa exclusiva da FilmeFilme, a Lumx poderá, a seu único e exclusivo critério:
+(i)
+Suspender a Integração e o Licenciamento das API´s; e/ou
+(ii)
+Rescindir o presente Contrato de pleno direito.
+4.4.1.
+Na ocorrência de qualquer das hipóteses previstas na cláusula 4.4 acima, a FilmeFilme
+deverá permanecer responsável por pagar à Lumx os valores do Preço inadimplidos,
+observadas as regras de correção e atualização monetária previstas na cláusula 4.3.2. acima,
+bem como pelas demais obrigações previstas neste Contrato.
+4.5.
+O Preço é fechado, incluindo as despesas regulares necessárias à consecução do objeto do
+presente Contrato, e inclui a remuneração total devida à Lumx pelo cumprimento de todas as
+obrigações por esta assumidas, bem como todos os custos diretos e indiretos, além dos tributos
+incidentes.
+4.6.
+Para que seja reembolsado, qualquer custo/despesa extraordinário que a Lumx venha a
+incorrer em decorrência da execução do presente Serviços deverá ser prévia e expressamente
+autorizado pela FilmeFilme e devidamente comprovado pela Lumx.
+5.
+PRAZO
+5.1.
+O presente Contrato terá início de vigência a partir da data de sua assinatura, passando a
+vigorar por prazo indeterminado (“Prazo”).
+6.
+DA PROTEÇÃO DA PROPRIEDADE INTELECTUAL - LUMX
+6.1.
+A FilmeFilme reconhece que toda e qualquer Propriedade Intelectual direta ou indiretamente
+relacionadas às API´s, no todo ou em parte, atual ou futura, pertencem exclusivamente à Lumx,
+independente de terem sido registradas ou não, incluindo, mas não se limitando a conhecimentos
+técnicos, know-how, patente, marcas, direitos autorais, códigos fontes, softwares, aplicativos,
+Página 5 de 16
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+modelagem de dados, tecnologia, segredo do negócio, invenções, desenhos industriais, layouts,
+interfaces, materiais, conteúdos e qualquer outro dado e/ou informação utilizada na execução do
+objeto deste Contrato, ou à Lumx devidamente licenciados por terceiros (“Propriedade Intelectual”),
+não podendo ser utilizadas para qualquer outro fim que não o expressamente previsto neste
+Contrato, sob pena de responsabilização direta da FilmeFilme por todos os danos causados à Lumx,
+seja diretamente pela FilmeFilme ou por terceiros a ela relacionados.
+6.2.
+A FilmeFilme expressamente declara estar ciente de que o presente Contrato não importa
+qualquer transferência, cessão, direito de uso e exploração, total ou parcial de qualquer Propriedade
+Intelectual não expressamente previstos neste instrumento, sendo absolutamente vedado qualquer
+outro uso ou acesso à Propriedade Intelectual, bem como a condução de qualquer ato ou omissão
+que possam ser considerados violação deste instrumento, da Propriedade Intelectual e das normas
+de concorrência, incluindo, mas não se limitando ao acesso indevido aos códigos, repositórios e
+infraestrutura dos Programas, engenharia reversa, cópia, imitação, reprodução ou comercialização de
+qualquer dos conteúdos das trilhas de desenvolvimento, sublicenciamento das API´s fora dos
+contextos desta parceria, como perante terceiros e/ou para ambientes externos ao uso das API´s;
+cópia, reprodução ou imitação das marcas, identidade visual, trade dress, look and feel, das API´s e da
+Lumx; divulgação, permissão de acesso e transmissão de informações confidenciais e sensíveis acerca
+do modelo de negócio e know-how da Lumx; dentre outros.
+6.3.
+A FilmeFilme declara estar ciente de que a licença de uso da Propriedade Intelectual objeto
+deste Contrato possui um caráter restrito, sendo vedada qualquer utilização das API´s para além do
+absolutamente necessário para a execução da Integração.
+6.4.
+Para todos os fins e efeitos de direito a FilmeFilme será a única e exclusiva responsável por
+qualquer violação deste Contrato, da legislação vigente e/ou da propriedade intelectual da Lumx,
+bem como por eventuais danos materiais ou reputacionais causados a Lumx, à Propriedade
+Intelectual e às API´s em decorrência de qualquer utilização inadequada destes que excedam os
+limites indicados na cláusula 6.3. acima, seja por atos ou omissões próprias, seja por atos e omissões
+de seus colaboradores, sócios, prestadores de serviço, funcionários, empresas coligadas, e quaisquer
+outros terceiros com os quais mantenha relações que possa interagir ou vir a ter acesso às API´s e
+Propriedade Intelectual da Lumx, em razão de suas relações com a FilmeFilme e/ou suas instalações,
+incluindo, mas não se limitando, aos termos previstos na cláusula 6.8.
+6.5.
+A FilmeFilme não poderá sublicenciar as API´s, sendo responsabilizada por qualquer uso
+indevido de marca, confusão ou associação indevida a que dê causa, inclusive sobre quaisquer atos
+que possam levar qualquer Cliente ou usuário a supor que as API´s sejam de titularidade da
+FilmeFilme, e/ou que a Lumx e a FilmeFilme sejam empresas relacionadas.
+6.6.
+A FilmeFilme deverá envidar os melhores esforços para manter a integridade material da
+Propriedade Intelectual e a reputação da Lumx e das API´s. Para tanto, deve validar previamente a
+utilização de marca em seus materiais de divulgação e marketing.
+Página 6 de 16
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+6.7.
+No caso de identificação de qualquer infração, suspeita de infração ou ameaça de direito,
+FilmeFilme deverá notificar a Lumx, indicando possíveis medidas a serem tomadas, para que esta
+possa avaliar o interesse, relevância e necessidade de atuação acerca dos fatos relatados.
+7.
+DA PROTEÇÃO DA PROPRIEDADE INTELECTUAL - FILMEFILME
+7.1.
+A Lumx reconhece que toda e qualquer Propriedade Intelectual ou Direito Autoral direta ou
+indiretamente relacionadas ao desenvolvimento de NFTs, demais Ativos Digitais e Artes Áudio Visual,
+no todo ou em parte, atual ou futura, pertencem exclusivamente à Filme Filme, independente de
+terem sido registradas ou não, incluindo, mas não se limitando a conhecimentos técnicos, know-how,
+patente, marcas, direitos autorais, códigos fontes, softwares, aplicativos, modelagem de dados,
+tecnologia, segredo do negócio, invenções, desenhos industriais, layouts, interfaces, materiais,
+conteúdos e qualquer outro dado e/ou informação utilizada na execução do objeto deste Contrato,
+ou à Filme Filme devidamente licenciados por terceiros (“Propriedade Intelectual ou Direito
+Autoral”), não podendo ser utilizadas para qualquer outro fim que não o expressamente previsto
+neste Contrato, sob pena de responsabilização direta da Lumx por todos os danos causados à Filme
+Filme, seja diretamente pela Lumx ou por terceiros a ela relacionados.
+7.2.
+A Lumx expressamente declara estar ciente de que o presente Contrato não importa
+qualquer transferência, cessão, direito de uso e exploração, total ou parcial de qualquer Propriedade
+Intelectual ou Direito Autoral não expressamente previstos neste instrumento, sendo absolutamente
+vedado qualquer outro uso ou acesso à Propriedade Intelectual ou Direito Autora, bem como a
+condução de qualquer ato ou omissão que possam ser considerados violação deste instrumento, da
+Propriedade Intelectual ou Direito Autora e das normas de concorrência, incluindo, mas não se
+limitando ao acesso indevido aos códigos, repositórios e infraestrutura dos Programas, engenharia
+reversa, cópia, imitação, reprodução ou comercialização de qualquer dos conteúdos (NFTs, demais
+Ativos Digitais, e Artes Áudio Visuais) fora dos contextos desta parceria, como perante terceiros e/ou
+para ambientes externos; cópia, reprodução ou imitação das marcas, identidade visual, trade dress,
+look and feel, dos NFTs, demais Ativos Digitais, e Artes Áudio Visuais e da FilmeFilme; divulgação,
+permissão de acesso e transmissão de informações confidenciais e sensíveis acerca do modelo de
+negócio e know-how da FilmeFilme; dentre outros.
+7.3.
+Para todos os fins e efeitos de direito a Lumx será a única e exclusiva responsável por
+qualquer violação deste Contrato, da legislação vigente e/ou da Propriedade Intelectual ou Direito
+Autoral da FilmeFilme, bem como por eventuais danos materiais ou reputacionais causados a
+FilmeFilme, à Propriedade Intelectual ou Direito Autora e às NFTs, demais Ativos Digitais e Artes
+Áudio Visuais em decorrência de qualquer utilização inadequada destes que excedam os limites
+indicados nessa cláusula, seja por atos ou omissões próprias, seja por atos e omissões de seus
+colaboradores, sócios, prestadores de serviço, funcionários, empresas coligadas, e quaisquer outros
+terceiros com os quais mantenha relações que possa interagir ou vir a ter acesso NFTs, demais Ativos
+Página 7 de 16
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+Digitais, e Artes Áudio Visuais e Propriedade Intelectual ou Direito Autoral da FilmeFilme, em razão
+de suas relações com a Lumx e/ou suas instalações.
+7.4.
+A Lumx não poderá sublicenciar, ceder ou realizar qualquer outra forma de transferência total
+ou parcial dos NFTs, demais Ativos Digitais e Artes Áudio Visual no âmbito da Propriedade Intelectual
+ou Direito Autora da FilmeFilme, sendo responsabilizada por qualquer uso indevido de marca,
+confusão ou associação indevida a que dê causa, inclusive sobre quaisquer atos que possam levar
+qualquer Cliente ou usuário a supor que os NFTs, demais Ativos Digitais e Artes Áudio Visual no
+âmbito da Propriedade Intelectual ou Direito Autora da FilmeFilme sejam de titularidade da Lumx,
+e/ou que a FilmeFilme e a Lumx sejam empresas relacionadas.
+7.5.
+A Lumx deverá envidar os melhores esforços para manter a integridade material da
+Propriedade Intelectual ou Direito Autoral e a reputação da FilmeFilme e dos NFTs, demais Ativos
+Digitais e Artes Áudio Visual. Para tanto, deve validar previamente a utilização de marca em seus
+materiais de divulgação e marketing.
+7.6.
+No caso de identificação de qualquer infração, suspeita de infração ou ameaça de direito,
+Lumx deverá notificar a FilmeFilme, indicando possíveis medidas a serem tomadas, para que esta
+possa avaliar o interesse, relevância e necessidade de atuação acerca dos fatos relatados.
+8.
+OBRIGAÇÕES DAS PARTES
+8.1.
+Sem prejuízo das demais obrigações previstas neste Contrato, a FilmeFilme deverá:
+a.
+Enviar todas as informações necessárias para que a Lumx possa executar o objeto do
+presente Contrato;
+b.
+Manter o sigilo das informações dos termos e condições estabelecidos neste Contrato;
+c.
+Realizar o pagamento do Preço em dia;
+d.
+Agir de acordo com a legislação, regulamentos e demais normas aplicáveis à
+consecução do objeto deste Contrato;
+e.
+Fornecer à Lumx, sempre que ocorrerem quaisquer problemas ou erros com as API´s,
+desde que possível, toda a documentação, relatórios e demais informações que individualizem
+as circunstâncias em que os problemas ocorreram, objetivando facilitar e agilizar os trabalhos
+de correção e aprimoramento dos mesmos;
+f.
+Zelar pelo conceito das marcas, produtos e serviços da Lumx, abstendo-se de qualquer
+ato ou omissão que direta ou indiretamente, cause ou possa causar descrédito, desprestígio ou
+Página 8 de 16
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+diminuição do valor das referidas marcas, produtos e serviços, sujeitando-se a indenizar perdas
+e danos diretos e indiretos que daí advierem;
+g.
+Não copiar, ceder, sublicenciar, dar em locação ou em garantia, reproduzir, doar, alienar
+de qualquer forma, transferir, total ou parcialmente, sob quaisquer modalidades, gratuita ou
+onerosamente, provisória ou permanentemente, as API´s;
+h.
+Preservar e a manter a Lumx à margem de reivindicações, queixas, ações, reclamações
+trabalhistas e representações de qualquer natureza, relativas às atividades realizadas pela
+FilmeFilme ou por terceiros por ela contratados para o cumprimento de obrigações perante os
+Usuários;
+i.
+Responsabilizar-se por todos os prejuízos diretos, inclusive indenizações, honorários
+advocatícios e demais encargos judiciais e extrajudiciais que a Lumx seja obrigada a incorrer
+em virtude de ato ou omissão decorrente da comercialização de NFTs pela FilmeFilme aos
+Usuários.
+8.2.
+Sem prejuízo das demais obrigações previstas neste Contrato, a Lumx deverá:
+a.
+Desenvolver e manter em funcionamento a Integração;
+b.
+Permitir acesso às API´s;
+c.
+Desenvolver os Smart Contracts;
+d.
+Prestar os serviços de Suporte nos moldes descritos na Cláusula 2.3. acima;
+e.
+Manter o sigilo das informações dos termos e condições estabelecidos neste Contrato;
+f.
+Agir de acordo com a legislação, regulamentos e demais normas aplicáveis à
+consecução do objeto deste Contrato.
+9.
+PROTEÇÃO DE DADOS
+9.1.
+As Partes concordam que deverão tratar os dados pessoais necessários à execução do
+Contrato única e exclusivamente para cumprir com a finalidade a que se destinam e em respeito a
+toda a legislação e normas técnicas aplicáveis sobre segurança da informação e proteção de dados,
+incluindo, mas não se limitando, às leis de proteção de dados do Brasil e especificas de cada país
+contratante no âmbito global.
+Página 9 de 16
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+9.2.
+Para fins de execução do presente Contrato, será realizada a transferência internacional de
+dados pessoais para o Brasil, aplicando-se as normas específicas de cada país contratante,
+respeitando sobretudo a Lei Geral de Proteção de Dados Pessoais nº 13.709/2018 (“LGPD”).
+9.2.1.
+A FilmeFilme compromete-se a notificar e solicitar qualquer autorização necessária
+junto as Agências de Proteção de Dados dos respectivos países contratantes e intermediados
+previamente à transferência de dados internacional de dados pessoais à Lumx no Brasil,
+devendo arcar com eventuais custos e taxas decorrentes da notificação e/ ou solicitação.
+9.3.
+As Partes tratarão os dados pessoais em conformidade com as instruções contidas no
+Contrato, seus aditivos e seus possíveis anexos. O tratamento deve ser restrito aos fins previstos no
+Contrato.
+9.4.
+A FilmeFilme não coletará, utilizará, acessará, manterá, modificará, divulgará, transferirá ou,
+de outra forma, tratará dados pessoais, sem a ciência e autorização da Lumx, assegurando que tais
+dados não sejam acessados, compartilhados ou transferidos para terceiros, incluindo subcontratados,
+agentes autorizados e afiliados sem o consentimento prévio e por escrito da Lumx.
+9.4.1.
+Caso a Lumx autorize o compartilhamento, a FilmeFilme deverá garantir que esses
+terceiros se obriguem, por escrito, a garantir a mesma proteção aos dados pessoais
+estabelecida neste Contrato, submetendo-os aos termos nele contidos.
+9.4.2.
+A FilmeFilme tratará os dados pessoais em observância a todas as leis que tratem
+sobre o tema, em especial à LGPD e as leis específicas de Proteção de Dados dos países
+contratantes e intermediados, bem como todas as políticas e normas aplicáveis à Lumx.
+9.4.3.
+A FilmeFilme fica responsável por todas as ações e omissões realizadas por estes
+terceiros, relativas ao tratamento dos dados pessoais como se as tivesse realizado.
+9.5.
+As Partes deverão adotar medidas de segurança, técnicas e administrativas, aptas a proteger
+os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição,
+perda, alteração, comunicação ou qualquer forma de tratamento inadequado ou ilícito.
+9.6.
+Em caso de violação ou suspeita de violação das obrigações, controles ou medidas de
+segurança e vazamento de dados, que possam gerar consequência ou dano, as Partes informarão à
+outra Parte em prazo determinado pela ANPD, ou outra Autoridade Supervisora competente, ou, na
+ausência, em até 24 (vinte e quatro) horas da ciência do fato e indicarão, ao menos, a natureza e
+categoria dos dados pessoais afetados, informações sobre os titulares atingidos, riscos identificados e
+medidas que foram ou que serão adotadas para reverter ou mitigar os efeitos do dano.
+9.7.
+A Parte que der causa ao dano manterá a Parte inocente indene em qualquer demanda,
+denúncia, reclamação e/ou procedimento, interposto pelo titular de dados pessoais e/ou por
+Página 10 de 16
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+qualquer autoridade administrativa ou judicial, em decorrência do descumprimento de suas
+obrigações.
+9.8.
+A Parte que tiver dado causa ao evento danoso obriga-se a indenizar a Parte inocente por
+perdas e danos, incluindo, mas sem se limitar a qualquer sanção que tenha recebido de qualquer
+autoridade, sem prejuízo das demais ações judiciais aplicáveis.
+9.9.
+Tendo em vista a natureza do presente Contrato, as Partes deverão auxiliar-se mutuamente
+com informações, sempre que necessário, a fim de responder quaisquer requisições relacionadas ao
+exercício dos direitos dos titulares previstos na LGPD, e em leis específicas dos países contratantes do
+serviço na América Latina, quando aplicáveis.
+10.
+INFORMAÇÕES CONFIDENCIAIS
+10.1.
+Compreende-se, na definição de "Informações Confidenciais", qualquer dado, metodologia,
+documentação e informação, quer sejam de natureza técnica, administrativa, comercial, jurídica,
+estratégica, ou ainda de natureza diversa, incluindo, sem limitação, as referências, condições
+comerciais, questões de ordem interna e/ou externa da Lumx, aspectos societários, econômicos, de
+execução de trabalhos, de posição mercadológica, de estrutura organizacional e/ou demais
+informações que forem reveladas a qualquer momento pela Lumx, de forma que serão tratadas em
+caráter de mais absoluto sigilo e confidencialidade, abstendo-se a FilmeFilme de promover a terceiros
+qualquer divulgação e/ou uso dessas informações, por menores que sejam, obrigando-se a não ceder,
+transferir, divulgar, fornecer, emprestar e/ou veicular, por quaisquer meios, todo o conteúdo que lhe
+seja disponibilizado.
+10.2.
+A divulgação das Informações Confidenciais só é permitida mediante autorização expressa ou
+por determinação judicial, ocasião em que a Parte notificada deverá comunicar a outra Parte em até
+24 (vinte e quatro) horas após a ciência.
+10.3.
+As Partes manterão sigilo absoluto sobre os dados, informações, documentos, ou qualquer
+outro que eventualmente tenham conhecimento em razão do presente Contrato, não podendo ser
+publicados, divulgados ou de outra forma, colocados à disposição, direta ou indiretamente a qualquer
+pessoa, exceto àqueles empregados, agentes ou contratados das Partes, que dele necessitem para o
+cumprimento deste Contrato.
+10.4.
+A divulgação de Informações Confidenciais somente será permitida quando:
+(a)
+a Parte comprovar que a informação já era do seu conhecimento, antes de ser recebida
+da outra Parte, não tendo por isso a obrigatoriedade de mantê-la confidencial;
+(b)
+a informação tiver sido legalmente obtida por terceiros, sem infringência de qualquer
+das disposições deste Contrato; ou
+Página 11 de 16
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+(c)
+a informação estiver ou tenha se tornado publicamente disponível de outra forma, que
+não em decorrência de qualquer ato ou omissão das Partes ou seus prepostos.
+10.5.
+Quando solicitada, as Partes comprometem-se a devolver, imediatamente, todo e qualquer
+tipo de material que lhe tenha sido entregue pela outra Parte e que contenha Informações
+Confidenciais.
+10.6.
+As Partes deverão usar as Informações Confidenciais somente para os fins para os quais lhe
+foram reveladas e deverá, ainda, cumprir todas as leis, regulamentos e restrições aplicáveis.
+10.7.
+O dever de confidencialidade ora assumido pelas Partes vigorará por todo o Prazo e, ainda,
+pelo prazo de 5 (cinco) anos, após o término deste Contrato.
+11.
+RESCISÃO
+11.1.
+O presente Contrato poderá ser resolvido imediatamente, nas hipóteses listadas abaixo, após
+o recebimento pela Parte infratora da competente notificação pela Parte inocente:
+(a)
+Descumprimento por qualquer das Partes, de qualquer obrigação contratual, desde
+que não sanada no prazo de 15 (quinze) dias a contar do recebimento, pela Parte infratora, do
+comunicado enviado pela Parte inocente;
+(b)
+Em caso de ser decretada falência, recuperação judicial ou recuperação extrajudicial,
+dissolução ou liquidação da FilmeFilme;
+(c)
+Caso qualquer das Partes tenha sua idoneidade financeira notoriamente abalada, de
+forma a prejudicar a fiel execução de suas obrigações; e
+(d)
+Nos demais casos previstos na legislação aplicável.
+11.2.
+Na ocorrência da hipótese prevista no item (a) acima, caso a Parte infratora não sane a
+infração no prazo estipulado, deverá a Parte infratora indenizar a Parte inocente de forma a reparar
+as perdas e danos comprovadamente sofridos por esta última, sem prejuízo das demais penalidades
+previstas neste Contrato.
+12.
+PENALIDADES
+12.1.
+A Parte que descumprir qualquer das obrigações relativas à Propriedade Intelectual previstas
+neste Contrato está sujeita ao pagamento, em favor da Parte inocente, de multa no valor equivalente
+R$30.000,00 (trinta mil reais), sem prejuízo do ajuizamento de ação própria para apuração das perdas
+Página 12 de 16
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+e danos comprovadamente incorridos, caso em que ficam desde já fixados os honorários de
+advogado em 20% (vinte por cento) do valor apurado em liquidação de sentença.
+12.2.
+As multas ora previstas não serão aplicáveis quando ocorrer situações envolvendo casos
+fortuitos ou de força maior, entendendo-se estes, para efeitos de Contrato, como fatos necessários,
+cujos efeitos não era possível evitar ou impedir e que impossibilitam o adimplemento das obrigações
+contratuais ora assumidas, vide artigo 393, parágrafo único do Código Civil Brasileiro, tais como,
+guerras, greves, sabotagens, incêndios, inundações, catástrofes naturais, explosões, revoluções,
+levantes populares e similares.
+12.3.
+Os casos fortuitos ou de força maior devem ser comunicados por escrito à outra parte no
+prazo de até 3 (três) dias, contados a partir de sua ocorrência, informando a extensão do fato e do
+prazo estimado durante o qual estará inabilitada a cumprir ou pelo qual será obrigada a atrasar o
+cumprimento de suas obrigações. A não comunicação da ocorrência do fato neste prazo e nos termos
+desta Cláusula acarretará a perda do direito de alegá-las.
+12.4.
+Cessados os efeitos de caso fortuito ou de força maior, a Parte afetada deverá, de imediato,
+notificar a outra para conhecimento desse fato, restabelecendo a situação original e a execução do
+Contrato. As Partes acordam que problemas de cunho econômico, como dificuldades financeiras e
+crises, não constituem situação de caso fortuito ou força maior para os fins deste Contrato, nem
+mesmo motivo justificado para qualquer atraso no cumprimento, pela parte contrária, de suas
+obrigações contratuais.
+13.
+DISPOSIÇÕES GERAIS
+13.1.
+Este Contrato constitui o inteiro entendimento entre as Partes em relação ao seu objeto,
+substituindo todos os entendimentos anteriores entre elas, inclusive comunicações e acordos verbais.
+13.2.
+As Partes são independentes e nenhuma disposição no presente Contrato deverá ser
+interpretada no sentido de sugerir a existência de uma joint venture, ou qualquer tipo de participação
+societária, relação de emprego ou sociedade entre as Partes ou em nome destas.
+13.3.
+O objeto deste Contrato configura trabalho autônomo de prestação de serviços, não gerando
+qualquer vínculo trabalhista, inexistindo subordinação hierárquica ou pessoalidade em sua execução.
+13.4.
+As Partes reconhecem expressamente e concordam que a presente contratação não
+caracteriza compromisso de exclusividade de uma à outra salvo em razão dos termos já descritos
+neste Contrato.
+13.5.
+A eventual tolerância, por qualquer das Partes, quanto ao inexato ou impontual cumprimento
+das obrigações da outra Parte não constitui renúncia ou novação de qualquer espécie, equivalendo
+tão somente à decisão de mera conveniência da Parte em questão.
+Página 13 de 16
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+13.6.
+Toda e qualquer renúncia, alteração, dispensa ou modificação de qualquer direito, obrigação,
+termo ou condição da contratação só será válida e vinculante se efetuada por escrito e assinada pelas
+Partes.
+13.7.
+Qualquer das Partes não poderá ceder, transferir, ou alienar, a qualquer título, no todo ou em
+parte, as obrigações e direitos decorrentes deste Contrato, sem o consentimento prévio, expresso e
+por escrito da outra Parte.
+13.8.
+Os signatários abaixo identificados declaram não existir em vigor nenhum contrato,
+obrigação, gravame ou ônus que impeça o cumprimento das obrigações assumidas neste Contrato.
+13.9.
+Todas as obrigações assumidas neste Contrato possuem caráter irrevogável e irretratável,
+sendo que as Partes se obrigam por si e seus sucessores a cumprir, sem restrições, todos os termos e
+condições do presente Contrato.
+13.10. A invalidade ou inaplicabilidade de quaisquer das Cláusulas e condições ora estabelecidas
+não afetará as demais disposições deste Contrato.
+13.11. As Partes mutuamente se obrigam a fornecer toda e qualquer informação necessária para o
+bom e fiel funcionamento deste Contrato.
+13.12. Sem prejuízo das obrigações ora estabelecidas e na legislação pertinente, cada Parte declara
+e garante: não realizar, direta ou indiretamente, qualquer pagamento, donativo ou concessão a (i)
+funcionário público, (ii) administrador, funcionário ou fornecedor da outra Parte, ou (iii) qualquer
+terceiro, que possa constituir uma violação à legislação aplicável.
+13.13. Todas as notificações e comunicações a serem realizadas entre as Partes, decorrentes deste
+Contrato, deverão ser efetuadas por escrito e entregues (i) pessoalmente, (ii) via carta registrada, (iii)
+por meio de cartório de registro de títulos e documentos, ou (iv) via correio eletrônico, no endereço
+de
+e-mail
+juridico@lumxstudios.com,
+se
+para
+a
+Lumx,
+e
+no
+endereço
+de
+e-mail
+admin@filmefilme.com.br se para a FilmeFilme.
+13.13.1.
+Qualquer alteração nos endereços e informações mencionados no item acima
+deverá ser prontamente informada, sob pena de a notificação ou a comunicação encaminhada
+para os dados não atualizados ser considerada recebida e válida.
+13.14. As Partes reconhecem a forma de contratação por meios eletrônicos como válida e eficaz,
+mesmo que feita com assinatura eletrônica ou certificação fora dos padrões ICP-Brasil, nos termos do
+art. 10, §2º, da Medida Provisória nº 2.200/2001.
+14.
+LEGISLAÇÃO E FORO
+Página 14 de 16
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+14.1.
+O presente Contrato é regido pelas leis da República Federativa do Brasil.
+14.2.
+As Partes elegem o Foro da Comarca da Capital do Rio de Janeiro, com renúncia a qualquer
+outro, por mais privilegiado que seja, para dirimir dúvidas e controvérsias oriundas do presente
+instrumento particular.
+E, por estarem justos e contratados, assinam o presente instrumento na presença de 2 (duas)
+testemunhas.
+Rio de Janeiro, 05 de Janeiro de 2023.
+______________________________________
+_
+LUMX STUDIOS LTDA.
+______________________________________
+_
+FILME FILME CINEMA DIGITAL LTDA.
+Testemunhas:
+____________________________________
+Nome: Caio Diniz Bretas
+CPF: 150.712.927-00
+______________________________________
+Nome: Max Rodrigo de Souza
+CPF: 107.025.067-88
+Página 15 de 16
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+ANEXO I
+PROPOSTA COMERCIAL
+Página 16 de 16
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+Representante
+Caio Barbosa
+Telefone
++55 21 98332-4039
+E-mail
+caio@lumxstudios.com
+FilmeFilme
+Proposta Comercial
+Clicksign 1b6ef5b3-ef7b-49c5-82e1-0d7b77d6b4fd
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+Caio Barbosa
+Caio Barbosa
+CO-CEO
+caio@lumxstudios.com
+Lugui Tillier
+Lugui Tillier
+CCO
+lugui.tillier@lumxstudios.com
+OVE RVI EW
+Com a convergência progressiva do mundo físico para o 
+online, a propriedade digital criada a partir de NFTs será a 
+chave das conexões humanas on/of-line.
+Web3 não se trata da nova internet, mas sim, de uma nova 
+maneira de construção na internet.
+Ser o passaporte para a FilmeFilme embarcar nessa 
+jornada é uma honra e ficamos à disposição para qualquer 
+esclarecimento necessário.
+Bem-vindos à Web3. Bem-vindos a fronteira da internet. 
+Vamos juntos!
+Atenciosamente,
+Intro
+01
+Clicksign 1b6ef5b3-ef7b-49c5-82e1-0d7b77d6b4fd
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+Representante
+Caio Barbosa
+Telefone
++55 21 98332-4039
+E-mail
+caio@lumxstudios.com
+OVE RVI EW
+O projeto consiste na integração da atual plataforma da 
+FilmeFilme com as APIs da Lumx, permitindo ao seus 
+usuários receberem NFTs como comprovante de suas 
+assinaturas. Para isso, serão utilizadas a Wallet API e 
+Contracts API, para que possam criar carteiras para seus 
+usuários, verificar os seus NFTs, e fazer envio de NFTs.
+Serão desenvolvidos 2 Smart Contracts, um para NFTs já 
+distribuidos e outro para os futuros. Será, ainda, fornecido 
+suporte técnico para o time de tecnologia da FilmeFilme.
+Briefing do projeto
+02
+Clicksign 1b6ef5b3-ef7b-49c5-82e1-0d7b77d6b4fd
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+Representante
+Lugui Tillier
+Telefone
++55 11 96763-0909
+E-mail
+lugui.tillier@lumxstudios.com
+OVE RVI EW
+O Lumx Protocol é um conjunto de APIs, plugins, 
+componentes e aplicações que permitem a construção, 
+gestão e análise de dados de aplicações e experiências em 
+NFT totalmente personalizadas de qualquer nível e 
+complexidade, permitindo a customização a nível 
+whitelabel, integração com fontes de dados on-chain e 
+off-chain, e interações tokengated com os mundos físico e 
+digital.
+Wallet API: Possibilita a criação, gestão e atribuição de carteiras nas 
+redes Ethereum e Polygon. Facilita a experiência do usuário ao 
+permitir a criação de conta e a interação com ambientes 
+decentralizados, garantindo sua segurança a partir da custódia de 
+suas private keys, porém permitindo a vinculação e/ou transferência 
+de ativos com carteiras externas.
+Contracts API: Automatiza a criação, verificação, integração, edição 
+e deploy de Smart Contracts a partir da abstração de variáveis e 
+parâmetros pré-selecionados e customizáveis.
+Analytics API: Coleta de dados on-chain e off-chain em real-time, 
+permitindo a criação de dashboards de dados que mesclam data-
+sources, filtragem e classificação de usuários, atribuição de scores e 
+categorias, e modelos preditivos.
+Payments API: Possibilita transações de NFTs com o uso de métodos 
+de pagamento fiduciários, tais como PIX e Cartão de Crédito.
+Proof API: Conjunto de soluções que permite aos usuários provar a 
+propriedade de seus NFTs, e emitir e/ou resgatar certificados on-
+chain de participação em atividades e eventos (POAPs).
+Lumx Protocol
+03
+Clicksign 1b6ef5b3-ef7b-49c5-82e1-0d7b77d6b4fd
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+Representante
+Caio Barbosa
+Telefone
++55 21 98332-4039
+E-mail
+caio@lumxstudios.com
+CUSTÓDI A DE  
+CART E I R AS
+Para facilitar a entrada de novos usuários na Web3, 
+criamos a nossa própria API de carteiras para reduzir as 
+fricções causadas por esse ponto singular.
+Hoje, para um usuário comprar um NFT, é necessário 
+que possua uma carteira cripto descentralizada. Com a 
+API de carteiras da Lumx, usuários leigos conseguem 
+criar uma carteira cripto em segundos e depois acessá-
+la com login e senha. Uma jornada muito mais simples 
+do que a oferecida pelas carteiras nativas Web3.
+A custódia da chave privada dessas carteiras é feita pela 
+Lumx e, quando desejado, o usuário pode migrar dessa 
+carteira introdutória para outras carteiras da Web3 - 
+cancelando, assim, o custo de sua custódia.
+Número de carteiras
+De 10.001 até 50.000
+De 50.001 até 100.000
+De 100.001 até 250.000
+A partir de 250.000
+Custo mensal
+R$ 0,53 por usuário
+R$ 0,40 por usuário
+R$ 0,34 por usuário
+R$ 0,24 por usuário
+Lumx Wallet
+04
+Clicksign 1b6ef5b3-ef7b-49c5-82e1-0d7b77d6b4fd
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+Representante
+Caio Barbosa
+Telefone
++55 21 98332-4039
+E-mail
+caio@lumxstudios.com
+CUSTOS  DO 
+PROJE TO
+Desenvolvimento de Smart Contracts
+Gratuito
+Suporte técnico
+Gratuito
+Contracts API
+Gratuito
+Wallet API
+Custo por usuário*
+Custo total
+Custo por usuário/mês
+*Valor mensal será incrementado conforme tabela da página 4.
+PR AZOS
+Utilização da API
+Imediato
+Prazo total
+Imediato
+Prazo contado a partir da assinatura do contrato e do recebimento de todas as 
+informações requeridas, Pode variar a depender de demandas da contratante.
+Investimento e prazos
+05
+Clicksign 1b6ef5b3-ef7b-49c5-82e1-0d7b77d6b4fd
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+Representante
+Caio Barbosa
+Telefone
++55 21 98332-4039
+E-mail
+caio@lumxstudios.com
+T E R MOS  E  
+CON DI ÇÕES
+1. Os pagamentos serão realizados mediante envio de Nota 
+Fiscal até o quinto dia útil de cada mês. Pagamentos via 
+transferência bancária.
+
+2. Novos componentes que não estejam descritos no 
+escopo de trabalho ocasionarão em uma reavaliação do 
+orçamento. 
+
+3. A contagem dos dias começa somente após o cliente 
+fornecer todos os recursos solicitados.
+
+4.  O prazo pode se estender com base no tempo de 
+feedback e demandas da contratante.
+
+5. Em caso de cancelamento do projeto após o início do 
+desenvolvimento, o cliente arcará com a parte relativa da 
+plataforma já desenvolvida.
+
+6. O restante dos termos e condições estarão presentes no 
+contrato de prestação de serviços enviado pela Lumx.  
+Termos e Condições
+06
+FilmeFilme Cinema Digital LTDA
+Representante: Bruno Naves Beauchamps
+CNPJ: 37.579.004/0001-86
+bruno@filmefilme.com.br
+Bruno Naves Beauchamps
+Interveniente
+CPF: 107.025.067-88
+brunobeauchamps@gmail.com 
+Clicksign 1b6ef5b3-ef7b-49c5-82e1-0d7b77d6b4fd
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+FilmeFilme.pdf
+Documento número #1b6ef5b3-ef7b-49c5-82e1-0d7b77d6b4fd
+Hash do documento original (SHA256): ec490f39c10a89bbc79da666271f122027b61d8709668f08b3e52b7169af8a7b
+Assinaturas
+Bruno Beauchamps
+CPF: 113.191.687-52
+Assinou como parte em 06 dez 2022 às 13:03:17
+Max Rodrigo de Souza
+CPF: 107.025.067-88
+Assinou como testemunha em 06 dez 2022 às 13:08:00
+Log
+06 dez 2022, 12:51:06
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 criou este documento número 1b6ef5b3-ef7b-49c5-82e1-0d7b77d6b4fd. Data
+limite para assinatura do documento: 05 de janeiro de 2023 (12:49). Finalização automática após
+a última assinatura: não habilitada. Idioma: Português brasileiro.
+06 dez 2022, 12:51:11
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 adicionou à Lista de Assinatura:
+bruno@filmefilme.com.br para assinar como parte, via E-mail, com os pontos de autenticação:
+Token via E-mail; Nome Completo; CPF; endereço de IP.
+06 dez 2022, 12:51:11
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 adicionou à Lista de Assinatura:
+max@filmefilme.com.br para assinar como testemunha, via E-mail, com os pontos de
+autenticação: Token via E-mail; Nome Completo; CPF; endereço de IP.
+06 dez 2022, 13:03:18
+Bruno Beauchamps  assinou como parte. Pontos de autenticação: Token via E-mail
+bruno@filmefilme.com.br. CPF informado: 113.191.687-52. IP: 77.54.201.47. Componente de
+assinatura versão 1.418.0 disponibilizado em https://app.clicksign.com.
+06 dez 2022, 13:08:00
+Max Rodrigo de Souza assinou como testemunha. Pontos de autenticação: Token via E-mail
+max@filmefilme.com.br. CPF informado: 107.025.067-88. IP: 131.221.172.98. Componente de
+assinatura versão 1.418.0 disponibilizado em https://app.clicksign.com.
+06 dez 2022, 13:29:00
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 finalizou o processo de assinatura. Processo de assinatura concluído para o
+documento número 1b6ef5b3-ef7b-49c5-82e1-0d7b77d6b4fd.
+Datas e horários em GMT  -03:00 Brasilia
+Log gerado em 06 de dezembro de 2022. Versão v1.18.0.
+1b6ef5b3-ef7b-49c5-82e1-0d7b77d6b4fd
+Página 1 de 2 do Log
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+Documento assinado com validade jurídica.
+Para conferir a validade, acesse https://validador.clicksign.com e utilize a senha gerada pelos signatários ou
+envie este arquivo em PDF.
+As assinaturas digitais e eletrônicas têm validade jurídica prevista na Medida Provisória nº. 2200-2 / 2001
+Este Log é exclusivo e deve ser considerado parte do documento nº 1b6ef5b3-ef7b-49c5-82e1-0d7b77d6b4fd, com os efeitos
+prescritos nos Termos de Uso da Clicksign, disponível em www.clicksign.com.
+Datas e horários em GMT  -03:00 Brasilia
+Log gerado em 06 de dezembro de 2022. Versão v1.18.0.
+1b6ef5b3-ef7b-49c5-82e1-0d7b77d6b4fd
+Página 2 de 2 do Log
+Clicksign 77957ea0-35db-40ae-8adc-59081ea8ad1d
+20230105_Lumx_FilmeFilme_Licenciamento_APIs.pdf
+Documento número #77957ea0-35db-40ae-8adc-59081ea8ad1d
+Hash do documento original (SHA256): eb7ad2103996936a9a5a9ea041f299431b5b082a90eeea82c41074330701a3d3
+Assinaturas
+Michel Ruthenberg Goldberg
+CPF: 160.306.787-60
+Assinou como parte em 08 jan 2023 às 19:01:19
+Caio Diniz Bretas
+CPF: 150.712.927-00
+Assinou como testemunha em 05 jan 2023 às 18:18:28
+Bruno Naves Beauchamps
+CPF: 113.191.687-52
+Assinou como parte em 24 jan 2023 às 11:00:21
+Max Rodrigo de Souza
+CPF: 107.025.067-88
+Assinou como testemunha em 06 jan 2023 às 14:18:09
+Log
+05 jan 2023, 18:03:21
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 criou este documento número 77957ea0-35db-40ae-8adc-59081ea8ad1d. Data
+limite para assinatura do documento: 04 de fevereiro de 2023 (17:57). Finalização automática
+após a última assinatura: não habilitada. Idioma: Português brasileiro.
+05 jan 2023, 18:03:31
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 adicionou à Lista de Assinatura:
+michel@lumxstudios.com para assinar como parte, via E-mail, com os pontos de autenticação:
+Token via E-mail; Nome Completo; CPF; endereço de IP. Dados informados pelo Operador para
+validação do signatário: nome completo Michel Ruthenberg Goldberg e CPF 160.306.787-60.
+05 jan 2023, 18:03:31
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 adicionou à Lista de Assinatura:
+caio.bretas@lumxstudios.com para assinar como testemunha, via E-mail, com os pontos de
+autenticação: Token via E-mail; Nome Completo; CPF; endereço de IP. Dados informados pelo
+Operador para validação do signatário: nome completo Caio Diniz Bretas e CPF 150.712.927-00.
+Datas e horários em GMT  -03:00 Brasilia
+Log gerado em 24 de janeiro de 2023. Versão v1.20.0.
+77957ea0-35db-40ae-8adc-59081ea8ad1d
+Página 1 de 2 do Log
+05 jan 2023, 18:03:31
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 adicionou à Lista de Assinatura:
+bruno@filmefilme.com.br para assinar como parte, via E-mail, com os pontos de autenticação:
+Token via E-mail; Nome Completo; CPF; endereço de IP.
+05 jan 2023, 18:03:31
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 adicionou à Lista de Assinatura:
+max@filmefilme.com.br para assinar como testemunha, via E-mail, com os pontos de
+autenticação: Token via E-mail; Nome Completo; CPF; endereço de IP.
+05 jan 2023, 18:18:28
+Caio Diniz Bretas assinou como testemunha. Pontos de autenticação: Token via E-mail
+caio.bretas@lumxstudios.com. CPF informado: 150.712.927-00. IP: 201.17.85.82. Componente
+de assinatura versão 1.427.1 disponibilizado em https://app.clicksign.com.
+06 jan 2023, 14:18:09
+Max Rodrigo de Souza assinou como testemunha. Pontos de autenticação: Token via E-mail
+max@filmefilme.com.br. CPF informado: 107.025.067-88. IP: 179.93.105.243. Componente de
+assinatura versão 1.428.1 disponibilizado em https://app.clicksign.com.
+08 jan 2023, 19:01:19
+Michel Ruthenberg Goldberg assinou como parte. Pontos de autenticação: Token via E-mail
+michel@lumxstudios.com. CPF informado: 160.306.787-60. IP: 179.245.237.2. Componente de
+assinatura versão 1.428.1 disponibilizado em https://app.clicksign.com.
+24 jan 2023, 11:00:21
+Bruno Naves Beauchamps  assinou como parte. Pontos de autenticação: Token via E-mail
+bruno@filmefilme.com.br. CPF informado: 113.191.687-52. IP: 189.40.74.228. Componente de
+assinatura versão 1.437.0 disponibilizado em https://app.clicksign.com.
+24 jan 2023, 13:01:19
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 finalizou o processo de assinatura. Processo de assinatura concluído para o
+documento número 77957ea0-35db-40ae-8adc-59081ea8ad1d.
+Documento assinado com validade jurídica.
+Para conferir a validade, acesse https://validador.clicksign.com e utilize a senha gerada pelos signatários ou
+envie este arquivo em PDF.
+As assinaturas digitais e eletrônicas têm validade jurídica prevista na Medida Provisória nº. 2200-2 / 2001
+Este Log é exclusivo e deve ser considerado parte do documento nº 77957ea0-35db-40ae-8adc-59081ea8ad1d, com os
+efeitos prescritos nos Termos de Uso da Clicksign, disponível em www.clicksign.com.
+Datas e horários em GMT  -03:00 Brasilia
+Log gerado em 24 de janeiro de 2023. Versão v1.20.0.
+77957ea0-35db-40ae-8adc-59081ea8ad1d
+Página 2 de 2 do Log

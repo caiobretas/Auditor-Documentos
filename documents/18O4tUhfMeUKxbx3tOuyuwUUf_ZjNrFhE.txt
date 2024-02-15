@@ -1,0 +1,419 @@
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS E OUTRAS AVENÇAS
+LUMX STUDIOS S.A., inscrita no CNPJ sob o nº 42.887.120/0001-00, com sede na
+Cidade do Rio de Janeiro, no Estado do Rio de Janeiro, localizada na Rua Voluntarios da
+Patria, 89, Sala 804, Botafogo, CEP 22270-000 devidamente qualificada em ficha cadastral
+eletrônica apartada, doravante denominada “CONTRATANTE”; e
+LE CASSANGE CONSULTORIA E SERVIÇOS LTDA, inscrita no CNPJ sob o nº
+37.134.852/0001-81, com sede na Cidade do Rio de Janeiro, no Estado do Rio de Janeiro,
+localizada na Rua Sambaíba, nº 380, aptoº 901, Leblon, CEP 22450-140, neste ato
+representada
+na
+forma
+de
+seus
+atos
+constitutivo,
+doravante
+denominada
+“CONTRATADA”.
+CONTRATANTE e CONTRATADA, devidamente qualificadas em cadastro
+conjuntamente, denominadas “Partes”, e individualmente denominados “Parte”.
+Considerando que:
+(i)
+A CONTRATADA é uma sociedade limitada cujo objeto é a prestação de
+serviços de consultoria em tecnologia na área de pagamentos digitais e é titular
+dos direitos sobre um software destinado a diversas finalidades, dentre elas: (a)
+análise de dados de membros integrantes da cadeia de pagamentos online
+(“Operadoras de Pagamento”), (b) roteamento de transações para pagamentos
+online, (c) múltiplas conexões a provedores de serviços de pagamentos e (d)
+visualização dinâmica de dados através da API (application programming
+interface), denominado “Software”, atualmente disponibilizado por meio da
+plataforma registrada sob o domínio https://www.malga.io.; e
+(ii)
+A CONTRATANTE é uma pessoa jurídica com interesse na utilização do
+Software disponibilizado pela CONTRATADA.
+(iii)
+Os Termos e Condições de Uso do Software disponibilizado no site da
+CONTRATADA é parte integrante do presente Contrato, sendo certo que a
+CONTRATANTE afirma ter lido e concordado com suas disposições.
+1
+DocuSign Envelope ID: F68DE4EB-8762-4251-8B10-03CC70A59E04
+Resolvem as partes acima identificadas firmar o presente Contrato de Prestação de
+Serviços e Outras Avenças (“Contrato” ou “Instrumento”), que se regerá pelas cláusulas
+seguintes e pelas condições descritas no presente.
+CLÁUSULA 1 - DO OBJETO
+1.1.
+O presente Contrato contempla a prestação de serviços pela CONTRATADA à
+CONTRATANTE, possibilitando à mesma a utilização não exclusiva do Software, com
+vistas a otimizar as operações de pagamentos online (“Operações de Pagamento”)
+realizadas pela CONTRATANTE e/ou pelos clientes da CONTRATANTE.
+1.2.
+O Software é de titularidade e propriedade da CONTRATADA, que concede à
+CONTRATANTE uma licença (i) pessoal, (ii) não transferível, (iii) não exclusiva, (iv)
+limitada, (v) não comercial, e (vi) revogável, para uso do Software, nos dispositivos da
+CONTRATANTE, em conformidade com as condições previstas no presente Contrato e
+nos Termos e Condições de Uso disponíveis no site da CONTRATADA (“Termos e
+Condições”). Todos os direitos que não estejam expressamente concedidos no presente
+Contrato são reservados única e exclusivamente à CONTRATADA.
+1.3.
+Não é objeto deste Contrato a conclusão bem sucedida das Operações de
+Pagamento solicitadas pela CONTRATANTE ou pelos clientes da CONTRATANTE,
+mas apenas a utilização do Software com vistas a otimizar e agilizar as Operações de
+Pagamento, principalmente em função da escolha da empresa responsável pela operação do
+pagamento (“Operadora de Pagamento”) mais adequada, não podendo a CONTRATADA
+responder por equívoco nas efetivações das Operações de Pagamento em si por falha
+exclusiva da Operadora de Pagamento.
+CLÁUSULA 2 - DA VIGÊNCIA
+2.1.
+O presente Contrato vigerá por prazo indeterminado e começará a produzir efeitos a
+partir da aceitação e assinatura do presente Contrato.
+2
+DocuSign Envelope ID: F68DE4EB-8762-4251-8B10-03CC70A59E04
+CLÁUSULA 3 - OBRIGAÇÕES DA CONTRATANTE
+3.1.
+Sem prejuízo das demais obrigações e responsabilidades previstas neste Contrato e
+nos Termos de Uso, são obrigações da CONTRATANTE:
+3.1.1. Pagar tempestivamente a Remuneração mensal da CONTRATADA fixada
+entre as Partes conforme proposta comercial anexa, nos termos descritos na
+Cláusula Quinta abaixo;
+3.1.2. Cumprir e seguir todos os prazos e obrigações previstos neste Contrato, bem
+como aqueles que vierem a ser acertados posteriormente.
+CLÁUSULA 4 - OBRIGAÇÕES DA CONTRATADA
+4.1.
+Sem prejuízo das demais obrigações e responsabilidades previstas neste Contrato,
+são obrigações da CONTRATADA:
+4.1.1. Prestar à CONTRATANTE os serviços de otimização das suas Operações de
+Pagamento por meio do Software e dentro dos seus limites;
+4.1.2. Manter o Software em perfeito estado de funcionamento;
+4.2.
+A CONTRATADA não se obriga, nem se responsabiliza, pela lisura das Operações
+de Pagamento solicitadas pela CONTRATANTE ou por seus clientes, de modo que a
+CONTRATADA não será responsabilizada por eventual ato ilícito civil, administrativo de
+improbidade administrativa ou criminal, notadamente pelo descumprimento das normas
+aplicáveis ao sistema financeiro nacional.
+CLÁUSULA 5 - DA REMUNERAÇÃO
+5.1.
+A CONTRATADA fará jus, em decorrência dos serviços prestados no âmbito
+deste Contrato, ao recebimento de uma remuneração, de acordo com as condições e valores
+estabelecidos de comum acordo entre as Partes, nos termos da proposta comercial anexa.
+5.2.
+A CONTRATADA possui 4 (quatro) Planos de Remuneração (“Planos de
+Licença” ou “Plano de Licença”), sendo todos atrelados ao volume financeiro processado
+pela CONTRATANTE mensalmente, nos termos dispostos na proposta comercial anexa.
+3
+DocuSign Envelope ID: F68DE4EB-8762-4251-8B10-03CC70A59E04
+5.2.1. Considerando os termos da Cláusula 5.2 acima, no momento da assinatura do
+presente
+Contrato,
+seguindo
+o
+disposto
+na
+proposta
+comercial,
+a
+CONTRATANTE optará por um dos Planos de Licença.
+5.2.2. A CONTRATANTE, no momento da assinatura do presente Contrato, optou
+por contratar o Plano de Licença Starter. O detalhamento do que consta no Plano
+de Licença contrato, está descrito na Proposta Comercial anexa.
+5.2.3. A CONTRATANTE poderá, a qualquer tempo, alterar o Plano de Licença por
+ela contratado, seguindo o disposto na proposta comercial anexa e, portanto, será
+cobrada de acordo com o novo Plano de Licença.
+5.2.4. A alteração do Plano de Licença deverá ser formalizada, por escrito.
+5.3.
+Conforme os termos da Proposta Comercial anexa, cada Plano de Licença inclui
+um determinado número de transações e de chamadas API.
+5.4.
+Caso a CONTRATANTE exceda o limite de transações ou chamadas API do
+Plano de Licença contratado, será cobrada, a cada transação ou chamada API adicional, a
+respectiva Taxa Adicional descrita na Proposta Comercial ("Taxa Adicional").
+5.5.
+Nos termos da Proposta Comercial anexa, caso a CONTRATANTE opte pelo
+plano Starter ou plano Professional, ela poderá contratar, de forma adicional, a
+funcionalidade Suporte Premium.
+5.5.1
+Na hipótese de contratação da funcionalidade Suporte Premium, será
+cobrado um valor adicional de R$ 2.000,00 (dois mil reais).
+5.6.
+Juntos, o Plano de Licença, eventual Taxa Adicional e eventual contratação de
+Suporte Premium, compõem a Remuneração (“Remuneração”) da CONTRATADA.
+5.7.
+Ao final de cada mês a CONTRATADA faturará o valor total da Remuneração
+devida naquele período, que será composto pelo valor do Plano de Licença, eventual Taxa
+Adicional e eventual Suporte Premium contratado. A CONTRATANTE poderá optar por
+realizar o pagamento da Remuneração mediante boleto bancário ou PIX, cuja chave será
+informada em conjunto com o envio do boleto bancário.
+4
+DocuSign Envelope ID: F68DE4EB-8762-4251-8B10-03CC70A59E04
+5.7.1. No caso de pagamento via boleto bancário, o mesmo deve ocorrer até o dia de
+vencimento constante no documento. Caso a opção seja PIX, o pagamento deve
+ocorrer dentro de 5 (cinco) dias úteis do recebimento da fatura.
+5.8.
+Caso a Remuneração não seja paga tempestivamente, incidirá sobre o valor total
+devido naquele período, multa de 10% (dez por cento) acrescida de juros de 1% (um por
+cento) ao mês, além de correção monetária pelo IGPM.
+CLÁUSULA 6 - DA RESCISÃO
+6.1.
+O Contrato poderá ser rescindido de pleno direito e independentemente de qualquer
+interpelação judicial, por qualquer das Partes, bastando que, para tanto, a parte contrária
+seja cientificada por escrito, diante da ocorrência das seguintes hipóteses, em conjunto ou
+separadamente, salvo, quando possível, se sanado o inadimplemento em até 10 (dez) dias
+contados do recebimento de notificação escrita enviada à Parte inadimplente:
+(a) Descumprimento, pelas Partes, de qualquer obrigação prevista neste Contrato.
+(b) Quando decretada a recuperação judicial, extrajudicial ou falência de umas
+das Partes;
+(c)
+Quando uma situação de força maior ou seus efeitos subsistam por um
+período superior a 30 (trinta) dias, hipótese em que a Parte prejudicada poderá
+pleitear a rescisão, não sendo devidos quaisquer valores a título de multa ou
+indenização.
+6.2.
+A
+rescisão
+do
+Contrato
+por
+inadimplemento ensejará aplicação de multa
+não-compensatória equivalente a 10% (dez por cento) sobre eventual valor do Contrato que
+ainda esteja pendente de pagamento, sem prejuízo da cobrança de perdas e danos.
+6.3.
+O presente Contrato poderá, ainda, ser resilido unilateralmente por qualquer das
+Partes, no resguardo de seus interesses, mediante, se por iniciativa da CONTRATANTE,
+do pagamento de qualquer valor componente da Remuneração eventualmente em aberto
+naquele momento, e desde que tal decisão seja informada à outra Parte, por escrito, com
+antecedência mínima de 30 (trinta) dias.
+5
+DocuSign Envelope ID: F68DE4EB-8762-4251-8B10-03CC70A59E04
+CLÁUSULA 7 - DECLARAÇÕES E GARANTIAS
+7.1.
+As Partes prestam as seguintes declarações e garantias:
+7.1.1.
+Constituição e Regularidade das Partes. As Partes (i) são sociedades
+legalmente constituídas, validamente existentes e em situação regular de acordo
+com as leis da República Federativa do Brasil; e (ii) se encontram devidamente
+habilitadas e licenciadas, em conformidade com a legislação brasileira, para
+conduzir os seus negócios e operar regularmente.
+7.1.2. Restrições: A celebração deste Contrato e a execução das obrigações por
+meio dele assumidas pelas Partes não violam quaisquer leis aplicáveis ou qualquer
+disposição dos atos constitutivos das Partes ou outro documento ou contrato do qual
+sejam partes as Partes. Não há qualquer procedimento judicial, administrativo ou
+arbitral, reclamação, ação, notificação ou processo de qualquer natureza em
+andamento, ou em vias de ser instaurado, de que tenham ciência as Partes, contra as
+Partes, que prejudiquem ou possam prejudicar a consumação das transações objeto
+do presente Contrato.
+7.1.3. Poderes e Aprovações. As Partes têm a plena capacidade, o poder e a
+autoridade necessária para celebrar e executar este Contrato e para cumprir com
+suas obrigações. Todas as aprovações, inclusive as de natureza societária,
+necessárias para a assinatura, entrega e execução deste Acordo foram obtidas pelas
+Partes. Este Contrato foi devidamente celebrado e constitui uma obrigação válida e
+vinculante das Partes, exequível em relação às Partes e seus sucessores a qualquer
+título, de acordo com seus termos e condições.
+CLÁUSULA 8 - DAS DISPOSIÇÕES GERAIS
+8.1.
+Renúncia. Qualquer tolerância de uma das Partes em relação ao não cumprimento
+de obrigações assumidas pela outra Parte neste Contrato não afetará de qualquer forma a
+validade do presente Contrato, ou de parte dele, e não será considerada como precedente,
+alteração ou novação de suas cláusulas, nem renúncia do direito de tal Parte previsto neste
+Contrato de exigir o cumprimento dos dispositivos do presente Contrato.
+6
+DocuSign Envelope ID: F68DE4EB-8762-4251-8B10-03CC70A59E04
+8.2.
+Independência das Disposições. Se qualquer uma ou mais das disposições deste
+Contrato forem consideradas nulas ou ineficazes nos termos da legislação aplicável, a
+validade ou a eficácia das demais disposições não será afetada, devendo as Partes, para as
+disposições consideradas como nulas ou ineficazes, negociar, de boa-fé mecanismos
+alternativos de forma a manter o espírito do pactuado neste Contrato.
+8.3.
+Alteração. Qualquer alteração de natureza regulamentar, para o cumprimento de
+norma, será válida desde o dia que a norma se estabelecer. Qualquer lei posterior será
+aplicável sem a necessidade de comunicação entre as partes.
+8.4.
+Cessão e Efeito Vinculante. Este Contrato vincula, obriga, beneficia e será
+executável por cada uma das Partes, seus respectivos herdeiros, sucessores e cessionários a
+qualquer título, sendo-lhes vedado ceder ou transferir a terceiros, por qualquer forma, os
+direitos e obrigações dele decorrentes, salvo da forma expressamente prevista neste
+Contrato.
+8.5.
+Cooperação. As Partes acordam em, isoladamente e em conjunto, cooperar e fazer
+tudo o que for necessário ou adequado, bem como assinar ou entregar, ou fazer com que
+sejam assinados ou entregues, todos os documentos adequados ou necessários de modo a
+possibilitar que as Partes cumpram com suas obrigações estabelecidas no presente
+Contrato, bem como que cumpram com o objeto do presente Contrato.
+8.6.
+Acordo Integral. As Partes se declaram cientes de que o presente Contrato
+(incluindo seus anexos), complementa as previsões trazidas nos Termos e Condições de
+Uso disponível no site da CONTRATADA, constituindo em conjunto o acordo integral
+entre as Partes no que se refere ao seu objeto, substituindo todo e qualquer entendimento
+ou acordo anterior conflitante, verbal ou escrito, referente ao objeto do presente Contrato.
+8.7.
+Lei Aplicável. Este Contrato e os direitos das Partes nos termos deste Contrato
+serão regidos, interpretados e executados de acordo com as Leis da República Federativa
+do Brasil.
+8.8.
+Lei Geral de Proteção de Dados. Este Contrato e os direitos das Partes nos termos
+deste Contrato serão regidos, interpretados e executados de acordo com a Lei n°
+13.709/2018.
+7
+DocuSign Envelope ID: F68DE4EB-8762-4251-8B10-03CC70A59E04
+8.9.
+A CONTRATANTE declara que está ciente das previsões trazidas nos Termos e
+Condições de Uso disponíveis no site da CONTRATADA e que o mesmo é parte
+integrante do presente Contrato.
+8.10.
+As Partes reconhecem neste Instrumento a completa inexistência de vínculo
+trabalhista entre si, excluindo as obrigações previdenciárias e os encargos sociais, não
+havendo entre as Partes qualquer tipo de relação de subordinação.
+CLÁUSULA 9 - DO FORO
+9.1.
+Fica eleito o foro central da Comarca da Capital do Rio de Janeiro para dirimir
+eventuais controvérsias oriundas do presente Contrato, com exclusão de qualquer outro,
+por mais privilegiado que seja.
+Por estarem assim justos e contratados, firmam o presente Instrumento, em duas vias de
+igual teor, juntamente com 2 (duas) testemunhas.
+Rio de Janeiro, 21 de Agosto de 2023.
+8
+DocuSign Envelope ID: F68DE4EB-8762-4251-8B10-03CC70A59E04
+__________________________________________
+CONTRATANTE
+____________________________________________
+CONTRATADA
+Testemunhas:
+1) _____________________________
+Nome: Thiago de Castro Neves Garuti
+CPF: 058.317.777-82
+2) _____________________________
+Nome: Bernardo Farme D’Amoed
+CPF: 11429989750
+9
+DocuSign Envelope ID: F68DE4EB-8762-4251-8B10-03CC70A59E04
+malga.io
+2023
+Sua Infraestrutura Inteligente de Pagamentos
+DocuSign Envelope ID: F68DE4EB-8762-4251-8B10-03CC70A59E04
+A infraestrutura de pagamentos mais 
+atualizada e os melhores especialistas 
+para impulsionar o seu negócio
+Uma única integração
+Mais de 10 conexões disponíveis
+ 
+Múltiplos métodos de pagamento
+Cartão de crédito, Boleto, PIX, VR, Débito
+ 
+Inteligência para não perder mais vendas
+Fluxo de Cobranças, roteamento e retentativas automatizadas
+ 
+Facilidades para todos os tipos de operações
+Link de Pagamento, Checkout SDK, Antifraude, 
+Split de pagamentos e Proxy
+Segurança e disponibilidade sempre
+99,9% de uptime, Tokenização de dados sensíveis, PCI DSS Nível 1
+malga.io
+2023
+DocuSign Envelope ID: F68DE4EB-8762-4251-8B10-03CC70A59E04
+Hey Lumx Studio, tudo bem?
+Agradecemos o seu interesse! 
+Sabemos que desenvolver a infraestrutura de pagamentos ideal que se 
+adapte a cada momento do seu negócio é desafiador e pode consumir 
+recursos financeiros e de sua equipe técnica, se não for bem planejada.
+Conte com nosso time de especialistas para ajudar em tudo. Queremos 
+que a sua experiência com a gente seja incrível!
+Vamos juntos?
+1
+Entendimento das suas necessidades
+2
+Proposta comercial Malga
+3
+Contrato
+4
+Credenciamento e Integração
+malga.io
+2023
+Sua Infraestrutura Inteligente de Pagamentos
+DocuSign Envelope ID: F68DE4EB-8762-4251-8B10-03CC70A59E04
+Nossa proposta engloba a mensalidade para acesso à nossa 
+plataforma e funcionalidades e também uma taxa fixa apenas 
+para transações bem sucedidas, caso exceda a cota do seu plano.
+Trabalhamos com diversos provedores para entregar a solução 
+que melhor se encaixa às suas necessidades do momento. 
+* Cada provedor tem seus custos específicos.
+Se já estiver satisfeito com o 
+contrato do seu provedor de 
+pagamento, sem problemas! 
+Migraremos a sua negociação atual.
+Se ainda não tem um provedor ou 
+quer renegociar as suas taxas, 
+consulte o nosso serviço de 
+Professional Services.
+malga.io
+2023
+Como funciona?
+Informações
+Sobre os provedores disponíveis
+Sua Infraestrutura Inteligente de Pagamentos
+DocuSign Envelope ID: F68DE4EB-8762-4251-8B10-03CC70A59E04
+STARTER
+PROFESSIONAL
+Empodere seu negócio com 
+a infraestrutura de pagamentos 
+necessária para apoiar 
+seu crescimento
+Flexibilidade para orquestrar 
+seus fluxos de cobranças com 
+funcionalidades robustas para sustentar 
+toda a sua operação
+Transações incluídas
+   Valor por transação adicional
+Chamadas API incluídas
+Requisições API para recuperar informações ou dados processados
+   Valor por chamada API adicional
+Integrações ativas
+Uptime
+Valor da infraestrutura por mês
+10,000
+50,000
+3
+5
+R$ 0,30
+R$ 0,15
+Gratuito
+r$ 2.500,
+r$ 7.000,
+10,000
+50,000
+R$ 0,10
+R$ 0,05
+99,9%
+99,9%
+Sob consulta
+Planos
+r$ 2.500,
+r$ 7.000,
+Valor da infraestrutura por mês
+DocuSign Envelope ID: F68DE4EB-8762-4251-8B10-03CC70A59E04
+FUNCIONALIDADES POR PLANO
+R$ 2.000,
+Checkout SDK
+Checkout universal: aceite pagamentos sem precisar codar
+Suporte
+Suporte técnico por e-mail e respostas em até 1 dia útil
+Link de Pagamento
+Envie links de pagamento simples e descomplicados para seu cliente 
+pagar por meio de redes sociais, email, whatsapp, etc.
+Antifraude Multi-Provedor
+Integração de prevenção à fraude com suporte para múltiplos provedores
+Professional Services
+Especialistas dedicados a otimizar sua taxa de conversão, 
+prevenção à fraude e relacionamento com provedores
+Suporte Premium
+Suporte técnico dedicado com SLA de 1 hora de resposta
+STARTER
+PROFESSIONAL
+Planos
+r$ 2.500,
+r$ 7.000,
+Valor da infraestrutura por mês
+DocuSign Envelope ID: F68DE4EB-8762-4251-8B10-03CC70A59E04
+malga.io
+2023
+Sua Infraestrutura Inteligente de Pagamentos
+DocuSign Envelope ID: F68DE4EB-8762-4251-8B10-03CC70A59E04
