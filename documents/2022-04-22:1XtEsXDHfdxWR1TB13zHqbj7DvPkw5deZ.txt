@@ -1,19 +1,19 @@
-Página 1 de 9 
-CONTRATO DE PRESTAÇÃO DE SERVIÇOS  
+Página 1 de 10 
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE DESENVOLVEDOR 
  
 Pelo presente instrumento particular, de um lado: 
  
-LUMX STUDIOS S.A., sociedade anônima de capital fechado, inscrita no CNPJ/MF sob o nº 
-42.887.120/0001-00, com sede à Rua Voluntários da Pátria, nº 89, sala 804, Ed. Empresarial Estação 
-Botafogo, na Cidade e Estado de Rio de Janeiro, CEP 22.270-000, neste ato representada na forma de 
-seus atos constitutivos, doravante denominada “Contratante”;  
+LUMX STUDIOS LTDA., sociedade limitada, inscrita no CNPJ/MF sob o nº 42.887.120/0001-00, com sede 
+à Rua Voluntários da Pátria, nº 89, sala. 804, Ed. Empresarial Estação Botafogo, na cidade e Estado de Rio 
+de Janeiro, CEP: 22270-000, neste ato representada na forma de seus atos constitutivos, doravante 
+denominada “Contratante”;  
  
 E, de outro lado, 
  
-GABRIELLA COSTA LIMA 15972161788, microempreendedora individual, inscrita no CNPJ sob o nº 
-44.321.213/0001-90, com sede no Largo dos Pinheiros, nº 12, apt.41, Pinheiros, na Cidade e Estado de 
-São Paulo, CEP 05.424-050, neste ato representada na forma de seus atos constitutivos, doravante 
-denominada “Contratada”. 
+PATRICK DE SOUZA COSTA, pessoa jurídica de direito privado, inscrita no CNPJ sob o nº 46.115.490/0001-
+72, com sede na Rua Soledade, nº 154, BNH, na Cidade de Mesquita, Estado do Rio de Janeiro, CEP 
+26.574-590, neste ato representada na forma de seus atos constitutivos, doravante denominada 
+“Contratada”. 
  
 Contratante e Contratada, quando em conjunto, denominados como “Partes” e, isoladamente, como 
 “Parte”. 
@@ -26,8 +26,9 @@ focada no desenvolvimento de estrutura criptografada de NFTs, softwares e demais
 inovadores; e 
  
 (ii) 
-A Contratada é pessoa jurídica qualificada e especialista na 
-promoção de vendas. 
+A Contratada é pessoa jurídica qualificada e especialista em 
+desenvolvimento de produtos, softwares e programas de tecnologia da informação em geral 
+(“Desenvolvedor”). 
  
 Resolvem as Partes, de comum acordo e observando a boa-fé contratual, celebrar o presente Contrato 
 de Prestação de Serviços (“Contrato”), documento que será regido conforme os termos e condições 
@@ -36,29 +37,29 @@ abaixo:
 CLÁUSULA PRIMEIRA - OBJETO 
  
 1.1. 
-O objeto do presente Contrato é a prestação dos serviços especializados na área de promoção 
-de vendas, na função de Account Coordinator, para a Contratante pela Contratada (“Serviços”).  
+O objeto do presente Contrato é a prestação dos serviços especializados na área de 
+desenvolvimento de softwares, estruturas criptografadas para NFTs e programas de tecnologia da 
+informação em geral para a Contratante pela Contratada (“Serviços”).  
  
 1.2. 
 Os Serviços consistirão, sem prejuízo de outros correlacionados ou solicitados pela Contratante, 
-em: a) gestão de contas; b) desenvolvimento de relacionamento com clientes; c) gestão de projetos; e d) 
-análise de dados e produção de relatórios gerenciais sobre os desempenhos das contas. 
+em: a) ilustração digital, criação de elementos gráficos. 
+Clicksign 08d8a20f-8c68-4642-ae7f-4c9c34aeb6d1
+Página 2 de 10 
  
-DocuSign Envelope ID: F3EBC252-2911-4D6C-ABD2-171F9D391788
-Página 2 de 9 
 CLÁUSULA SEGUNDA – PREÇO E FORMA DE PAGAMENTO 
  
 2.1. 
 Pela prestação dos Serviços, a Contratante pagará à Contratada a quantia fixa, mensal e 
-irreajustável de R$ 5.000,00 (cinco mil reais) (“Preço”), até o dia 10 (dez) do mês subsequente, via 
-transferência bancária em conta de titularidade da Contratada.  
+irreajustável de R$ 2.500,00 (dois mil e quinhentos reais) (“Preço”), até o dia 10 (dez) do mês 
+subsequente, via transferência bancária em conta de titularidade da Contratada.  
  
 2.1.1. A nota fiscal relativa aos Serviços prestados será encaminhada pela Contratada à 
-Contratante para o endereço de e-mail financeiro@lumxstudios.com até o último dia útil do mês 
-da prestação do Serviço. Caso seja constatado algum erro nas notas fiscais, serão as mesmas 
+Contratante para o endereço de e-mail financeiro@lumxstudios.com, até o último dia útil do 
+mês da prestação do Serviço. Caso seja constatado algum erro nas notas fiscais, serão as mesmas 
 devolvidas e os respectivos pagamentos serão sustados até sua efetiva correção, sem que isso 
 implique na paralisação dos Serviços, ou qualquer reajuste ou multa à Contratante se o 
-pagamento, em virtude do erro constatado, ocorrer após a data de seu vencimento.  
+pagamento, em virtude do erro constatado, ocorrer após a data de seu vencimento. 
  
 2.1.2 
 Na hipótese de atraso no pagamento por culpa exclusiva da Contratante, será devida multa 
@@ -70,12 +71,17 @@ Caso a fatura/nota fiscal seja apresentada com atraso, o pagamento poderá ser p
 por prazo equivalente ao do atraso. 
  
 2.2. 
-O Preço é fechado, incluindo as despesas regulares necessárias à realização dos Serviços, 
+ O Preço é fechado, incluindo as despesas regulares necessárias à realização dos Serviços, 
 irreajustável e inclui a remuneração total devida à Contratada pelo cumprimento de todas as obrigações 
 por este assumidas, bem como todos os custos diretos e indiretos, além dos tributos incidentes na 
 prestação dos Serviços. 
  
 2.3. 
+Para que seja reembolsado, qualquer custo/despesa extraordinário que a Contratada venha a 
+incorrer em decorrência da execução dos Serviços, deverá ser prévia e expressamente autorizado pela 
+Contratante e devidamente comprovado pela Contratada.  
+ 
+2.4. 
 A Contratante poderá descontar, na fonte, os tributos e contribuições que a legislação tributária 
 assim a obrigar. 
  
@@ -87,14 +93,14 @@ renovado automaticamente após esse período (“Prazo”).
  
 3.1.1. As Partes podem rescindir o Contrato, de maneira imotivada, mediante notificação escrita 
 a outra Parte, com antecedência mínima de 30 (trinta) dias. 
+Clicksign 08d8a20f-8c68-4642-ae7f-4c9c34aeb6d1
+Página 3 de 10 
  
 CLÁUSULA QUARTA - OBRIGAÇÕES DAS PARTES 
  
 4.1. 
 Os Serviços deverão ser executados de acordo com as diretrizes informadas pela Contratante à 
 Contratada, a qual, sem prejuízo de outras obrigações previstas neste Contrato, se compromete a: 
-DocuSign Envelope ID: F3EBC252-2911-4D6C-ABD2-171F9D391788
-Página 3 de 9 
 a. 
 Prestar os serviços objeto deste contrato observando fielmente as condições e prazos 
 estabelecidos;  
@@ -132,30 +138,34 @@ b.
 O Contrato não viola nenhum outro acordo ou contrato que uma das Partes tenha em vigor; 
 c. 
 Reserva-se o direito de celebrar outras contratações desta natureza com terceiros, de forma 
-que a celebração do presente não gera qualquer exclusividade; e 
+que a celebração do presente não gera qualquer exclusividade;  
 d. 
 Age sempre em conformidade com a legislação vigente e, em especial, com a legislação 
 anticorrupção, e se compromete a não (i) prometer, oferecer ou dar, direta ou indiretamente, 
 vantagem indevida a agente público ou a quem quer que seja, ou a terceira pessoa relacionada a 
 uma das partes; (ii) criar, de modo fraudulento, irregular ou ilegal, pessoa jurídica para celebrar o 
 presente Contrato; (iii) obter vantagem ou benefício indevido, de modo fraudulento, de 
+Clicksign 08d8a20f-8c68-4642-ae7f-4c9c34aeb6d1
+Página 4 de 10 
 modificações ou prorrogações do presente Contrato, sem autorização em lei, nos respectivos 
 instrumentos contratuais; (iv) manipular o equilíbrio econômico-financeiro do presente Contrato; 
 ou (v) de qualquer maneira fraudar o presente Contrato; assim como incorrer em ações ou 
 omissões que constituam prática de corrupção ou demais atos lesivos nos termos da Lei nº 
 12.846/2013, do Decreto nº 8.420/2015, bem como em demais leis ou regulamentos aplicáveis em 
 âmbito nacional, os quais compreendam o microssistema de tutela anticorrupção, ainda que não 
-DocuSign Envelope ID: F3EBC252-2911-4D6C-ABD2-171F9D391788
-Página 4 de 9 
 relacionadas com o presente Contrato. 
  
 4.3. Sem prejuízo de outras obrigações previstas neste Contrato, constituem obrigações da 
 Contratante: 
 a. 
 Fornecer à Contratada as informações, dados e documentos necessários ao bom 
-desempenho dos Serviços; e 
+desempenho dos Serviços; 
 b. 
-Efetuar os pagamentos devidos à Contratada, conforme acordado entre as Partes. 
+Efetuar os pagamentos devidos à Contratada, conforme acordado entre as Partes; e 
+ 
+ 
+Clicksign 08d8a20f-8c68-4642-ae7f-4c9c34aeb6d1
+Página 5 de 10 
  
 CLÁUSULA QUINTA - PROPRIEDADE INTELECTUAL 
  
@@ -189,8 +199,6 @@ intelectual, instalações e equipamentos da Contratante; mesmo em casos em que 
 com o ato de criação fora das instalações da Contratante, contanto que ocorra em conexão à Contratante 
 e/ou à Propriedade Intelectual da Contratante; ou (iii) estejam direta ou indiretamente relacionadas ao 
 negócio da Contratante ou às suas atividades, serão de única e exclusiva propriedade da Contratante. 
-DocuSign Envelope ID: F3EBC252-2911-4D6C-ABD2-171F9D391788
-Página 5 de 9 
  
 5.4. A Contratada declara não deter quaisquer direitos sobre a Propriedade Intelectual decorrente de 
 suas criações, restando-lhe resguardados apenas seus direitos morais, caso expressamente aplicáveis nos 
@@ -199,6 +207,8 @@ termos das leis vigentes.
 5.5. A Contratada é responsável por si e por quaisquer terceiros que possam ter acesso a Propriedade 
 Intelectual em razão do Contrato firmado com a Contratada, responsabilizando-se por quaisquer 
 violações da presente cláusula. 
+Clicksign 08d8a20f-8c68-4642-ae7f-4c9c34aeb6d1
+Página 6 de 10 
  
 5.6. Aplicam-se à presente relação entre Contratada e Contratante, além das normas dispostas pelo 
 Código Civil, a Lei nº 5.988/73 (“Lei de Direitos Autorais”) e Lei 9.279/96 (“Lei da Propriedade Industrial”) 
@@ -231,11 +241,9 @@ reveladas e deverá, ainda, cumprir todas as leis, regulamentos e restrições a
 6.4. O dever de confidencialidade ora assumido pelas Partes vigorará por todo o Prazo e, ainda, pelo 
 prazo de 5 (cinco) anos, após o término deste Contrato.  
  
-CLÁUSULA SÉTIMA - PENALIDADES 
+CLÁUSUA SÉTIMA - PENALIDADES 
  
-DocuSign Envelope ID: F3EBC252-2911-4D6C-ABD2-171F9D391788
-Página 6 de 9 
-7.1. A infração ao disposto nas Cláusulas 5ª e 6ª, sujeitará a Parte infratora ao pagamento de multa 
+7.1. A infração ao disposto nas Cláusula 5ª e 6ª, sujeitará a Parte infratora ao pagamento de multa 
 equivalente à 3 (três) vezes o Preço deste Contrato, sem prejuízo da Parte prejudicada rescindir o 
 Contrato por inadimplemento. 
  
@@ -243,6 +251,8 @@ Contrato por inadimplemento.
 não eximirá as Partes da reparação dos eventuais danos, perdas, lucros cessantes ou prejuízos que seus 
 atos venham a acarretar, desde que devidamente comprovados. 
  
+Clicksign 08d8a20f-8c68-4642-ae7f-4c9c34aeb6d1
+Página 7 de 10 
 CLÁUSULA OITAVA – RESCISÃO 
  
 8.1. 
@@ -254,8 +264,7 @@ O presente Contrato também poderá ser rescindido pelas Partes, sem qualquer ô
 rescisão, independentemente de envio de notificação prévia, nos seguintes casos: 
 a. 
 Inadimplemento de qualquer obrigação prevista neste Contrato, salvo, quando possível, se 
-sanado o inadimplemento no prazo de 15 (quinze) dias contados da data de envio da notificação 
-pela Parte prejudicada (“Prazo de Cura”); 
+sanado o inadimplemento no Prazo de Cura; 
 b. 
 Quando decretada a falência ou insolvência de umas das Partes; ou 
 c. 
@@ -282,8 +291,6 @@ indicará, ao menos, a natureza e categoria dos dados pessoais afetados, informa
 atingidos, riscos identificados e medidas que foram e/ou que serão adotadas para reverter ou mitigar os 
 efeitos do dano, a fim de que a Contratante possa tomar as decisões que considerar cabíveis. 
  
-DocuSign Envelope ID: F3EBC252-2911-4D6C-ABD2-171F9D391788
-Página 7 de 9 
 9.4. 
 A Contratada se compromete a colaborar com a Contratante para que esta possa fornecer 
 respostas a solicitações que lhe forem dirigidas. 
@@ -296,6 +303,8 @@ revogação a qualquer tempo.
  
 9.6. 
 É assegurado o compartilhamento de dados pessoais entre a Contratada e a Contratante, para 
+Clicksign 08d8a20f-8c68-4642-ae7f-4c9c34aeb6d1
+Página 8 de 10 
 cumprimento deste Contrato, especialmente com finalidades de prestação dos Serviços, gestão 
 contabilística, fiscal e administrativa para controle de cobranças, pagamentos e acompanhamento das 
 informações mensais para medição da prestação de serviços. 
@@ -335,8 +344,6 @@ O não exercício de qualquer direito previsto neste Contrato, bem como a falta 
 Partes, no exercício total ou parcial de quaisquer poderes ou direitos contratuais, não constituirá 
 renúncia a tais poderes ou direitos, nem poderá ser alegado pela outra Parte como precedente e nem 
 constituirá novação. 
-DocuSign Envelope ID: F3EBC252-2911-4D6C-ABD2-171F9D391788
-Página 8 de 9 
  
 10.8. 
 É vedada a cessão ou subcontratação dos Serviços pela Contratada, no todo ou em parte, a 
@@ -346,8 +353,10 @@ terceiros, sem a prévia e expressa anuência da Contratante.
 Todas as notificações e comunicações a serem realizadas entre as Partes, decorrentes deste 
 Contrato, deverão ser efetuadas por escrito e entregues (i) pessoalmente, (ii) via carta registrada, (iii) por 
 meio de cartório de registro de títulos e documentos, ou (iv) via correio eletrônico, no endereço de e-
-mail financeiro@lumxstudios.com ou juridico@lumxstudios.com se para a Contratante e no endereço de 
-e-mail gabriella.lima@lumxstudios.com se para a Contratada. 
+mail financeiro@lumxstudios.com ou juridico@lumxstudios.com se para a Contratante e no 
+Clicksign 08d8a20f-8c68-4642-ae7f-4c9c34aeb6d1
+Página 9 de 10 
+endereço de e-mail patrick.costa@lumxstudios.com se para a Contratada.  
  
 10.9.1. 
  Qualquer alteração nos endereços e informações mencionados no item acima deverá 
@@ -381,255 +390,114 @@ seja ou venha ser, para dirimir as questões oriundas do presente instrumento.
 E, por estarem justas e contratadas, as Partes assinam o presente instrumento, na presença de 2 (duas) 
 testemunhas que também o subscrevem. 
  
-Rio de Janeiro, 19 de junho de 2023. 
- 
-DocuSign Envelope ID: F3EBC252-2911-4D6C-ABD2-171F9D391788
-Página 9 de 9 
+Rio de Janeiro, 22 de Abril de 2022. 
  
  
  
-LUMX STUDIOS S.A. 
+ 
+LUMX STUDIOS LTDA. 
  
  
-GABRIELLA COSTA LIMA 15972161788 
+PATRICK DE SOUZA COSTA 
  
 Testemunhas: 
  
-1. ______________________________________ 
-Nome: Caio Diniz Bretas  
-CPF: 150.712.927-00  
-2. ______________________________________ 
-Nome: Michel Ruthenberg Goldberg  
-CPF: 160.306.787-60  
+Clicksign 08d8a20f-8c68-4642-ae7f-4c9c34aeb6d1
+Página 10 de 10 
+______________________________________  
+______________________________________ 
+1. 
  
-DocuSign Envelope ID: F3EBC252-2911-4D6C-ABD2-171F9D391788
-Certificado de Conclusão
-Identificação de envelope: F3EBC25229114D6CABD2171F9D391788
-Status: Concluído
-Assunto: Complete com a DocuSign: Lumx_Gabriella_Contrato com Não Desenvolvedor_ Prestação de Serviç...
-Envelope fonte: 
-Documentar páginas: 9
-Assinaturas: 4
-Remetente do envelope: 
-Certificar páginas: 5
-Rubrica: 0
-Caio Diniz Bretas
-Assinatura guiada: Ativado
-Selo com EnvelopeId (ID do envelope): Ativado
-Fuso horário: (UTC-08:00) Hora do Pacífico (EUA e Canadá)
-RUA VOLUNTARIOS DA PATRIA, 89
-RIO DE JANEIRO, RJ  22.270-000
-admin@lumxstudios.com
-Endereço IP: 179.218.120.126
-Rastreamento de registros
-Status: Original
-             15/06/2023 08:57:09
-Portador: Caio Diniz Bretas
-             admin@lumxstudios.com
-Local: DocuSign
-Eventos do signatário
-Assinatura
-Registro de hora e data
-Caio Barbosa Zacarias
-caio@lumxstudios.com
-CEO
-Nível de segurança: E-mail, Autenticação da conta 
-(Nenhuma)
-Adoção de assinatura: Estilo pré-selecionado
-Usando endereço IP: 191.121.214.93
-Enviado: 15/06/2023 08:58:21
-Visualizado: 15/06/2023 12:34:24 
-Assinado: 15/06/2023 12:34:28
-Termos de Assinatura e Registro Eletrônico: 
-      Aceito: 15/06/2023 12:34:24
-      ID: 3a5abad5-3453-4c90-9f85-6d667246157f
-Caio Diniz Bretas
-admin@lumxstudios.com
-Nível de segurança: E-mail, Autenticação da conta 
-(Nenhuma)
-Adoção de assinatura: Estilo pré-selecionado
-Usando endereço IP: 179.218.120.126
-Enviado: 15/06/2023 08:58:22
-Visualizado: 15/06/2023 08:58:48 
-Assinado: 15/06/2023 08:58:53
-Termos de Assinatura e Registro Eletrônico: 
-      Não oferecido através do DocuSign
-Gabriella Costa Lima
-gabriella.lima@lumxstudios.com
-Nível de segurança: E-mail, Autenticação da conta 
-(Nenhuma)
-Adoção de assinatura: Estilo pré-selecionado
-Usando endereço IP: 179.98.112.59
-Enviado: 15/06/2023 08:58:23
-Reenviado: 20/06/2023 08:53:09
-Reenviado: 22/06/2023 16:05:15
-Visualizado: 23/06/2023 05:35:24 
-Assinado: 23/06/2023 05:36:29
-Termos de Assinatura e Registro Eletrônico: 
-      Aceito: 23/06/2023 05:35:24
-      ID: 968bab4c-d38b-45d0-b17a-8b955ebcac9a
+ 
+2. 
+Nome: Caio Diniz Bretas 
+ 
+ 
+Nome: Michel Ruthenberg Goldberg 
+CPF/ME: 150.712.927-00 
+ 
+ 
+CPF/ME: 160.306.787-60 
+ 
+Clicksign 08d8a20f-8c68-4642-ae7f-4c9c34aeb6d1
+21. Patrick de Souza Costa_Contrato com Desenvolvedor_ Prestação de
+Serviços_(LF_20.06.2022) (1).docx
+Documento número #08d8a20f-8c68-4642-ae7f-4c9c34aeb6d1
+Hash do documento original (SHA256): ba4d1db9bedd17627a20c7b872d5cc9f9dfba8a7f3b519c98896194de682b8dc
+Assinaturas
+Patrick de Souza Costa
+CPF: 082.265.156-45
+Assinou como parte em 24 jun 2022 às 08:50:54
 Michel Ruthenberg Goldberg
-michel@lumxstudios.com
-CFO
-Nível de segurança: E-mail, Autenticação da conta 
-(Nenhuma)
-Adoção de assinatura: Estilo pré-selecionado
-Usando endereço IP: 179.176.62.52
-Enviado: 15/06/2023 08:58:22
-Visualizado: 20/06/2023 06:31:40 
-Assinado: 20/06/2023 06:31:49
-Termos de Assinatura e Registro Eletrônico: 
-      Aceito: 20/06/2023 06:31:40
-      ID: 9ff0304d-89fb-4ac3-bc22-affdd1c67c5b
-Eventos do signatário presencial
-Assinatura
-Registro de hora e data
-Eventos de entrega do editor
-Status
-Registro de hora e data
-Evento de entrega do agente
-Status
-Registro de hora e data
-Eventos de entrega intermediários
-Status
-Registro de hora e data
-Eventos de entrega certificados
-Status
-Registro de hora e data
-Eventos de cópia
-Status
-Registro de hora e data
-Eventos com testemunhas
-Assinatura
-Registro de hora e data
-Eventos do tabelião
-Assinatura
-Registro de hora e data
-Eventos de resumo do envelope
-Status
-Carimbo de data/hora
-Envelope enviado
-Com hash/criptografado
-15/06/2023 08:58:23
-Entrega certificada
-Segurança verificada
-20/06/2023 06:31:40
-Assinatura concluída
-Segurança verificada
-20/06/2023 06:31:49
-Concluído
-Segurança verificada
-23/06/2023 05:36:29
-Eventos de pagamento
-Status
-Carimbo de data/hora
-Termos de Assinatura e Registro Eletrônico
-ELECTRONIC RECORD AND SIGNATURE DISCLOSURE  
-From time to time, LUMX STUDIOS S.A. (we, us or Company) may be required by law to 
-provide to you certain written notices or disclosures. Described below are the terms and 
-conditions for providing to you such notices and disclosures electronically through the DocuSign 
-system. Please read the information below carefully and thoroughly, and if you can access this 
-information electronically to your satisfaction and agree to this Electronic Record and Signature 
-Disclosure (ERSD), please confirm your agreement by selecting the check-box next to ‘I agree to 
-use electronic records and signatures’ before clicking ‘CONTINUE’ within the DocuSign 
-system. 
- 
-Getting paper copies  
-At any time, you may request from us a paper copy of any record provided or made available 
-electronically to you by us. You will have the ability to download and print documents we send 
-to you through the DocuSign system during and immediately after the signing session and, if you 
-elect to create a DocuSign account, you may access the documents for a limited period of time 
-(usually 30 days) after such documents are first sent to you. After such time, if you wish for us to 
-send you paper copies of any such documents from our office to you, you will be charged a 
-$0.00 per-page fee. You may request delivery of such paper copies from us by following the 
-procedure described below. 
- 
-Withdrawing your consent  
-If you decide to receive notices and disclosures from us electronically, you may at any time 
-change your mind and tell us that thereafter you want to receive required notices and disclosures 
-only in paper format. How you must inform us of your decision to receive future notices and 
-disclosure in paper format and withdraw your consent to receive notices and disclosures 
-electronically is described below. 
- 
-Consequences of changing your mind  
-If you elect to receive required notices and disclosures only in paper format, it will slow the 
-speed at which we can complete certain steps in transactions with you and delivering services to 
-you because we will need first to send the required notices or disclosures to you in paper format, 
-and then wait until we receive back from you your acknowledgment of your receipt of such 
-paper notices or disclosures. Further, you will no longer be able to use the DocuSign system to 
-receive required notices and consents electronically from us or to sign electronically documents 
-from us. 
- 
-All notices and disclosures will be sent to you electronically  
-Termos de Assinatura e Registro Eletrônico criado em: 14/06/2023 11:56:57
-Partes concordam em: Caio Barbosa Zacarias, Gabriella Costa Lima, Michel Ruthenberg Goldberg
-Unless you tell us otherwise in accordance with the procedures described herein, we will provide 
-electronically to you through the DocuSign system all required notices, disclosures, 
-authorizations, acknowledgements, and other documents that are required to be provided or made 
-available to you during the course of our relationship with you. To reduce the chance of you 
-inadvertently not receiving any notice or disclosure, we prefer to provide all of the required 
-notices and disclosures to you by the same method and to the same address that you have given 
-us. Thus, you can receive all the disclosures and notices electronically or in paper format through 
-the paper mail delivery system. If you do not agree with this process, please let us know as 
-described below. Please also see the paragraph immediately above that describes the 
-consequences of your electing not to receive delivery of the notices and disclosures 
-electronically from us. 
- 
-How to contact LUMX STUDIOS S.A.:  
-You may contact us to let us know of your changes as to how we may contact you electronically, 
-to request paper copies of certain information from us, and to withdraw your prior consent to 
-receive notices and disclosures electronically as follows: 
-To contact us by email send messages to: admin@lumxstudios.com 
- 
-To advise LUMX STUDIOS S.A. of your new email address  
-To let us know of a change in your email address where we should send notices and disclosures 
-electronically to you, you must send an email message to us at admin@lumxstudios.com and in 
-the body of such request you must state: your previous email address, your new email 
-address.  We do not require any other information from you to change your email address.  
-If you created a DocuSign account, you may update it with your new email address through your 
-account preferences.  
- 
-To request paper copies from LUMX STUDIOS S.A.  
-To request delivery from us of paper copies of the notices and disclosures previously provided 
-by us to you electronically, you must send us an email to admin@lumxstudios.com and in the 
-body of such request you must state your email address, full name, mailing address, and 
-telephone number. We will bill you for any fees at that time, if any. 
- 
-To withdraw your consent with LUMX STUDIOS S.A.  
-To inform us that you no longer wish to receive future notices and disclosures in electronic 
-format you may: 
-i. decline to sign a document from within your signing session, and on the subsequent page, 
-select the check-box indicating you wish to withdraw your consent, or you may; 
-ii. send us an email to admin@lumxstudios.com and in the body of such request you must state 
-your email, full name, mailing address, and telephone number. We do not need any other 
-information from you to withdraw consent..  The consequences of your withdrawing consent for 
-online documents will be that transactions may take a longer time to process.. 
- 
-Required hardware and software  
-The minimum system requirements for using the DocuSign system may change over time. The 
-current system requirements are found here: https://support.docusign.com/guides/signer-guide-
-signing-system-requirements.  
- 
-Acknowledging your access and consent to receive and sign documents electronically  
-To confirm to us that you can access this information electronically, which will be similar to 
-other electronic notices and disclosures that we will provide to you, please confirm that you have 
-read this ERSD, and (i) that you are able to print on paper or electronically save this ERSD for 
-your future reference and access; or (ii) that you are able to email this ERSD to an email address 
-where you will be able to print on paper or save it for your future reference and access. Further, 
-if you consent to receiving notices and disclosures exclusively in electronic format as described 
-herein, then select the check-box next to ‘I agree to use electronic records and signatures’ before 
-clicking ‘CONTINUE’ within the DocuSign system. 
-By selecting the check-box next to ‘I agree to use electronic records and signatures’, you confirm 
-that: 
- 
-You can access and read this Electronic Record and Signature Disclosure; and 
- 
-You can print on paper this Electronic Record and Signature Disclosure, or save or send 
-this Electronic Record and Disclosure to a location where you can print it, for future 
-reference and access; and 
- 
-Until or unless you notify LUMX STUDIOS S.A. as described above, you consent to 
-receive exclusively through electronic means all notices, disclosures, authorizations, 
-acknowledgements, and other documents that are required to be provided or made 
-available to you by LUMX STUDIOS S.A. during the course of your relationship with 
-LUMX STUDIOS S.A.. 
+CPF: 160.306.787-60
+Assinou como testemunha em 24 jun 2022 às 12:20:25
+Caio Diniz Bretas
+CPF: 150.712.927-00
+Assinou como testemunha em 23 jun 2022 às 22:38:35
+Caio Barbosa Zacarias
+CPF: 162.868.767-31
+Assinou como parte em 24 jun 2022 às 10:52:35
+Log
+23 jun 2022, 21:04:12
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 criou este documento número 08d8a20f-8c68-4642-ae7f-4c9c34aeb6d1. Data
+limite para assinatura do documento: 23 de julho de 2022 (21:03). Finalização automática após a
+última assinatura: habilitada. Idioma: Português brasileiro.
+23 jun 2022, 21:04:24
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 adicionou à Lista de Assinatura:
+patrick.costa@lumxstudios.com, para assinar como parte, com os pontos de autenticação: email
+(via token); Nome Completo; CPF; endereço de IP. Dados informados pelo Operador para
+validação do signatário: nome completo Patrick de Souza Costa e CPF 082.265.156-45.
+23 jun 2022, 21:05:13
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 adicionou à Lista de Assinatura:
+michel@lumxstudios.com, para assinar como testemunha, com os pontos de autenticação:
+email (via token); Nome Completo; CPF; endereço de IP. Dados informados pelo Operador para
+validação do signatário: nome completo Michel Ruthenberg Goldberg e CPF 160.306.787-60.
+Datas e horários em GMT  -03:00 Brasilia
+Log gerado em 24 de junho de 2022. Versão v1.13.0.
+08d8a20f-8c68-4642-ae7f-4c9c34aeb6d1
+Página 1 de 2 do Log
+23 jun 2022, 21:05:13
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 adicionou à Lista de Assinatura:
+caio.bretas@lumxstudios.com, para assinar como testemunha, com os pontos de autenticação:
+email (via token); Nome Completo; CPF; endereço de IP. Dados informados pelo Operador para
+validação do signatário: nome completo Caio Diniz Bretas e CPF 150.712.927-00.
+23 jun 2022, 21:05:13
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 adicionou à Lista de Assinatura:
+caio@lumxstudios.com, para assinar como parte, com os pontos de autenticação: email (via
+token); Nome Completo; CPF; endereço de IP. Dados informados pelo Operador para validação
+do signatário: nome completo Caio Barbosa Zacarias e CPF 162.868.767-31.
+23 jun 2022, 22:38:35
+Caio Diniz Bretas assinou como testemunha. Pontos de autenticação: email
+caio.bretas@lumxstudios.com (via token). CPF informado: 150.712.927-00. IP: 179.218.247.34.
+Componente de assinatura versão 1.295.0 disponibilizado em https://app.clicksign.com.
+24 jun 2022, 08:52:02
+Patrick de Souza Costa assinou como parte. Pontos de autenticação: email
+patrick.costa@lumxstudios.com (via token). CPF informado: 082.265.156-45. IP: 189.70.9.99.
+Componente de assinatura versão 1.295.0 disponibilizado em https://app.clicksign.com.
+24 jun 2022, 10:52:35
+Caio Barbosa Zacarias assinou como parte. Pontos de autenticação: email
+caio@lumxstudios.com (via token). CPF informado: 162.868.767-31. IP: 191.19.106.46.
+Componente de assinatura versão 1.296.1 disponibilizado em https://app.clicksign.com.
+24 jun 2022, 12:20:26
+Michel Ruthenberg Goldberg assinou como testemunha. Pontos de autenticação: email
+michel@lumxstudios.com (via token). CPF informado: 160.306.787-60. IP: 98.148.29.59.
+Componente de assinatura versão 1.296.1 disponibilizado em https://app.clicksign.com.
+24 jun 2022, 12:20:26
+Processo de assinatura finalizado automaticamente. Motivo: finalização automática após a
+última assinatura habilitada. Processo de assinatura concluído para o documento número
+08d8a20f-8c68-4642-ae7f-4c9c34aeb6d1.
+Documento assinado com validade jurídica.
+Para conferir a validade, acesse https://validador.clicksign.com e utilize a senha gerada pelos signatários ou
+envie este arquivo em PDF.
+As assinaturas digitais e eletrônicas têm validade jurídica prevista na Medida Provisória nº. 2200-2 / 2001
+Este Log é exclusivo e deve ser considerado parte do documento nº 08d8a20f-8c68-4642-ae7f-4c9c34aeb6d1, com os efeitos
+prescritos nos Termos de Uso da Clicksign, disponível em www.clicksign.com.
+Datas e horários em GMT  -03:00 Brasilia
+Log gerado em 24 de junho de 2022. Versão v1.13.0.
+08d8a20f-8c68-4642-ae7f-4c9c34aeb6d1
+Página 2 de 2 do Log

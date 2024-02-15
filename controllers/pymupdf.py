@@ -8,7 +8,7 @@ class BytesReader:
     def __init__(self):
         self.position = 0
 
-    def read_document(self, bytes_obj: IOBase) -> tuple[str,Document]:
+    def read_document(self, bytes_obj: IOBase) -> tuple[str, Document]:
 
         pdf_document: Document = fitz.open('pdf', bytes_obj.read())
         text = ''

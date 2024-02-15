@@ -1,0 +1,521 @@
+ 
+Página 1 de 11 
+CONTRATO DE PARCERIA COM LICENCIAMENTO DE DIREITOS AUTORAIS 
+ 
+Pelo presente instrumento particular, de um lado: 
+ 
+LUMX STUDIOS S.A., sociedade anônima fechada, inscrita no CNPJ/MF sob o nº 42.887.120/0001-00, 
+com sede à Rua Voluntários da Pátria, nº 89, sala. 804, Botafogo, Rio de Janeiro/RJ, CEP: 22270-000, neste 
+ato representada na forma de seus atos constitutivos, doravante denominada “Lumx”;  
+ 
+E, de outro lado, 
+ 
+OMNES CONSULTING LTDA, pessoa jurídica de direito privado, inscrita no CNPJ/MF sob o nº 
+49.080.172/0001-01 , com sede na rua Inácio Higino, nº 993, Praia da Costa, Vila Velha/ES, CEP 29.101-
+087, neste ato representada na forma de seus atos constitutivos, doravante denominada “Parceira”. 
+ 
+Lumx e Parceira, quando em conjunto, denominadas como “Partes” e, isoladamente, como “Parte”. 
+ 
+CONSIDERANDO QUE: 
+ 
+(i) 
+A Lumx é uma relevante startup do ramo digital, focada no 
+desenvolvimento de estrutura criptografada de NFTs, softwares e demais produtos digitais inovadores;  
+ 
+(ii) 
+A Lumx desenvolveu interfaces de programação de 
+aplicações (Application-Programming Interface ou, simplesmente, “API’s”), que são um conjunto de 
+protocolos para criação e integração de softwares, permitindo que seus clientes e usuários criem 
+funcionalidades e possam adquirir, vender e interagir com NFTs; 
+ 
+(iii) 
+A Parceira é pessoa jurídica qualificada e especialista em 
+desenvolvimento de produtos, softwares e programas de tecnologia da informação em geral; e 
+ 
+(iv) 
+A Lumx quer expandir o desenvolvimento de seus produtos 
+e protocolos Web3 e, para tanto, deseja firmar parcerias comerciais e estratégicas que permitam a 
+execução de mais projetos de seus clientes, de maneira simultânea. 
+ 
+Resolvem as Partes, de comum acordo, celebrar o presente Contrato de Parceria com Licenciamento de 
+Direitos Autorais (“Contrato”), que será regido conforme os termos e condições abaixo: 
+ 
+CLÁUSULA PRIMEIRA - PARCERIA 
+ 
+1.1. 
+O objeto do presente Contrato é regular a parceria para atendimento e execução de projetos dos 
+clientes da Lumx (“Projetos”), através do licenciamento de API’s e prestação de serviços especializados 
+DocuSign Envelope ID: 9AA9D80A-8567-406B-AFBE-AFEC004D3BDE
+ 
+Página 2 de 11 
+de desenvolvimento de softwares, estruturas criptografadas para NFTs e programas de tecnologia da 
+informação em geral para a Lumx pela Parceira (“Parceria”).  
+ 
+1.2. 
+Os serviços consistirão, sem prejuízo de outros correlacionados ou solicitados pela Lumx, em: a) 
+atividades relativas ao tratamento de dados, provedores de serviços de aplicação e serviços de 
+hospedagem na internet; b) realização de programação em blockchain, smart contracts e integração 
+junto às API’s da Lumx; e c) ilustração digital, criação de elementos gráficos (“Serviços”).  
+ 
+1.3. 
+O licenciamento das API’s desenvolvidas pela Lumx à Parceira será por prazo determinado, a 
+título oneroso, exclusivo e revogável, acompanhado da estrutura virtual, seus respectivos códigos-fonte 
+e funcionalidades, para que a Parceira seja capaz de executar os Projetos em nome da Lumx 
+(“Licenciamento”). 
+ 
+1.3.1. 
+A Lumx é única e exclusiva titular dos códigos-fonte, 
+patentes e demais registros relacionados às API’s e não cederá nem transferirá à Parceira a 
+propriedade intelectual vinculada à estrutura de códigos das API’s, tratando-se apenas de uma 
+licença de uso para execução dos Projetos. 
+ 
+1.3.2. 
+O Licenciamento não autoriza, de qualquer modo, o 
+sublicenciamento, cessão ou qualquer outra forma de transferência total ou parcial das API’s e/ou 
+quaisquer direitos a elas relativos, pela Parceira a quaisquer terceiros. 
+ 
+1.3.3. 
+É vedada a realização de qualquer modificação nas API’s 
+pela Parceira, ainda que com a finalidade de incorporar melhoramentos, upgrades ou updates, os 
+quais somente poderão ser realizados pela Lumx na qualidade de titular dos direitos econômicos 
+e intelectuais das API’s e suas funcionalidades. 
+ 
+1.4. 
+Os Projetos serão negociados diretamente entre a Lumx e seus clientes, ocasião em que serão 
+negociados o escopo, preço, prazo e demais especificidades do Projeto, devendo toda comunicação com 
+o cliente ocorrer por intermédio da Lumx. 
+ 
+1.4.1. 
+Caso a Parceira tenha qualquer dúvida sobre o Projeto, 
+deverá comunicar à Lumx por escrito, para que preste os devidos esclarecimentos ou busque, junto 
+ao seu cliente, as respostas necessárias. 
+ 
+1.5. 
+A cada novo Projeto negociado pela Lumx com seu cliente, será enviada uma requisição por 
+escrito à Parceira, sempre em alinhamento e consonância com as orientações transmitidas pelo cliente, 
+contendo informações e detalhes do Projeto ("Requisição”). 
+ 
+1.5.1. 
+Concluída a Requisição, deverá a Parceira entregar o 
+produto do Projeto à Lumx, cedendo em favor desta todos os direitos de propriedade intelectual 
+sobre as criações e melhorias realizadas em decorrência da Parceria, em caráter oneroso, integral, 
+exclusivo, irrevogável e irretratável, nos termos da Lei n.º 9.610/1998. 
+ 
+DocuSign Envelope ID: 9AA9D80A-8567-406B-AFBE-AFEC004D3BDE
+ 
+Página 3 de 11 
+1.6. 
+Tendo em vista que os Projetos serão executados pela Parceira em nome da Lumx, a Parceira 
+deverá seguir as instruções enviadas pela Lumx no uso das API’s para prestação dos Serviços, bem como 
+o brandbook, guideline e demais orientações fornecidas. 
+ 
+1.7. 
+Caso a Parceira seja procurada diretamente por seus clientes para o desenvolvimento de 
+produtos e projetos Web3, poderá utilizar as API’s objeto do Licenciamento, bem como outras 
+tecnologias desenvolvidas pela Lumx e apresentadas à Parceira em razão deste Contrato (“Contratação 
+Direta”). 
+ 
+1.7.1. 
+A Parceira deverá notificar a Lumx do uso das tecnologias 
+mencionadas na Cláusula 1.7, enviando cópia do contrato ou documento equivalente que regule a 
+Contratação Direta, pagando à Lumx comissão de 20% sobre os valores pagos pelo cliente da 
+Parceira, na forma e prazos previstos na Cláusula Segunda. 
+ 
+1.8. 
+As Partes reconhecem que a Parceria não é firmada em caráter de exclusividade, podendo firmar 
+outras parcerias que tenham mesmo escopo. 
+ 
+CLÁUSULA SEGUNDA – PREÇO E FORMA DE PAGAMENTO 
+ 
+2.1. 
+Pela Parceria, a Lumx pagará à Parceira o percentual descrito na Requisição sobre o valor 
+acordado pelo Projeto (“Preço”), até o dia 10 (dez) do mês subsequente à finalização da Requisição, via 
+transferência bancária em conta de titularidade da Parceira.  
+ 
+2.1.1. A nota fiscal relativa ao Preço será encaminhada pela Parceira à Lumx para o endereço de 
+e-mail financeiro@lumxstudios.com, até o último dia útil do mês de execução da Requisição. Caso 
+seja constatado algum erro nas notas fiscais, serão as mesmas devolvidas e os respectivos 
+pagamentos serão sustados até sua efetiva correção, sem que isso implique em qualquer reajuste 
+ou multa à Lumx se o pagamento, em virtude do erro constatado, ocorrer após a data de seu 
+vencimento. 
+ 
+2.1.2 
+Na hipótese de atraso no pagamento por culpa exclusiva da Lumx, será devida multa 
+moratória equivalente a 2% (dois por cento), acrescida de correção monetária com base na 
+variação do IPCA/IBGE e juros de 1% (um por cento) ao mês, sobre o valor em atraso.  
+ 
+2.1.3 
+Caso a fatura/nota fiscal seja apresentada com atraso, o pagamento poderá ser postergado 
+por prazo equivalente ao do atraso. 
+ 
+2.2. 
+ O Preço é fechado, incluindo as despesas regulares necessárias à execução da Parceria, 
+irreajustável e inclui a remuneração total devida à Parceira pelo cumprimento de todas as obrigações por 
+este assumidas, bem como todos os custos diretos e indiretos, além dos tributos incidentes. 
+ 
+2.3. 
+A Lumx poderá descontar, na fonte, os tributos e contribuições que a legislação tributária assim 
+a obrigar. 
+DocuSign Envelope ID: 9AA9D80A-8567-406B-AFBE-AFEC004D3BDE
+ 
+Página 4 de 11 
+ 
+CLÁUSULA TERCEIRA – PRAZO 
+ 
+3.1. 
+O presente Contrato terá vigência de 12 (doze) meses, a contar da data de sua assinatura 
+(“Prazo”).  
+ 
+3.1.1. As Partes acordam, ainda, que o Prazo somente poderá ser alterado mediante acordo 
+prévio e por escrito entre as Partes, formalizado por meio de aditivo ao Contrato. 
+ 
+CLÁUSULA QUARTA - OBRIGAÇÕES DAS PARTES 
+ 
+4.1. 
+São obrigações da Parceira: 
+a) 
+Prestar os serviços objeto deste contrato observando fielmente as condições e prazos 
+estabelecidos;  
+b) 
+Atender às solicitações da Lumx referentes à eventuais adaptações, com a presteza e 
+urgência que o assunto exigir, atendendo à eventuais prazos estipulados pelo cliente; 
+c) 
+Conduzir os trabalhos de acordo com os melhores procedimentos e técnicas habitualmente 
+adotados, com estrita observância da ética profissional e das disposições legais vigentes; 
+d) 
+Responsabilizar-se por qualquer violação de terceiro, bem como por danos causados à Lumx 
+ou seus clientes por qualquer descumprimento do Contrato, inclusive, mas não se limitando, a 
+atraso ou inadimplência; 
+e) 
+Seguir as instruções da Lumx para executar os Projetos; 
+f) 
+Não abordar diretamente os clientes da Lumx, centralizando todas as comunicações 
+referentes ao Projeto com os representantes da Lumx; 
+g) 
+Tratar com absoluto sigilo e confidencialidade todas as informações que vier a ter 
+conhecimento sobre os Projetos;  
+h) 
+Zelar pelo conceito das marcas, produtos e serviços da Lumx, abstendo-se de qualquer ato 
+ou omissão que direta ou indiretamente, cause ou possa causar descrédito, desprestígio ou 
+diminuição do valor das referidas marcas, produtos e serviços, sujeitando-se a indenizar perdas e 
+danos diretos e indiretos que daí advierem;  
+i) 
+Cumprir com as diretrizes e políticas internas da Lumx, devendo observar todos os seus 
+termos na execução dos Projetos; e  
+j) 
+Não subcontratar, ceder, ou, qualquer forma transferir, total ou parcialmente, os direitos e 
+obrigações oriundos e/ou decorrentes deste Contrato, inclusive seus créditos, de qualquer forma, 
+bem como oferecê-lo em garantia sem o consentimento prévio e por escrito da Lumx. 
+ 
+4.2. 
+Cada Parte, nesta data, declara e garante à outra Parte que: 
+DocuSign Envelope ID: 9AA9D80A-8567-406B-AFBE-AFEC004D3BDE
+ 
+Página 5 de 11 
+a) 
+Possui capacidade e autoridade necessárias para conduzir seus negócios, deter suas 
+propriedades e celebrar, entregar e cumprir suas obrigações previstas neste Contrato; 
+b) 
+O Contrato não viola nenhum outro acordo ou contrato que uma das Partes tenha em vigor; 
+c) 
+Reserva-se o direito de celebrar outras contratações desta natureza com terceiros, de forma 
+que a celebração do presente não gera qualquer exclusividade;  
+d) 
+Age sempre em conformidade com a legislação vigente e, em especial, com a legislação 
+anticorrupção, e se compromete a não (i) prometer, oferecer ou dar, direta ou indiretamente, 
+vantagem indevida a agente público ou a quem quer que seja, ou a terceira pessoa relacionada a 
+uma das partes; (ii) criar, de modo fraudulento, irregular ou ilegal, pessoa jurídica para celebrar o 
+presente Contrato; (iii) obter vantagem ou benefício indevido, de modo fraudulento, de 
+modificações ou prorrogações do presente Contrato, sem autorização em lei, nos respectivos 
+instrumentos contratuais; (iv) manipular o equilíbrio econômico-financeiro do presente Contrato; 
+ou (v) de qualquer maneira fraudar o presente Contrato; assim como incorrer em ações ou 
+omissões que constituam prática de corrupção ou demais atos lesivos nos termos da Lei nº 
+12.846/2013, do Decreto nº 8.420/2015, bem como em demais leis ou regulamentos aplicáveis em 
+âmbito nacional, os quais compreendam o microssistema de tutela anticorrupção, ainda que não 
+relacionadas com o presente Contrato. 
+ 
+4.3. São obrigações da Lumx: 
+a) 
+Fornecer à Parceira as informações, dados e documentos necessários à execução do Projeto; 
+b) 
+Intermediar as comunicações com os clientes para sanar dúvidas da Parceira sobre o Projeto; 
+e 
+c) 
+Efetuar os pagamentos devidos à Parceira, conforme acordado entre as Partes. 
+ 
+CLÁUSULA QUINTA - PROPRIEDADE INTELECTUAL 
+ 
+5.1. Para fins deste Contrato, considera-se Propriedade Intelectual todos os direitos de propriedade 
+industrial, direitos autorais e conexos, e direitos sobre os softwares. Todos os direitos de Propriedade 
+Intelectual relacionados aos Projetos e API’s pertencem exclusivamente à Lumx, incluindo, mas não se 
+limitando às invenções de qualquer natureza, softwares, códigos, patentes, modelos de utilidade, 
+desenhos industriais, marcas, bibliotecas, interfaces, nomes comerciais, nomes de domínio, bancos de 
+dados, design, know-how, segredos comerciais e direitos autorais. 
+ 
+5.2. Ficam assegurados à Lumx todos os Direitos de Propriedade Intelectual sobre qualquer fruto da 
+Parceria, inclusive eventuais atualizações, adaptações, melhorias e sugestões relacionadas à prestação 
+de serviços que tenham sido desenvolvidas sob a égide deste Contrato, inclusive caso este instrumento 
+seja rescindido antecipadamente, sendo vedado a Parceira realizar qualquer ato que possa ser 
+considerado infração de Propriedade Intelectual ou de qualquer forma, usufruir, copiar, utilizar, 
+DocuSign Envelope ID: 9AA9D80A-8567-406B-AFBE-AFEC004D3BDE
+ 
+Página 6 de 11 
+transferir, armazenar, imitar, gravar, sincronizar, editar, modificar, realizar engenharia reversa, compilar, 
+descompilar, reproduzir, ceder, licenciar, se apropriar, apagar, alterar e modificar a Propriedade 
+Intelectual, no todo ou em parte, sem prévia e expressa autorização da Lumx, sejam estas atividades 
+desempenhadas por si próprio ou por quaisquer terceiros que venha a dar ou permitir acesso, ainda que 
+de forma incidental. 
+ 
+5.3. A Parceira reconhece e concorda que qualquer invenção, obra, criação que prepare, faça, crie, 
+desenvolva, conceba ou reduza à prática, sozinha ou em conjunto com outros prestadores de serviço, 
+durante a vigência deste Contrato, seja utilizando-se dos recursos, equipamentos, instalações, 
+suprimentos, conhecimentos, segredos de negócio, tecnologias, softwares, propriedades intelectuais, 
+dados ou materiais da Lumx ou não, se protegível por direitos de propriedade intelectual ou não, 
+incluindo segredos de negócio, know-how, fluxos, melhorias, entre outros que (i) resultem ou estejam 
+relacionadas aos Projetos realizados pela Parceira para a Lumx; (ii) resultem de atividades e pesquisas 
+realizadas dentro das instalações da Lumx, ou com os recursos, tecnologia, propriedade intelectual, 
+instalações e equipamentos da Lumx; mesmo em casos em que a Parceira proceda com o ato de criação 
+fora das instalações da Lumx, contanto que ocorra em conexão à Lumx e/ou à Propriedade Intelectual da 
+Lumx; ou (iii) estejam direta ou indiretamente relacionadas ao negócio da Lumx ou às suas atividades, 
+serão de única e exclusiva propriedade da Lumx. 
+ 
+5.4. Infração aos direitos de Propriedade Intelectual da Lumx que a Parceira teve acesso em 
+decorrência deste Contrato ensejará a aplicação de multa, em desfavor da Parceira, no valor de 
+R$100.000,00 (cem mil reais), sem prejuízo da reparação dos eventuais danos, perdas, lucros cessantes 
+ou prejuízos que seus atos venham a acarretar. 
+ 
+5.5. A Parceira é responsável por si e por quaisquer terceiros que possam ter acesso a Propriedade 
+Intelectual em razão do Contrato firmado com a Parceira, responsabilizando-se por quaisquer violações 
+da presente cláusula. 
+ 
+5.6. Aplicam-se à presente relação entre Parceira e Lumx, além das normas dispostas pelo Código Civil, 
+a Lei nº 5.988/73 (“Lei de Direitos Autorais”) e Lei 9.279/96 (“Lei da Propriedade Industrial”) e a Lei n° 
+9.609/98 (“Lei de Software”) que, em conjunto, regulam a atividade objeto do presente contrato. 
+ 
+CLÁUSULA SEXTA – CONFIDENCIALIDADE 
+ 
+6.1. Entende-se por confidencial este Contrato, sua existência, conteúdo e qualquer informação 
+fornecida, seja por escrito ou verbalmente, inclusive aquelas que já tenham sido trocadas ou transmitidas 
+entre as Partes ou seus representantes durante as negociações para a assinatura deste Contrato e 
+quaisquer informações relacionadas às Partes, seus negócios, operações, ativos ou conteúdos, que já 
+tenham sido ou venham a ser trocadas no contexto das tratativas e/ou da performance do Contrato, 
+incluindo, mas não se limitando a, informações sobre produtos, clientes, precificação, know-how, 
+resultados, contratos, eventuais contingências, procedimentos e práticas (“Informações Confidenciais”).  
+DocuSign Envelope ID: 9AA9D80A-8567-406B-AFBE-AFEC004D3BDE
+ 
+Página 7 de 11 
+ 
+6.1.1. 
+Também são consideradas como Informações Confidenciais os Projetos, relatórios, 
+resumos, estudos, memorandos ou materiais secundários que sejam preparados por qualquer das 
+Partes com base em Informações Confidenciais da outra Parte.  
+ 
+6.2. A Parceira deverá manter em sigilo a execução dos serviços prestados em razão deste Contrato, 
+não podendo divulgar o conteúdo da Parceria, realizar press release (comunicado de imprensa) dos 
+Projetos ou de qualquer forma dar publicidade ao que foi tratado no âmbito deste Contrato, exceto caso 
+aprovado prévia e expressamente pela Lumx e pelo cliente envolvido no eventual conteúdo a ser 
+divulgado. 
+ 
+6.3. As Informações Confidenciais deverão ser mantidas totalmente em sigilo e não serão usadas de 
+qualquer forma, exceto para os fins deste Contrato. Cada uma das Partes é responsável, por si e por seus 
+assessores, consultores, prestadores de serviços, colaboradores, empregados e administradores, por 
+cumprir com a obrigação de confidencialidade ora pactuada.  
+ 
+6.4. As Partes deverão usar as Informações Confidenciais somente para os fins para os quais lhe foram 
+reveladas e deverá, ainda, cumprir todas as leis, regulamentos e restrições aplicáveis.  
+ 
+6.5. Em caso de descumprimento das obrigações de confidencialidade previstas neste Contrato pela 
+Parceira, esta incidirá em multa não compensatória no valor de R$ 1.000.000,00 (um milhão de reais), 
+por cada incidente de descumprimento das obrigações confidenciais. 
+ 
+6.6. O dever de confidencialidade ora assumido pelas Partes vigorará por todo o Prazo e, ainda, pelo 
+prazo de 5 (cinco) anos, após o término deste Contrato.  
+ 
+CLÁUSULA SÉTIMA – NÃO CONCORRÊNCIA E NÃO ALICIAMENTO  
+ 
+7.1. A Parceira se obriga e se compromete a, por um prazo de 2 (dois) anos contados do término do 
+respectivo Contrato, abster-se de, diretamente ou por interposta pessoa, em todo território brasileiro, 
+concorrer ou de qualquer forma competir com quaisquer dos negócios desenvolvidos pela Lumx, em 
+decorrência do acesso a Informações Confidenciais que a Parceira teve acesso em razão do Contrato. 
+ 
+7.2. A Parceira se obriga e se compromete a, por um prazo de 2 (dois) anos contados do término do 
+Prazo, abster-se de, diretamente ou por interposta pessoa: 
+ 
+a) 
+persuadir ou tentar atrair qualquer empregada e/ou 
+contratada pela Lumx a deixar seu emprego ou terminar seu vínculo contratual, devendo, ainda, 
+abster-se de empregar, de forma contratual ou não, temporária ou não, assalariada, estatutária ou 
+autônoma, direta ou indiretamente, referidas pessoas, nem auxiliar terceiros para que empreguem 
+tais pessoas a qualquer título; e 
+DocuSign Envelope ID: 9AA9D80A-8567-406B-AFBE-AFEC004D3BDE
+ 
+Página 8 de 11 
+ 
+b) 
+induzir ou tentar influenciar, direta ou indiretamente, 
+qualquer cliente, fornecedor ou prestador de serviço da Lumx a rescindir seu respectivo contrato 
+ou acordo com a Lumx, nem induzir ou tentar influenciar tais pessoas a terminar, reduzir ou desviar 
+os negócios mantidos com a Lumx. 
+ 
+7.3. No caso de descumprimento das Cláusulas 7.1 ou 7.2, a Parceira deverá pagar à Lumx uma multa 
+não compensatória, correspondente a R$ 800.000,00 (oitocentos mil reais) por violação. 
+ 
+7.4. O disposto na Cláusula Sétima permanecerá em vigor e plenamente eficaz independente da forma 
+de encerramento do Contrato. 
+ 
+CLÁUSULA OITAVA – RESCISÃO 
+ 
+8.1. 
+Fica assegurado às Partes o direito de rescindir este Contrato, independentemente de motivo, 
+mediante envio de aviso prévio e escrito à outra Parte, com 30 (trinta) dias de antecedência.  
+ 
+8.2. 
+O presente Contrato também poderá ser rescindido pelas Partes, sem qualquer ônus pela 
+rescisão, independentemente de envio de notificação prévia, nos seguintes casos: 
+a) 
+Inadimplemento de qualquer obrigação prevista neste Contrato, salvo, quando possível, se 
+sanado o inadimplemento no Prazo de Cura; 
+b) 
+Quando decretada a falência ou insolvência de umas das Partes; ou 
+c) 
+Caso qualquer das Partes seja envolvida, por qualquer forma, em processo e/ou 
+procedimento que (i) possa prejudicar a imagem da outra Parte, ou (ii) envolva ilícito, fraude, 
+corrupção ou similar. 
+ 
+CLÁUSULA NONA – PROTEÇÃO DE DADOS 
+ 
+9.1. 
+As Partes declaram e concordam que toda e qualquer atividade de tratamento de dados deve 
+atender às finalidades e limites previstos neste Contrato e estar em conformidade com a legislação 
+aplicável, principalmente com a Lei 13.709/18 (“Lei Geral de Proteção de Dados” ou “LGPD”). 
+ 
+9.2. 
+A Parceira deve adotar todas as medidas de segurança de natureza técnica e administrativa 
+necessárias para assegurar a proteção de dados pessoais de acessos não autorizados e de situações 
+acidentais, tais como destruição, perda, alteração, comunicação ou qualquer forma de tratamento ilícito. 
+ 
+9.3. 
+Em caso de ameaça, suspeita ou ocorrência de Incidente de Segurança da Informação, a Parceira 
+deverá notificar a Lumx no prazo de 24 (vinte e quatro) horas da ciência do fato e indicará, ao menos, a 
+natureza e categoria dos dados pessoais afetados, informações sobre os titulares atingidos, riscos 
+DocuSign Envelope ID: 9AA9D80A-8567-406B-AFBE-AFEC004D3BDE
+ 
+Página 9 de 11 
+identificados e medidas que foram e/ou que serão adotadas para reverter ou mitigar os efeitos do dano, 
+a fim de que a Lumx possa tomar as decisões que considerar cabíveis. 
+ 
+9.4. 
+A Parceira se compromete a colaborar com a Lumx para que esta possa fornecer respostas a 
+solicitações que lhe forem dirigidas. 
+ 
+9.5. 
+Todas as operações de tratamento de dados pessoais devem ser fundamentadas em uma das 
+bases legais previstas nos arts. 7º e 11º da LGPD. Na excepcional hipótese de adoção do consentimento 
+pela Parceira, esta será responsável pela coleta, ônus de provas e por assegurar a possibilidade de 
+revogação a qualquer tempo. 
+ 
+9.6. 
+É assegurado o compartilhamento de dados pessoais entre a Parceira e a Lumx, para 
+cumprimento deste Contrato, especialmente com finalidades de prestação dos Serviços, gestão 
+contabilística, fiscal e administrativa para controle de cobranças, pagamentos e acompanhamento das 
+informações mensais para medição da prestação de serviços. 
+ 
+CLÁUSULA DÉCIMA –DISPOSIÇÕES GERAIS 
+ 
+10.1. 
+Todas as obrigações assumidas neste Contrato possuem caráter irrevogável e irretratável, sendo 
+que as Partes se obrigam por si e seus sucessores a cumprir, sem restrições, todos os termos e condições 
+do presente Contrato. 
+ 
+10.2. 
+As Partes são independentes e nenhuma disposição no presente Contrato deverá ser 
+interpretada no sentido de sugerir a existência de uma joint venture, ou qualquer tipo de participação 
+societária, relação de emprego ou sociedade entre as Partes ou em nome destas. 
+ 
+10.3. 
+Toda e qualquer renúncia, alteração, dispensa ou modificação de qualquer direito, obrigação, 
+termo ou condição da contratação só será válida e vinculante se efetuada por escrito e assinada pelas 
+Partes.  
+ 
+10.4. 
+Na hipótese de ser declarada nula ou inválida qualquer cláusula constante deste Contrato, tal 
+declaração não afetará as demais disposições deste Contrato que permanecerão em vigor.  
+ 
+10.5. 
+O não exercício de qualquer direito previsto neste Contrato, bem como a falta ou atraso, pelas 
+Partes, no exercício total ou parcial de quaisquer poderes ou direitos contratuais, não constituirá 
+renúncia a tais poderes ou direitos, nem poderá ser alegado pela outra Parte como precedente e nem 
+constituirá novação. 
+ 
+10.6. 
+É vedada a cessão ou subcontratação dos serviços pela Parceira, no todo ou em parte, a terceiros, 
+sem a prévia e expressa anuência da Lumx. 
+ 
+DocuSign Envelope ID: 9AA9D80A-8567-406B-AFBE-AFEC004D3BDE
+ 
+Página 10 de 11 
+10.7. 
+Todas as notificações e comunicações a serem realizadas entre as Partes, decorrentes deste 
+Contrato, deverão ser efetuadas por escrito e entregues (i) por aplicativos de mensagens Whatsapp para 
+os números de contato dos representantes das Partes, (ii) via correio eletrônico, no endereço de e-mail 
+financeiro@lumxstudios.com ou juridico@lumxstudios.com se para a Lumx e no endereço de e-mail 
+afonsodalvi@omnesblockchain.tech ou gwdeps@omnesblockchain.tech se para a Parceira.  
+ 
+10.7.1. 
+ Qualquer alteração nos endereços e informações mencionados no item acima deverá 
+ser prontamente informada, sob pena de a notificação ou a comunicação encaminhada para os 
+dados não atualizados ser considerada recebida e válida. 
+ 
+10.8. 
+Este instrumento, assinado pelas Partes e pelas testemunhas abaixo identificadas, configura 
+título executivo, de modo que todos os débitos e obrigações de fazer e não fazer dele decorrentes 
+poderão ser objeto de ação de execução específica. 
+ 
+10.9. 
+Os signatários abaixo declaram, sob as penas da lei civil e penal, que possuem todas as 
+autorizações necessárias para representar as Partes contratantes e firmar o presente Contrato em nome 
+destas. 
+ 
+10.10. As Partes reconhecem a forma de contratação por meios eletrônicos como válida e eficaz, mesmo 
+que feita com assinatura eletrônica ou certificação fora dos padrões ICP-Brasil, nos termos do art. 10, 
+§2º, da Medida Provisória nº 2.200/2001. 
+ 
+CLÁUSULA DÉCIMA PRIMEIRA – LEGISLAÇÃO E FORO 
+ 
+11.1. 
+O presente Contrato é regido pelas leis da República Federativa do Brasil. 
+ 
+11.2. 
+As Partes se comprometem a envidar seus melhores esforços para resolverem eventuais conflitos 
+oriundos deste Contrato de forma amigável e extrajudicialmente antes de submeterem a questão ao 
+judiciário. Na impossibilidade de resolução amigável de conflitos, as Partes elegem o Foro Central da 
+Capital do Estado do Rio de Janeiro, com renúncia expressa a qualquer outro, por mais privilegiado que 
+seja ou venha ser, para dirimir as questões oriundas do presente instrumento. 
+ 
+E, por estarem justas e contratadas, as Partes assinam o presente instrumento, na presença de 2 (duas) 
+testemunhas que também o subscrevem. 
+ 
+Rio de Janeiro, 08 de Agosto de 2023. 
+ 
+ 
+ 
+ 
+ 
+DocuSign Envelope ID: 9AA9D80A-8567-406B-AFBE-AFEC004D3BDE
+ 
+Página 11 de 11 
+LUMX STUDIOS S.A. 
+ 
+OMNES CONSULTING LTDA 
+ 
+ 
+Testemunhas: 
+ 
+1. ______________________________________ 
+Nome: Caio Diniz Bretas  
+CPF: 150.712.927-00  
+2. ______________________________________ 
+Nome: Michel Ruthenberg Goldberg  
+CPF: 160.306.787-60  
+ 
+DocuSign Envelope ID: 9AA9D80A-8567-406B-AFBE-AFEC004D3BDE

@@ -36,7 +36,7 @@ class DateCompiler:
         self.document_id = document_id
         self.document_str = document_str
 
-    def compile_dates(self):
+    def compile_date(self):
         '''responsável por compilar as datas encontradas
         os padrões são definidos antes do inicializador
         '''
@@ -44,11 +44,18 @@ class DateCompiler:
         compiled_patterns = [
             re.compile(padrao, re.IGNORECASE) for padrao in self._patterns]
 
-        found_dates = set()
-        not_found_dates = set()
+        found_dates = list()
+        compiled_date = None
 
         for comp_pattern in compiled_patterns:
-            for comp_date in comp_pattern.findall(self.document_str):
+
+            found_dates = list(set(comp_pattern.findall(self.document_str)))
+
+            if len(found_dates) > 1:
+                raise KeyError
+
+            for comp_date in found_dates:
+
                 try:
                     # as vezes o doc tem 2 datas de assinatura
                     # ex 1QpYUQF0cjmYdVghoZ0n-mHjB4C60NLOv
@@ -58,11 +65,11 @@ class DateCompiler:
                             get(month.lower(), month)
                         date_str = f'{day}/{month_number}/{year}'
                         date = datetime.strptime(date_str, '%d/%m/%Y').date()
-                        found_dates.add((self.document_id, date))
+                        compiled_date = date
 
                 except ValueError as e:
                     logging.\
                         error('Erro processando a data: %s - %s', comp_date, e)
-                    not_found_dates.add((self.document_id, None))
+                    compiled_date = None
 
-        return found_dates
+        return compiled_date

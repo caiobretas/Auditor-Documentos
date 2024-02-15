@@ -12,7 +12,7 @@ class Document(Base):
     '''representa a tabela documents'''
 
     __tablename__ = 'documents'
-    __table_args__ = {'schema': 'legal'}
+    __table_args__ = ({'schema': 'legal'})
 
     id: Mapped[str] = mapped_column(primary_key=True)
     googleid: Mapped[str]
@@ -37,7 +37,7 @@ class Vigency(Base):
     '''representa a tabela signatures'''
 
     __tablename__ = 'vigencies'
-    __table_args__ = {'schema': 'legal'}
+    __table_args__ = ({'schema': 'legal'})
 
     id: Mapped[str] = mapped_column(primary_key=True)
     data_assinatura: Mapped[date]
@@ -60,7 +60,7 @@ class Category(Base):
     '''representa a tabela categories'''
 
     __tablename__ = 'categories'
-    __table_args__ = {'schema': 'legal'}
+    __table_args__ = ({'schema': 'legal'})
 
     id: Mapped[str] = mapped_column(primary_key=True)
     categoria1: Mapped[str]
