@@ -94,6 +94,7 @@ class Categories(DocumentRepository):
 
         if pkey == 'googleid':
             googleid_mapping = Document(self._session).get_googleid_mapping()
-            return {googleid_mapping[obj.id]: obj for obj in objs}
+            return {googleid_mapping[obj.id]: obj
+                    for obj in objs if obj.id in googleid_mapping.keys()}
         elif pkey == 'id':
             return {obj.id: obj for obj in objs}

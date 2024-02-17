@@ -1,33 +1,38 @@
 '''main class'''
-import os
+import datetime
+import logging
 
 import fitz
 import pandas
 
 from controllers.drive import Drive
+from controllers.gpt import GPT
 from controllers.pymupdf import BytesReader
-from models.date_compiler import DateCompiler
-from models.sys_reader import SystemReader
+from models.compilers import DateCompiler
+from models.system import System
 from repositories.base import Repository
-from repositories.document import Document, Vigency
+from repositories.document import Categories, Document, Vigency
 
-os.system('clear')
-os.system(f'export OPENAI_API_KEY={os.environ.get("OPENAI_API_KEY")}')
+# os.system('clear')
+# os.system(f'export OPENAI_API_KEY={os.environ.get("OPENAI_API_KEY")}')
 
 DOCUMENTS_PATH = 'documents/'
 
 # vamos instanciar algumas classes úteis para a lógica
 drive = Drive()  # classe responsável por interações com o Google Drive
+compiler = DateCompiler()
 bytes_reader = BytesReader()  # classe resonsável por interações com o PyMuPDF
-system_reader = SystemReader()
+system_reader = System()
 
 session = Repository.start_session()  # sessão para o banco de dados
 repositoryVigency = Vigency(session)  # classe de repositório
 repositoryDocuments = Document(session)  # classe de repositório
+repositoryCategory = Categories(session)
 
 # abaixo, vamos definir alguns mappings úteis
 docs_mapping = repositoryDocuments.get_mapper('googleid')
 docs_vigency_mapping = repositoryVigency.get_mapper('googleid')
+docs_categories_mapping = repositoryCategory.get_mapper('googleid')
 
 downloaded_files_mapping = {
     google_id.split('.')[0]:
@@ -35,13 +40,10 @@ downloaded_files_mapping = {
     for google_id in system_reader.get_files(DOCUMENTS_PATH)
 }
 
-# docs_bytes_mapping = {
-#     google_id: drive.get_file_media_by_id(google_id)
-#     for google_id in docs_vigency_mapping.keys()
-# }
-
 result: list[dict] = []
 for google_id, doc in docs_vigency_mapping.items():
+
+    FILE_PATH = DOCUMENTS_PATH + f'{google_id}.txt'
 
     result_dict = {}
     result_dict['doc'] = doc
@@ -53,6 +55,7 @@ for google_id, doc in docs_vigency_mapping.items():
     # verifica se o arquivo ainda não foi baixado
     if google_id not in downloaded_files_mapping.keys():
 
+        # extrai os bytes do arquivo
         document_bytes = drive.get_file_media_by_id(google_id)
 
         if not document_bytes:
@@ -62,41 +65,43 @@ for google_id, doc in docs_vigency_mapping.items():
 
         try:
 
+            # tenta transformar os bytes em string
             document_str, document = bytes_reader.read_document(document_bytes)
+
             # salva o arquivo para não ter que baixar novamente
-            with open(
-                    f'{DOCUMENTS_PATH + google_id}.txt',
-                    'w',
-                    encoding='utf8') as f:
+            with open(FILE_PATH, 'w', encoding='utf8') as f:
                 f.write(document_str)
 
+        # trata um erro de file data
         except fitz.FileDataError:
             # problems.append((document_str, google_id))
             result_dict['result'] = 'file data error'
             result.append(result_dict)
             continue
 
-    else:  # caso o arquivo já tenha sido baixado
-        document_str = SystemReader.read_file(
-            DOCUMENTS_PATH + google_id + '.txt'
-        )
+    document_str = System.read_file(FILE_PATH)
 
-    date_compiler = DateCompiler(document_str, google_id)
+    # Estação de comparação de datas. O Compilador encontra a data na string.
+    date, date_status = compiler.compile_date_regexp(document_str=document_str)
 
-    try:
-        date = date_compiler.compile_date()
-    except KeyError:
-        # more_than_one_date.append((document_str, google_id))
-        result_dict['result'] = 'more than one date'
-        result.append(result_dict)
-        continue
+    if isinstance(date, datetime.date):
+        if date != doc.data_assinatura:
+            date_status = 'wrong date'
+
+
+    # if not isinstance(date, datetime.date):
+    #     result_dict['signature_date_result'] = date
+    #     continue
 
     if doc.data_assinatura != date:
-        result_dict['result'] = 'wrong date'
+        result_dict['signature_date_result'] = 'wrong date'
         result.append(result_dict)
         continue
 
-    result_dict['result'] = 'ok'
+    # #  falta try catch
+    # part = compiler.compile_part()
+
+    result_dict['signature_date_result'] = 'ok'
     result.append(result_dict)
 
 result_dataframe = pandas.DataFrame(result)
