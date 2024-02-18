@@ -1,0 +1,458 @@
+MEMORANDO DE ENTENDIMENTOS 
+ 
+1. 
+PARTES 
+LUMX STUDIOS S.A., sociedade anônima, inscrita no CNPJ/MF sob o nº 
+42.887.120/0001-00, com sede na Rua Voluntários da Pátria, nº 89, sala 
+804, Botafogo, Rio de Janeiro - RJ, neste ato representada na forma de 
+seus atos constitutivos (“Lumx”); e 
+ 
+SYMPLA INTERNET SOLUÇÕES S.A., sociedade anônima, inscrita no 
+CNPJ/MF sob o nº 14.512.528/0001-54 com sede na Av. Nossa Senhora 
+do Carmo, 931, 6º andar, Sion, Belo Horizonte - MG, neste ato 
+representada na forma de seus atos constitutivos (“Sympla”). 
+ 
+Lumx e Sympla quando em conjunto, denominados como “Partes” e, 
+individualmente, “Parte”. 
+ 
+2. 
+CONSIDERANDOS 
+i. 
+A Lumx é uma startup especializada em consultoria estratégica 
+e desenvolvimento de produtos digitais e linhas de negócio 
+com base em tecnologias, tais como blockchain, NFTs e 
+metaverso; 
+ 
+ii. 
+A Sympla é uma plataforma brasileira que oferece tecnologia 
+especializada em venda de ingressos, tickets e gestão de 
+eventos;  
+ 
+iii. 
+As Partes desejam implementar um projeto com o objetivo de 
+converter em tokens únicos (“tokenizar”) os dados sensíveis 
+das soluções de bilheteria detidas pela Sympla, a fim de 
+constituir um ecossistema digital de fidelidade de seus 
+usuários baseado através da utilização de tokens (“Projeto”); 
+e  
+ 
+iv. 
+Em razão do Projeto, as Partes desejam firmar o presente 
+Memorando.  
+ 
+3. 
+OBJETO 
+O presente memorando de entendimentos (“Memorando”) tem por 
+objetivo estabelecer os principais termos e condições para o 
+desenvolvimento do Projeto, que consiste no desenvolvimento de uma 
+solução segura de tokenização para revenda de ingressos ofertados pela 
+Sympla, a fim de constituir um ecossistema de fidelidade baseado em 
+tokens. A solução será formulada em conjunto pelas Partes conforme os 
+termos e condições descritos neste Memorando e nos Documentos 
+Definitivos com o objetivo de conectar a Sympla com seus usuários e 
+eventuais parceiros além de permitir novas fontes de receita e inovação 
+de produtos, através da tecnologia desenvolvida pela Lumx em conjunto 
+com a Sympla. 
+ 
+A Lumx, no âmbito deste Memorando e visando os Documentos 
+Definitivos do Projeto, concederá à Sympla uma licença de uso de sua 
+solução tecnológica, composta por APIs e widgets, denominada Lumx 
+Protocol, os quais serão integrados no ambiente nativo da Sympla.  
+  
+DocuSign Envelope ID: B303ABAC-7075-46CF-BDB3-FFC9120C3AC3
+ 
+A Lumx e a Sympla desenvolverão em conjunto uma solução tecnológica 
+dentro do ecossistema já existente Sympla, que será de uso exclusivo da 
+Sympla, sendo certo que todas as aplicações que venham a ser 
+utilizadas no Projeto que sejam parte do Lumx Protocol serão objeto de 
+licenciamento, conforme determinado acima. 
+ 
+4. 
+TERMOS DEFINIDOS 
+Para fins desse Memorando, entendem-se como: 
+ 
+a) 
+Documentos Definitivos: Contratos eventualmente formalizados 
+entre as Partes a fim de regular o desenvolvimento do Projeto. 
+ 
+b) 
+Lumx Protocol: Conjunto de aplicações denominadas como 
+Application-Programming Interface ou, simplesmente, “API’s” e widgets 
+desenvolvidas pela Lumx.  
+ 
+c) 
+NFT: Token não-fungível. 
+ 
+d) 
+SymplaCoins: Token que será criado pela Lumx, e utilizado como 
+moeda no ecossistema da Sympla.  
+ 
+e) 
+Usuário: Usuário cadastrado na plataforma da Sympla e 
+receptor e/ou adquirente do NFT, SymplaCoin e/ou ingressos emitidos 
+pela Sympla.  
+ 
+5. 
+PROJETO  
+O Projeto será dividido em 3 (três) fases, quais sejam:  
+ 
+a) 
+Fase 1 – Ticket Tokenization:  
+(i) A Lumx irá tokenizar os novos ingressos gerados pela Sympla 
+com o objetivo de replicá-los dentro da estrutura blockchain;  
+(ii) A Lumx irá integrar a autenticação dos Usuários Sympla ao Lumx 
+Protocol habilitando o Single Sign On (SSO); e 
+(iii) 
+A Lumx irá viabilizar, através do Lumx Protocol, a criação, 
+gestão, interação e integração de carteiras digitais pelos 
+Usuários.  
+ 
+b) 
+Fase 2 – Wallet:  
+(i) Mediante autorização da Sympla, a Lumx irá providenciar a 
+criação e emissão do SymplaCoins, a qual será utilizada 
+como moeda oficial dentro do ecossistema Sympla, e 
+futuramente expandido para seu programa de fidelidade;  
+(ii) As Partes irão desenvolver e definir o plano de negócios para a 
+disponibilização do Loyalty Token aos Usuários e determinar 
+a remuneração da Lumx nas transações realizadas no 
+ambiente do Loyalty Token (“Plano de Negócios”); e  
+(iii) 
+Através do Lumx Protocol, wallets serão utilizadas para 
+conter tokens de ingressos, POAPs (Proof of Attendance 
+Protocol, ou, em português, Protocolo de Prova de 
+Participação), tokens Sympla Coins, e tokens pareados com 
+BRL. 
+ 
+DocuSign Envelope ID: B303ABAC-7075-46CF-BDB3-FFC9120C3AC3
+c) 
+Fase 3 - Marketplace: A Lumx irá criar em aplicação Web 
+(Webview) um marketplace para revenda dos ingressos 
+tokenizados, além do resgate de eventuais benefícios que serão 
+concedidos em razão de parcerias a serem firmadas com a 
+Sympla com a utilização de SymplaCoins; oferecendo diferentes 
+recursos de acordo com as regras de venda e revenda a serem 
+definidos em conjunto com a Sympla (“Marketplace”). 
+ 
+O objetivo das Partes é promover a integração da Sympla à blockchain. 
+O Projeto irá utilizar a tecnologia Lumx Protocol como infraestrutura 
+base. 
+ 
+As Partes se comprometem a realizar os melhores esforços para 
+entregar as Fases 1, 2 e 3 até o dia 24 de novembro de 2023 (“Prazo de 
+Entrega”), sendo certo que, caso não seja possível a entrega de todas as 
+Fases ora mencionadas no Prazo de Entrega, as entregas das Fases 1 e 2 
+serão tratadas de maneira prioritária por ambas as Partes. 
+ 
+Apenas na hipótese de a Lumx não realizar, em razão de culpa exclusiva, 
+a entrega da Fase 1 até o dia 24 de novembro de 2023, ficará facultado 
+à Sympla, a seu livre e exclusivo critério, requerer motivadamente à 
+Lumx as respectivas rescisões dos Documentos Definitivos. Nesta 
+hipótese, a rescisão dos Documentos Definitivos não acarretará ônus ou 
+penalidades para qualquer das Partes.  
+ 
+As Partes se comprometem a, após a entrega da Fase 1, avaliarem e 
+negociarem em conjunto uma remuneração fixa mensal, que deverá ser 
+paga pela Sympla à Lumx.  
+ 
+As Partes acordam desde já que o prazo mínimo dos Documentos 
+Definitivos será de 3 (três) anos, podendo ser renovado mediante 
+negociação prévia entre as Partes.  
+ 
+6. 
+CONTRIBUIÇÕES E 
+RESPONSABILIDADES DAS 
+PARTES 
+a) 
+A Lumx disponibilizará licença de uso do Lumx Protocol, 
+compreendida como a infraestrutura base do projeto. 
+b) 
+A Lumx auxiliará na customização do front-end do ambiente 
+virtual, observando a propriedade intelectual da Sympla, e o 
+desenvolvimento de uma aplicação Web para o Marketplace. 
+c) 
+A Sympla será responsável pela indicação, através de seus 
+prepostos e desenvolvedores internos, da melhor maneira de 
+integração a ser realizada pela Lumx. 
+ 
+A Sympla veda o direito de subcontratação ou transferência da Lumx, 
+total ou parcial, das responsabilidades assumidas sob este Memorando, 
+sem a sua expressa e prévia autorização por escrito. Caso a Sympla 
+autorize a subcontratação, a Lumx será integralmente responsável pelo 
+desempenho e comportamento de qualquer subcontratado envolvido 
+na entrega e conclusão do Projeto e vice-versa. 
+ 
+Em caso de descontinuidade imotivada do Projeto pela Lumx ou em 
+caso de ser decretada falência, recuperação judicial ou recuperação 
+DocuSign Envelope ID: B303ABAC-7075-46CF-BDB3-FFC9120C3AC3
+extrajudicial, dissolução ou liquidação da Lumx, a Sympla poderá obter 
+acesso à parte do código fonte e demais informações essenciais 
+exclusivamente para continuidade e manutenção do Projeto.  
+ 
+Mais detalhes do Projeto serão discutidos e alinhados oportunamente, 
+quando e se houver assinatura dos Documentos Definitivos do Projeto.  
+ 
+7. 
+DECLARAÇÕES E 
+GARANTIAS  
+As Partes negociarão os termos dos Documentos Definitivos, que 
+incluirão declarações costumeiras sobre as Partes (“Declarações”) 
+incluindo-se, mas não se limitando à: organização e qualificações; 
+disponibilidade da solução; capacidade, poderes e legitimidade das 
+Partes para desenvolver o Projeto; ausência de conflito com contratos 
+pré-existentes; validade e cumprimento de contratos, leis e 
+regulamentos; cronograma de entrega, adimplência no pagamento de 
+tributos, dentre outras. 
+ 
+8. 
+PROPRIEDADE 
+INTELECTUAL E DADOS 
+PESSOAIS 
+Os direitos de Propriedade Intelectual (marcas, patentes, ativos digitais, 
+invenções de qualquer natureza, softwares, inclusive APIs, widgets, 
+códigos, patentes, modelos de utilidade, desenhos industriais, 
+bibliotecas, interfaces, nome empresarial, nomes de domínio, bancos de 
+dados, design, segredos comerciais, direitos autorais, entre outros) das 
+Partes permanecerão com as respectivas Partes titulares, não havendo 
+qualquer transferência ou cessão de titularidade de Propriedade 
+Intelectual envolvida no Projeto.  
+ 
+Caso as Partes venham a negociar cessões ou transferências específicas 
+de propriedade intelectual, as tratativas serão formalizadas em 
+instrumento apartado e específico para tal fim.  
+ 
+Todos os direitos de Propriedade Intelectual que serão criadas ou 
+adaptadas no decorrer do desenvolvimento do Projeto dentro do Lumx 
+Protocol, pertencerão à Lumx, exceto quanto a customização realizada 
+pela Lumx no ambiente nativo da Sympla, exclusivamente a nível de 
+front-end, as quais serão de propriedade integral da Sympla. Para os fins 
+deste item, o ambiente nativo deve ser compreendido como toda a 
+estrutura tecnológica atualmente existente e de exclusiva propriedade 
+da Sympla, antes de qualquer adequação pela Lumx. 
+ 
+As Partes estão de acordo com a integração dos ativos de suas 
+respectivas propriedades para a operacionalização do Projeto, e 
+concederão, mutuamente, licença de uso limitada e específica, de modo 
+a possibilitar o SSO (Single Sign On) da Sympla no Lumx Protocol e as 
+demais integrações que farão parte do Projeto, a serem detalhadas em 
+instrumento apartado. 
+ 
+A Lumx licenciará à Sympla o direito de uso de todo o Lumx Protocol, de 
+sua propriedade, e do que será desenvolvido no decorrer do Projeto, 
+para os fins da operação almejada, conforme prazo e condições a serem 
+acordadas. 
+ 
+Os direitos de Propriedade Intelectual de cada Parte poderão ser 
+DocuSign Envelope ID: B303ABAC-7075-46CF-BDB3-FFC9120C3AC3
+livremente por elas utilizados, cedidos ou licenciados a terceiros, não 
+havendo no presente acordo qualquer impedimento, obrigação de 
+exclusividade ou anuência, desde que mantida a funcionalidade do 
+Projeto, conforme acordado e pelo prazo de vigência, observando-se 
+adicionalmente as condições do item 10 abaixo. 
+ 
+No que se refere aos dados pessoais de titulares em geral e base de 
+dados compartilhada, as Partes declaram que respeitarão a legislação 
+vigente e que cada uma deverá manter em segurança e sob 
+confidencialidade as respectivas e atuais bases de dados, sendo vedado 
+o compartilhamento com terceiros, salvo disposição expressa em 
+contrário e, ainda, sob a condição do consentimento inequívoco do 
+titular, em consonância com a legislação aplicável. Os dados 
+eventualmente coletados pela Lumx poderão ser compartilhados com 
+subcontratados, desde que compreendidos como imprescindíveis para a 
+viabilização do Projeto, bem como serão de propriedade exclusiva da 
+Sympla e não poderão ser usados pela Lumx para qualquer outro fim 
+que 
+não 
+o 
+desenvolvimento 
+do 
+Projeto. 
+A 
+obrigação 
+de 
+confidencialidade acerca dos dados eventualmente coletados e/ou 
+compartilhados pela Lumx, nos termos deste item, será estendida aos 
+subcontratados eventualmente contratados e autorizados pela Sympla.  
+ 
+A Sympla desde já reconhece e autoriza que, para a implementação do 
+Projeto, deverá disponibilizar à Lumx os dados pessoais dos Usuários, 
+essenciais para o Lumx Protocol, reafirmando que os dados são de 
+propriedade exclusiva da Sympla. Para a utilização de tais dados 
+pessoais, as Partes deverão estipular política de privacidade específica, 
+de modo a regular a sua operação de tratamento e utilização 
+compartilhada, conforme aplicável. 
+ 
+9. 
+OBRIGAÇÃO DE NÃO 
+CONTRATAÇÃO, DIREITO 
+DE PREFERÊNCIA E NÃO 
+ALICIAMENTO  
+ 
+Até o final do período de vigência do presente Memorando, e, em caso 
+de assinatura dos Documentos Definitivos, até o prazo final de vigência 
+deste, a Lumx deverá (i) se abster de prestar ou oferecer o mesmo 
+Projeto que, concomitantemente resulte em todas as funcionalidades 
+compreendidas no Projeto a Concorrentes Diretos da Sympla; e (ii) 
+assinar, contratar e/ou formalizar associação, parceria ou negócios com 
+Concorrentes Diretos, cujo objeto seja o mesmo Projeto que, 
+concomitantemente 
+resulte 
+em 
+todas 
+as 
+funcionalidades 
+compreendidas no Projeto, exceto se expressamente autorizado pela 
+Sympla. Entende-se por “Concorrentes Diretos” as empresas cuja 
+principal atividade fim seja atuar no ramo de comercialização de 
+ingressos em territórios que a Sympla opere de forma recorrente e 
+relevante até a data de assinatura do Documento Definitivo.  
+ 
+As Partes concordam que os concorrentes indiretos que atuem em 
+ramos adjacentes ao de venda de ingressos serão listados no 
+Documento Definitivo pela Sympla. 
+ 
+A Sympla desde já se obriga, até o final do período de vigência do 
+presente Memorando e, em caso de assinatura dos Documentos 
+Definitivos, até o prazo final de vigência destes, a conceder o direito de 
+DocuSign Envelope ID: B303ABAC-7075-46CF-BDB3-FFC9120C3AC3
+preferência à Lumx acerca de eventuais propostas cujo objeto seja o 
+desenvolvimento de projetos em rede blockchain. 
+ 
+As Partes reconhecem que este Memorando estabelece um 
+relacionamento de confiança e a divulgação de Informações 
+Confidenciais e estratégias de negócios de cada Parte. Dessa forma, 
+durante o período de vigência deste Memorando e, em caso de 
+assinatura dos Documentos Definitivos, por até 2 (dois) anos após a 
+data de assinatura destes, as Partes concordam que não poderão, direta 
+ou indiretamente, aliciar, intervir ou oferecer emprego a qualquer 
+conselheiro, diretor ou empregado da outra Parte. A presente 
+disposição, no entanto, não pretende proibir a publicidade ou oferta de 
+emprego (ou a contratação decorrente de tal publicidade ou oferta) que 
+não seja especificamente direcionada aos colaboradores da outra Parte.  
+ 
+10. 
+CONFIDENCIALIDADE 
+A própria existência deste Memorando, o termo das negociações a ele 
+relacionadas e toda e qualquer informação trocada em relação a este 
+instrumento deve ser considerada como confidencial (“Informação 
+Confidencial”) e, durante 5 (cinco) anos após a assinatura deste 
+Memorando não poderá ser divulgada, no todo ou em parte, por 
+qualquer meio, a qualquer terceiro, sem o prévio e expresso 
+consentimento das Partes. 
+ 
+A Parte que receber tais Informações Confidenciais deverá devolvê-las à 
+Parte que as forneceu imediatamente após a solicitação. 
+ 
+O tratamento confidencial aqui estabelecido não se aplica a quaisquer 
+materiais e informações que: 
+ 
+(i) estiverem disponíveis ao público antes de ou tornarem-se 
+disponíveis ao público após a assinatura deste Memorando; 
+ 
+(ii) são fornecidas a uma Parte por terceiro não sujeito aos termos 
+e condições deste Memorando; ou 
+ 
+(iii) são solicitadas por autoridade competente por meio de pedido 
+final obrigatório, devendo, nesse caso, a Parte a quem foi 
+solicitada a divulgação as informações envidar seus melhores 
+esforços para notificar a outra Parte no prazo de 1 (um) dia útil 
+após a recepção do pedido. 
+ 
+Todas as Informações Confidenciais são estratégicas e têm valor 
+relevante para as Partes, seus concorrentes e outros terceiros 
+envolvidos na mesma área de atuação das Partes. A divulgação de tais 
+Informações Confidenciais pode resultar em danos materiais, a ser 
+apurado em perdas e danos. 
+ 
+11. 
+INVESTIMENTO  
+As Partes acordam, desde já, que avaliarão e negociarão um modelo de 
+remuneração 
+baseado 
+em 
+performance, 
+sobre 
+os 
+valores 
+DocuSign Envelope ID: B303ABAC-7075-46CF-BDB3-FFC9120C3AC3
+transacionados em tokens e NFTs desenvolvidos no âmbito do Projeto. 
+ 
+As Partes se comprometem a, após a entrega da Fase 1, avaliarem e 
+negociarem em conjunto uma remuneração fixa mensal, que deverá ser 
+paga pela Sympla à Lumx. 
+ 
+12. 
+NÃO VINCULAÇÃO 
+Em caso de desistência do Projeto, as obrigações contidas no item 9 
+deste Memorando não permanecerão válidas. 
+ 
+13. 
+VALIDADE 
+Este Memorando terá validade pelo prazo de 60 (sessenta) dias 
+contados de seu recebimento, durante o qual as Partes se 
+comprometem a negociar e assinar os Documentos Definitivos. Durante 
+a vigência deste Memorando, este prevalecerá sobre qualquer outro 
+entendimento eventualmente firmado entre as Partes.  
+ 
+14. 
+DISPOSIÇÕES FINAIS 
+A renúncia de uma Parte com relação à violação de qualquer obrigação 
+assumida nesse documento não deverá ser considerada como novação 
+ou renúncia de qualquer direito, mas como simples liberalidade, de 
+forma que a Parte renunciante não deverá ser impedida de demandar 
+cumprimento com o quanto acordado em qualquer momento. 
+ 
+Toda e qualquer comunicação entre as Partes relacionadas a esse 
+instrumento deverão ser feitas por escrito entre os seguintes 
+representantes de cada uma: 
+ 
+Lumx: juridico@lumxstudios.com  
+Sympla: juridico@sympla.com.br  
+ 
+Os direitos e obrigações do presente Memorando somente poderão ser 
+cedidos ou a qualquer título transferidos a terceiros por uma Parte 
+mediante a anuência, por escrito, da outra Parte. 
+ 
+As Partes declaram e concordam em assinar o presente Memorando por 
+meio eletrônico, e reconhecem como válida a anuência aos termos ora 
+acordados em formato eletrônico, ainda que não utilizem de certificado 
+digital emitido no padrão ICP-Brasil, incluindo assinaturas eletrônicas, 
+não podendo questionar posteriormente sua validade. 
+ 
+15. 
+LEGISLAÇÃO APLICÁVEL E 
+FORO 
+Este instrumento é regido e interpretado de acordo com a lei brasileira.  
+Todos os conflitos oriundos deste instrumento serão passíveis de 
+resolução pelo Foro Central da Capital do Estado de Minas Gerais, com 
+renúncia de qualquer outro.  
+ 
+ 
+E, por estarem justas e acertadas, assinam as partes o presente instrumento, eletronicamente, por seus 
+representantes legais e duas testemunhas, para que produza seus jurídicos efeitos. 
+ 
+Belo Horizonte, 21 de setembro de 2023. 
+ 
+ 
+ 
+DocuSign Envelope ID: B303ABAC-7075-46CF-BDB3-FFC9120C3AC3
+_________________________________ 
+LUMX S.A. 
+_________________________________ 
+SYMPLA INTERNET SOLUÇÕES S.A. 
+ 
+ 
+Testemunhas: 
+ 
+1._______________________________ 
+Nome:  
+CPF/MF:  
+2.__________________________________ 
+Nome:  
+CPF/MF:  
+ 
+DocuSign Envelope ID: B303ABAC-7075-46CF-BDB3-FFC9120C3AC3
+Caio Diniz Bretas
+150.712.927-00
+Lara Jardim
+118.768.546-18

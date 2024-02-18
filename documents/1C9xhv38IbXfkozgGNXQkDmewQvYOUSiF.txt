@@ -1,0 +1,425 @@
+1 
+ 
+ACORDO DE CONFIDENCIALIDADE 
+ 
+Por este instrumento particular e na melhor forma de direito, de um lado: 
+ 
+LUMX STUDIOS S.A., sociedade anônima de capital fechado, inscrita no CNPJ/MF sob o nº 
+42.887.120/0001-00, com sede na Cidade e Estado do Rio de Janeiro, na Rua Voluntários da Pátria, nº 89, 
+sala. 804, Botafogo, CEP: 22270-000, neste ato representada na forma de seus atos constitutivos ("Lumx”); 
+ 
+E, de outro lado, 
+ 
+ALTIS CONSTRUTORA LTDA, pessoa jurídica de direito privado, inscrita no CNPJ/MF sob o nº 
+36.586.137/0001-17, com sede na Avenida Benjamin Constant, no 1194, SALA 606, Centro, Lajeado, Rio 
+Grande do Sul, 95.900-056 
+ 
+Lumx, quando em conjunto com a ALTIS CONSTRUTORA LTDA, denominadas como “Partes” e, 
+isoladamente, como “Parte”; 
+ 
+CONSIDERANDO QUE: 
+ 
+(i) 
+As Partes, com o objetivo de colaboração mútua, manifestam interesse em discutir 
+conjuntamente a possibilidade de estabelecer uma aliança comercial e estratégica, a qual poderá 
+compreender os ativos detidos individualmente ou de ambas as Partes ("Negócio"); 
+ 
+(ii) 
+As Partes são sociedades que atuam em mercados altamente competitivos, sendo relevante 
+a manutenção de sigilo quanto às informações sobre seus planos e projetos e demais informações 
+operacionais, comerciais, financeiras, dentre outras. Nesse sentido, durante as discussões, reuniões 
+e a condução do Negócio entre as Partes, pode ser necessário que uma das Partes revele ("Parte 
+Reveladora") à outra Parte ("Parte Receptora") Informações Confidenciais (conforme definido na 
+Cláusula 1); e 
+ 
+(iii) 
+Assim, reconhecendo a necessidade estratégica de manter as Informações Confidenciais, as 
+Partes expressam o desejo de que seja concedido um tratamento confidencial às informações, que 
+incluem, mas não se limitam a, planos estratégicos, projetos, informações operacionais, comerciais, 
+financeiras, e outras informações correlatas. 
+ 
+Em virtude do exposto, as Partes celebram o presente Acordo de Confidencialidade ("Acordo"), que será 
+regido e interpretado de acordo com as cláusulas e condições subsequentes: 
+ 
+ 
+DocuSign Envelope ID: 06CF8613-B881-47D2-93DB-37168F8A8DCF
+2 
+ 
+(Restante da página deixada intencionalmente em branco) 
+ 
+DocuSign Envelope ID: 06CF8613-B881-47D2-93DB-37168F8A8DCF
+3 
+ 
+1. 
+DEFINIÇÕES 
+ 
+1.1. 
+Para os propósitos deste Acordo, serão atribuídos aos termos listados abaixo os seguintes 
+significados, no plural ou no singular: 
+ 
+(i) 
+“Afiliada” Significa qualquer pessoa jurídica de direito público ou privado e qualquer pessoa 
+física que, direta ou indiretamente, seja controladora ou controlada de tal Parte, ou de outra forma 
+esteja sob controle comum, direto ou indireto, com tal Parte; 
+ 
+(ii) 
+“Informações Confidenciais” Significa (a) a existência e conteúdo deste Acordo; (b) a 
+existência de, e/ou andamento da, discussão quanto ao Negócio; e (c) toda e qualquer informação 
+tecnológica, financeira, operacional, industrial, econômica, técnica, agrícola, contábil, comercial, 
+legal, de modelo, de características de produtos/sistemas, softwares, application programming 
+interface e widgets, informações envolvendo direito e propriedade industrial ou direito autoral, 
+designs de hardware, ferramentas de software, application programming interface e widgets, 
+algoritmos, designs de interface de usuário,  e de qualquer outra natureza relativa à qualquer das 
+Partes, seja escrita ou verbal, independentemente da maneira ou forma de sua divulgação (física, 
+verbal, eletrônica, visual, etc.), divulgada antes, na ou após a presente data, incluindo, sem 
+limitação, todos e quaisquer dados, documentos, correspondências, perguntas, materiais, 
+respostas, amostras, extratos, certificados, avisos, relatórios, análises, compilações, estudos, 
+pesquisas, previsões, registros, incluindo, sem limitação, informações tecnológicas, financeiras, 
+operacionais, econômicas, comerciais, mercadológicas, técnicas, legais e regulatórias e planos 
+comerciais, de marketing, engenharia ou programação, listas de clientes, revendedores, parceiros, 
+representantes comerciais e fornecedores, preços, custos, processos, projetos, nem como 
+quaisquer outras informações comerciais, segredos comerciais, planos estratégicos e/ou outros 
+dados, sejam técnicos ou não e quaisquer outras informações (seja por escrito, verbal ou em 
+formato eletrônico, etc.) que contenha ou de outra forma reflita ou indique informações pertinentes 
+à qualquer das Partes, Afiliadas ou quaisquer de seus Representantes ou Negócio, fornecida ou 
+divulgada pela Parte Reveladora ou quaisquer de seus Representantes à Parte Receptora ou 
+quaisquer de seus Representantes, acompanhada de todos dados, relatórios, análises, compilações, 
+estudos, pesquisas, previsões, registros, materiais e quaisquer outras informações (seja por escrito, 
+verbal ou em formato eletrônico, etc.), elaborados ou divulgados por qualquer das Partes ou seus 
+Representantes, que contenham ou de outra forma reflitam, indiquem ou se baseiem, no todo ou 
+em parte, nas Informações Confidenciais ou que reflitam a revisão, interesse ou avaliação de todo 
+e qualquer aspecto do Negócio; 
+ 
+DocuSign Envelope ID: 06CF8613-B881-47D2-93DB-37168F8A8DCF
+4 
+ 
+(iii) 
+“Divulgação” Significa todo e qualquer ato de divulgação ou ato similar, incluindo, sem 
+limitações, divulgações, comunicados, publicações, transmissões/difusões ou qualquer outra forma 
+de transferência de Informações Confidenciais, por quaisquer meios ou formas, a qualquer Pessoa. 
+Os termos “divulgado”, “divulgar” e suas variações serão interpretados em conformidade com a 
+presente definição; 
+ 
+(iv) 
+“Pessoa” Será interpretado genericamente para fins deste Acordo, incluindo, sem limitação, 
+quaisquer pessoas físicas e jurídicas, organizações, filiais ou quaisquer outras entidades; 
+ 
+(v) 
+“Representantes” Significa, em relação a qualquer das Partes, seja no presente ou no futuro, 
+direta ou indiretamente, por meio de suas Afiliadas, seus sócios, empregados, conselheiros, 
+diretores, 
+subcontratados, 
+contratados, 
+assessores, 
+consultores, 
+representantes 
+legais, 
+procuradores, contadores, auditores, credores, fontes de financiamento; e 
+ 
+(vi) 
+“Terceiro(s)” Significa qualquer Pessoa que não as Partes, suas Afiliadas e seus 
+Representantes. 
+ 
+2. 
+OBJETO 
+ 
+2.1. 
+As Partes, por meio deste Acordo, obrigam-se a não Divulgar as Informações Confidenciais a 
+Terceiros, incluindo, mas não se limitando a sociedades concorrentes diretas ou indiretas da outra Parte, 
+sem o prévio consentimento por escrito da outra Parte. Além disso, comprometem-se a não utilizar as 
+Informações Confidenciais para qualquer finalidade alheia àquela para a qual foram Divulgadas e 
+envidarão seus melhores esforços para impedir que Terceiros o façam. As Partes estão proibidas de copiar, 
+reproduzir, Divulgar, publicar ou circular Informações Confidenciais entre suas Afiliadas e seus 
+Representantes, exceto na medida em que necessário para a análise do Negócio, conforme delineado na 
+Cláusula 2.2. abaixo. 
+ 
+2.2. 
+As Partes comprometem-se a dispensar às Informações Confidenciais o mesmo tratamento 
+confidencial que dispensam às suas próprias informações. As Partes concederão acesso às Informações 
+Confidenciais apenas a seus Representantes e Afiliadas, eventualmente consultados para análise do 
+Negócio que tenham comprovada necessidade de conhecimento para a avaliação do Negócio e notificarão 
+os Representantes pertinentes da existência e dos termos deste Acordo. As Partes serão responsáveis pelo 
+não cumprimento dos termos deste Acordo por si ou por seus Representantes. 
+ 
+2.3. 
+As Partes obrigam-se a cumprir com a obrigação de confidencialidade estabelecida neste Acordo, 
+independentemente da conclusão do Negócio, garantindo que essa obrigação seja observada conforme 
+os termos aqui estabelecidos. 
+ 
+DocuSign Envelope ID: 06CF8613-B881-47D2-93DB-37168F8A8DCF
+5 
+ 
+2.4. 
+A celebração deste Acordo não implica a obrigatoriedade das Partes em, de qualquer forma, 
+concluírem o Negócio (no todo ou em parte), não sendo devida qualquer indenização de uma Parte à outra 
+por conta do encerramento das discussões a respeito do Negócio. 
+ 
+2.5. 
+Este Acordo limita, por ocasião do desenvolvimento de produtos, métodos ou serviços, a 
+utilização, pela Parte Receptora, de ideias, conceitos e know-how de seus Representantes que tiveram 
+acesso às Informações Confidenciais. 
+ 
+3. 
+EXCEÇÕES  
+ 
+3.1. 
+As Partes não estão obrigadas a tratar como confidenciais as Informações Confidenciais que: 
+ 
+(i) 
+Sejam ou se tornem conhecidas pelo público ou por qualquer Terceiro, de outra forma que não 
+pela violação de qualquer obrigação de não Divulgação de qualquer das Partes; 
+ 
+(ii) Tenham sido comprovadamente desenvolvidas de forma independente pela Parte Receptora, 
+sem utilização direta ou indireta das Informações Confidenciais ou se tornem disponíveis como o 
+resultado de pesquisa no mercado ou demais esforços de tal Parte, que não como resultado de 
+alguma infração a este Acordo; 
+ 
+(iii) Tenham sido legalmente recebidas de um Terceiro não sujeito a restrições e/ou obrigações de 
+confidencialidade ou sigilo;  
+ 
+(iv) Já sejam comprovadamente do conhecimento ou posse da Parte Receptora antes de seu 
+recebimento ou Divulgação pela Parte Reveladora; 
+ 
+(v) Que possam vir a ser obtidas legalmente junto a qualquer repartição pública ou órgão 
+governamental, seja federal, estadual ou municipal; ou 
+ 
+(vi) Que por lei ou por força de determinação judicial, necessitem ser divulgadas, obrigando-se 
+nesta hipótese, a dar ciência prévia à outra Parte, conforme Cláusula 4 abaixo. 
+ 
+DocuSign Envelope ID: 06CF8613-B881-47D2-93DB-37168F8A8DCF
+6 
+ 
+4. 
+REVELAÇÕES POR CONTA DE ORDEM DE AUTORIDADE 
+ 
+4.1. 
+Se qualquer das Partes vier a ser legalmente obrigada a revelar Informações Confidenciais por 
+força de solicitação de alguma autoridade judicial, arbitral e/ou administrativa com poderes para tal, e/ou 
+por força legal (“Parte Solicitada”), a Parte Solicitada enviará imediatamente à outra Parte notificação por 
+escrito e, se possível, anteriormente à referida divulgação a esse respeito, de forma que possibilite a tal 
+Parte requerer em tempo e caso entenda necessária, medida cautelar ou outra medida cabível para evitar 
+a revelação das Informações Confidenciais. 
+ 
+4.2. 
+Caso a revelação das Informações Confidenciais seja necessária, a Parte Solicitada deverá revelar 
+tão somente as Informações Confidenciais que forem legalmente exigíveis e empreenderá seus melhores 
+esforços para obter tratamento confidencial para quaisquer Informações Confidenciais que forem 
+reveladas. 
+ 
+5. 
+PENALIDADES 
+ 
+5.1. 
+A Parte Receptora se compromete a indenizar a Parte Reveladora, suas Afiliadas e seus 
+Representantes por quaisquer reclamações, ações, danos, perdas, responsabilidades, custos, encargos, 
+despesas ou pagamentos (incluindo honorários advocatícios) que possam surgir, ser pagos, incorridos ou 
+pelos quais a Parte Reveladora, qualquer de suas Afiliadas ou Representantes possam ser 
+responsabilizados, decorrente de: 
+ 
+(i) 
+Qualquer violação deste Acordo pela Parte Receptora; 
+ 
+(ii) Qualquer falha da Parte Receptora em assegurar que seus Representantes cumpram os termos 
+deste Acordo, como se a ele estivessem diretamente vinculados; 
+ 
+(iii) Qualquer ato ou omissão por parte de um Representante que, caso tenha sido realizado ou 
+omitido pela Parte Receptora, constituiria violação deste Acordo. 
+ 
+5.2. 
+Nas hipóteses previstas acima, a Parte infratora estará sujeita, por ação ou omissão, ao pagamento 
+ou recomposição de todas as perdas e danos sofridos pela Parte inocente, de forma ilimitada, inclusive as 
+de ordem moral ou concorrencial, bem como as de responsabilidade civil, as quais serão apuradas em 
+regular processo judicial, sem prejuízo do direito da Parte inocente impetrar mandado de segurança ou 
+propor medida cautelar e requerer execução específica das obrigações aqui previstas, ficando, desde já, 
+ajustado que a parte infratora suportará as custas processuais e honorários advocatícios a que a Parte 
+inocente, eventualmente, tenha incorrido. 
+ 
+DocuSign Envelope ID: 06CF8613-B881-47D2-93DB-37168F8A8DCF
+7 
+ 
+5.3. 
+Em caso de inadimplemento de qualquer obrigação deste Acordo, as Partes acordam que será 
+devido, pela Parte infratora à Parte prejudicada, multa não compensatória no montante de 
+R$ 500.000,00 (quinhentos mil reais), sem prejuízo das demais medidas legais que possam ser tomadas. 
+ 
+5.4. 
+Em nenhuma hipótese, qualquer das Partes será responsabilizada por danos indiretos ou lucros 
+cessantes causados à outra Parte ou a terceiros. 
+ 
+6. 
+PROPRIEDADE E USO DAS INFORMAÇÕES CONFIDENCIAIS 
+ 
+6.1. 
+Nos termos do presente Acordo, toda e qualquer Informação Confidencial transmitida entre as 
+Partes continuará a ser de propriedade da Parte Reveladora, e nenhuma das Partes adquirirá quaisquer 
+direitos de propriedade intelectual ou licenças em decorrência deste Acordo e/ou da disponibilização das 
+Informações Confidenciais. 
+ 
+6.2. 
+As Partes não estão autorizadas a utilizar o nome comercial, denominação social ou qualquer 
+elemento de propriedade intelectual e/ou industrial da outra Parte ou de suas Afiliadas, tais como marcas 
+e logotipos, sem a devida autorização, prévia e por escrito, da outra Parte, a qual deverá conter as 
+instruções do uso pretendido e permitido. 
+ 
+7. 
+DEVOLUÇÃO DE INFORMAÇÕES CONFIDENCIAIS 
+ 
+7.1. 
+A pedido da Parte Reveladora (e mediante término deste Acordo), a Parte Receptora obriga-se a 
+devolver ou destruir, dentro de 15 (quinze) dias úteis contados da solicitação da Parte Reveladora, todo 
+material que contenha Informações Confidenciais que estejam em seu poder, incluindo, sem limitação, 
+todos os resumos, cópias de documentos e trechos de informações armazenadas em arquivos eletrônicos 
+ou qualquer outro meio físico. As Partes poderão conservar as Informações Confidenciais da Parte 
+Reveladora para fins de cumprimento do artigo 16 da Lei nº 13.709/2018. 
+  
+7.2. 
+Caso a Informação Confidencial seja destruída, a Parte Reveladora terá o direito de solicitar da 
+Parte Receptora uma declaração, por escrito, indicando que a Parte Receptora não está mais em poder da 
+Informação Confidencial. 
+ 
+8. 
+NÃO ALICIAMENTO 
+ 
+8.1. 
+Durante um período de 24 (vinte e quatro) meses a contar da data de assinatura deste Acordo, a 
+Parte que receber Informações Confidenciais se compromete a se abster, bem como a fazer com que suas 
+respetivas Afiliadas e Representantes se abstenham de, direta ou indiretamente, incluindo através de 
+Pessoas agindo na capacidade de intermediários: (i) induzir ou persuadir uma Pessoa que seja empregado 
+e/ou prestador de serviços exclusivo (incluindo consultores, agentes, parceiros comerciais, representantes 
+DocuSign Envelope ID: 06CF8613-B881-47D2-93DB-37168F8A8DCF
+8 
+ 
+e administradores) da outra Partes ou de suas Afiliadas (“Pessoas Restritas”) a se desligarem de seus 
+empregos, renunciar seus cargos ou rescindirem contratos empregatícios; e/ou (ii) oferecer propostas de 
+emprego, contratar, empregar, de forma temporária ou permanente, incluindo para cargos corporativos 
+ou como profissionais, quaisquer Pessoas Restritas, bem como auxiliar Terceiros a empregar ou contratar 
+tais Pessoas Restritas, enquanto tais Pessoas Restritas estejam contratualmente vinculadas à outa Parte 
+ou quaisquer de suas Afiliadas pelo período adicional de 12 (doze) meses a contar do término de tais 
+vinculações contratuais. As disposições desta Cláusula não serão aplicáveis a anúncios de contratações em 
+geral que não sejam direcionados a quaisquer Pessoas Restritas.  
+ 
+8.2. 
+A violação das obrigações de não aliciamento previstas na Cláusula 8.1 acima sujeitará a Parte 
+infratora ao pagamento de multa não compensatória equivalente ao valor da remuneração paga à Pessoa 
+Restrita aplicável durante os 12 (doze) meses anteriores ao término do relacionamento entre elas, sem 
+prejuízo dos direitos da Parte prejudicada de exigir indenização por perdas e danos decorrentes de tal 
+violação. 
+  
+9. 
+PLENO TEOR DO ACORDO E EVENTUAIS ADITAMENTOS 
+ 
+9.1. 
+Este Acordo contém o inteiro teor dos entendimentos mantidos entre as Partes relativamente à 
+confidencialidade de informações e revoga qualquer outro acordo entre as Partes, sejam verbais ou por 
+escrito, podendo ser aditado ou modificado somente mediante acordo escrito entre as Partes. 
+ 
+10. 
+PRAZO DE VIGÊNCIA 
+ 
+10.1. 
+O prazo de vigência deste Acordo será condicionado à duração do Negócio e, caso haja sua 
+efetivação, deverá se estender ao prazo de duração da relação firmada entre as Partes. 
+ 
+10.2. 
+Após o término da relação estabelecida entre as Partes, com a efetivação ou não do Negócio, as 
+obrigações de confidencialidade previstas neste Acordo permanecerão válidas e vigentes pelo período de 
+02 (dois) anos, contados da extinção da relação entre as Partes.  
+ 
+11. 
+DISPOSIÇÕES GERAIS 
+ 
+11.1. 
+Quaisquer notificações e comunicações previstas neste Acordo serão feitas por escrito e enviadas 
+aos cuidados dos Representantes abaixo identificados: 
+ 
+DocuSign Envelope ID: 06CF8613-B881-47D2-93DB-37168F8A8DCF
+9 
+ 
+Se para a Lumx Studios S.A.: 
+Rua Voluntários da Pátria, nº 89, sala. 804, Botafogo, CEP: 22270-000, Rio de Janeiro/RJ 
+Telefone: +55 (21) 99955-1155 
+At.: Michel Ruthenberg Goldberg 
+E-mail: juridico@lumx.io 
+ 
+Se para a ALTIS CONSTRUTORA LTDA: 
+Avenida Benjamin Constant, no 1194, SALA 606, Centro, Lajeado, Rio Grande do Sul, 95.900-056 
+At.: Marcelo  Frizzo 
+E-mail: marcelo.altisconstrutora@gmail.com 
+ 
+11.2. 
+Nada disposto neste Acordo será interpretado como uma cessão ou transferência de quaisquer 
+direitos, através de licença ou outra forma, relacionados a qualquer marca, patente, direitos autorais, 
+informação tecnológica ou outras Informações Confidenciais ou qualquer outra propriedade intelectual, e 
+a Parte Reveladora ou seus Representantes, conforme aplicável, continuarão como únicos proprietários 
+de todas as Informações Confidenciais Divulgadas à Parte Receptora ou seus Representantes. 
+ 
+11.3. 
+As Partes reconhecem e concordam que poderão negociar, conduzir ou contratar o Negócio ou 
+operações similares com Terceiros, sem obrigações de exclusividade decorrentes deste Acordo.  
+ 
+11.4. 
+A omissão pelas Partes, a qualquer tempo, em relação ao cumprimento dos termos, disposições 
+ou condições deste Acordo ou o não exercício de qualquer direito previsto neste Acordo não deverá ser 
+considerado ou interpretado como uma renúncia por tal Parte, nem impactar seu direito de exercer tal 
+direito no futuro. 
+ 
+11.5. 
+As disposições e condições deste Acordo são aplicáveis em benefício das Partes e seus respectivos 
+herdeiros e sucessores. 
+ 
+11.6. 
+Caso qualquer disposição deste Acordo seja considerada inválida, nula ou inexequível, no todo ou 
+em parte, a validade, efetividade ou exequibilidade das demais disposições não serão afetadas, sob 
+qualquer circunstância. As Partes deverão negociar, de boa-fé e observando as intenções originais dos 
+envolvidos, a substituição da disposição inválida, nula ou inexequível por outra válida, cujo efeito 
+econômico seja o mais próximo possível ao da disposição considerada inválida, nula ou inexequível. 
+ 
+11.7. 
+O presente Acordo não representa associação, sociedade, consórcio ou qualquer forma 
+associativa ou relação comercial entre as Partes, suas controladas, coligadas, seus acionistas, sócios, 
+diretores, funcionários, representantes, prepostos, contratados e subcontratados. 
+ 
+DocuSign Envelope ID: 06CF8613-B881-47D2-93DB-37168F8A8DCF
+10 
+ 
+11.8. 
+As Partes reconhecem a forma de contratação por meios eletrônicos como válida e eficaz, mesmo 
+que feita com assinatura eletrônica ou certificação fora dos padrões ICP-Brasil, nos termos do art. 10, §2º, 
+da Medida Provisória nº 2.200/2001. 
+ 
+11.9. 
+ Este Acordo obriga as Partes, Afiliadas, Representantes e seus sucessores.  
+ 
+11.10. Este Acordo será regido e interpretado de acordo com as leis da República Federativa do Brasil. 
+ 
+11.11. Fica eleito o foro da comarca do Rio de Janeiro, para dirimir quaisquer questões oriundas deste 
+Acordo. 
+ 
+E, por estarem justas e contratadas, as Partes, devidamente representadas por seus representantes legais, 
+assinam este Acordo em 1 (uma) via eletrônica, de igual teor e forma, na presença de duas testemunhas 
+abaixo assinadas. 
+ 
+Rio de Janeiro, 07 de dezembro de 2023 
+ 
+                                      ASSINA_LUMX 
+___________________________________________________ 
+LUMX STUDIOS S.A. 
+ 
+ 
+                                      ASSINA_PARCEIRA 
+_______________________________________________________ 
+ALTIS CONSTRUTORA LTDA 
+ 
+ 
+Testemunhas: 
+        TESTEMUNHA_LUMX1                                                         TESTEMUNHA_LUMX2 
+1) 
+_______________________________ 
+Nome: Caio Diniz Bretas 
+CPF/MF: 150.712.927-00 
+2) 
+________________________________ 
+Nome: Fernando Gonçalves 
+CPF/MF: 104.095.947-41 
+ 
+DocuSign Envelope ID: 06CF8613-B881-47D2-93DB-37168F8A8DCF

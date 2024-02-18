@@ -47,7 +47,7 @@ class Model:
             )
             return txt_splitter.split_documents(self.document)
 
-    def _summarize_stuff(self):
+    def _summarize_stuff(self, query=None):
         '''cria uma chain com type = "stuff"
         esse método resume o conteúdo do documento
         Não é o ideal para documentos grandes'''
@@ -59,7 +59,13 @@ class Model:
         )
 
         try:
-            return chain.invoke(self.document)
+            invocation = {'input_documents': self.document}
+
+            if query:
+                invocation['query'] = query
+
+            return chain.invoke(invocation)
+
         except BadRequestError:
             txt_splitter = RecursiveCharacterTextSplitter(
                 chunk_size=4000,
@@ -83,7 +89,7 @@ class Model:
         chain = load_qa_chain(
             self.llm,
             chain_type='map_rerank',
-            verbose=True)
+            verbose=False)
 
         result = chain.invoke({
             'input_documents': documents,
@@ -97,14 +103,11 @@ class GPT (Model):
 
     def questions_and_answers_by_file(self,
                                       query,
-                                      pydantic_object,
                                       file_path: str):
         '''método responsável por fazer perguntas ao modelo
         ideal para Q&A'''
         self.load_document(file_path)
-
-        parser = JsonOutputParser(pydantic_object=pydantic_object)
-        return self._map_rerank(query, parser)
+        return self._map_rerank(query)
 
     def ask(self, user_content: str):
         '''método reponsável por fazer perguntas ao modelo'''

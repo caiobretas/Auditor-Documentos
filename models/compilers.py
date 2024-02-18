@@ -27,13 +27,25 @@ class PartCompiler:
     parte pertence ou não a um documento'''
     def __init__(self):
         self._model = GPT()
+        self.__prompt = """"
+Me diga se um dos nomes abaixo uma das partes principais que assinam o documento.
 
-    __prompt = """"
-    
-    
-    
-    
-    """
+Responda apenas sim ou não.
+
+Na dúvida, diga não.
+
+Nomes:
+"""
+
+    def compile_part_model(self, document_path, *parts):
+        '''retorna uma tupla com a parte e o status
+        utiliza a classe GPT para compilar a string'''
+
+        prompt  = self.__prompt + f'\n\n{parts[0]}\n{parts[1]}'
+        response = self._model.questions_and_answers_by_file(
+            prompt, document_path)
+        response = response['output_text'].strip().lower(), 'ok'
+        return response
 
 class DateCompiler:
     '''classe responsável por compilar strings de diferentes formatos'''
@@ -64,9 +76,9 @@ class DateCompiler:
         'dezembro': '12', 'dez': '12'
     }
 
-    def __init__(self):
-        with open(PROMPTS_PATH, 'r', encoding='utf-8') as file:
-            self._prompts = load(file)
+    # def __init__(self):
+    #     with open(PROMPTS_PATH, 'r', encoding='utf-8') as file:
+    #         self._prompts = load(file)
 
     def compile_date_regexp(self, document_str) -> tuple:
         '''responsável por compilar as datas encontradas
@@ -77,35 +89,45 @@ class DateCompiler:
             re.compile(padrao, re.IGNORECASE)
             for padrao in self._date_patterns_]
 
-        found_dates = list()
-
         if not compiled_patterns:
             return None, 'no date found'
 
+        found_dates = []
         for comp_pattern in compiled_patterns:
 
             found_dates = list(set(comp_pattern.findall(document_str)))
 
+            if not found_dates:
+                response = None, 'no date found'
+                continue
+
             if len(found_dates) > 1:
                 return None, 'more than one date'
 
-            for comp_date in found_dates:
+            comp_date = found_dates[0]
 
-                try:
+            try:
 
-                    if len(comp_date) == 3:  # Formato DD/MM/YYYY e DD/mês/YYYY
-                        day, month, year = comp_date
-                        month_number = self._month_mapping.\
-                            get(month.lower(), month)
-                        date_str = f'{day}/{month_number}/{year}'
+                if not len(comp_date) == 3:  # Formato DD/MM/YYYY e DD/mês/YYYY
+                    return None, 'unknown date format'
 
-                        obj = datetime.strptime(
-                            date_str, '%d/%m/%Y').date()
-                        return obj, 'ok'
+                day, month, year = comp_date
 
-                except ValueError as ve:
-                    return None, str(ve)
-        return
+                month_number = self._month_mapping.\
+                    get(month.lower(), month)
+
+                date_str = f'{day}/{month_number}/{year}'
+
+                obj = datetime.strptime(
+                    date_str, '%d/%m/%Y').date()
+
+                response = obj, 'ok' # type:ignore
+
+            except ValueError as ve:
+                response = None, str(ve) # type:ignore
+
+        return response
+
     def compile_variables(self, category: str, file_path: str) -> Union[tuple,str]:
         '''retorna uma tupla(data, cnpj/cpf)
         compila os prompts definidos em prompts.json dado o tipo do contrato

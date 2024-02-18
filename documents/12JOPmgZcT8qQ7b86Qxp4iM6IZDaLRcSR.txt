@@ -1,0 +1,490 @@
+Page 1 of 7 
+COMMERCIAL LICENSING AGREEMENT 
+ 
+This Commercial Licensing Agreement is entered into by and between: 
+ 
+LUMX STUDIOS LTDA., limited liability company, enrolled in the Taxpayer´s ID under No. 42.887.120/0001-00, 
+headquartered at Rua Voluntários da Pátria, No. 89, office 804, Ed. Empresarial Estação Botafogo, in the City and 
+State of Rio de Janeiro, ZIP code: 22270-000, hereby represented in accordance with its Articles of Association 
+(“Lumx”); 
+ 
+And, on the other side, 
+ 
+ZION LABS PTE. LTD., limited liability company, enrolled in the Taxpayer´s ID under No. 202220039H, 
+headquartered at 68 Circular Road, #02-01, 049422, Singapore, hereby represented in accordance with its 
+Articles of Association (“Zion”). 
+ 
+Lumx, when together with Zion, hereinafter referenced as “Parties” and, alone, as “Party”. 
+ 
+WHEREAS: 
+ 
+a) 
+Lumx is a startup specialized in strategic consulting and development of digital products and business lines 
+based on technologies such as Blockchain, NFTs and Metaverse; 
+ 
+b) 
+Lumx is the developer and exclusive owner of Seamore's intellectual property rights; and 
+ 
+c) 
+Zion is an experimentation studio focused on Web3. 
+ 
+The Parties resolve, by mutual agreement, to enter into this Commercial Licensing Agreement (“Agreement”), 
+which will be governed by the terms and conditions below: 
+ 
+1. 
+OBJECT 
+ 
+1.1. 
+The object of this agreement is the non-exclusive license to use the Platform developed by Lumx, called 
+Seamore, which consists of a Non-Fungible Token (“NFT”) research and analysis tool, pointing out important data 
+such as average price, sales volume and rarity level, through proprietary algorithms that use publicly available 
+data on the Ethereum network (“Platform”).  
+ 
+1.1.1. 
+Lumx shall license to Zion, on an onerous and non-exclusive basis, the non-transferable and 
+temporary right to use the Platform, which will be accessed through integration with the Metamask 
+wallet, exclusively to members who own more than 3 NFTs of the "WhaleTogether" collection, limited to 
+the purposes set forth in this Agreement (“Licensing”).  
+ 
+1.2. 
+Lumx declares that: (i) it is the legitimate and sole holder of the copyright related to the Platform and/or 
+holder of the rights to commercialize the Platform and has the technical knowledge and resources necessary to 
+provide maintenance and technical support services related to the Platform; (ii) wishes to license the Platform 
+and provide support and maintenance services, if necessary; and (iii) has sufficient infrastructure to meet the 
+purpose of this Agreement. 
+Clicksign 569f4605-44f3-45a4-bac8-089b6a03820e
+Page 2 of 7 
+ 
+2. FUNCTIONING OF THE PLATFORM  
+ 
+2.1. 
+The functioning of the Platform will depend on internet access and integration to the Metamask 
+extension, which will be the digital crypto wallet. 
+ 
+2.2. 
+Zion will provide access to the Platform to its associates, who will access the Platform through the 
+Metamask wallet. 
+ 
+2.3. 
+Zion is prohibited from making any modification to the Platform, even for the purpose of incorporating 
+improvements, upgrades or updates, which may only be carried out by Lumx as the holder of economic and 
+intellectual rights. 
+ 
+2.4. 
+The Platform has features related to price and availability of NFT, which shall not constitute investment 
+advice. Lumx shall not be liable for any NFT purchase and sale operation carried out by Zion and its associates. 
+ 
+2.5. 
+The license to use the Platform includes basic and free technical support for the term of this Agreement, 
+which will be provided by remote access, on business days that respect the holidays in the city of Rio de Janeiro. 
+Technical support is limited to issues related to the use of Platform features.  
+ 
+2.6. 
+Lumx undertakes to make every effort to ensure that the Platform is always up to date, secure and free 
+from errors and failures that may lead to the loss of content during the period of use. However, systems may 
+experience occasional interruptions or outages, whether scheduled or not. 
+ 
+2.6.1. 
+Lumx undertakes to communicate program stops in writing at least 24 hours in advance. 
+ 
+2.6.2. 
+In the event of unscheduled interruptions, Lumx will make every effort to establish the 
+operation of the Platform within a period of up to 48 hours from the beginning of inactivity and/or failure, 
+provided that they arise from the operation of the Platform itself and that they are not related to failure 
+of third parties, such as internet service providers. 
+ 
+2.6.3. 
+Lumx may carry out updates, upgrades or enhancements to the Platform, which Zion must 
+accept in case of continued use. 
+ 
+ 
+ 
+3. PRICE 
+ 
+3.1. 
+The Parties establish that, as remuneration for this Agreement, Zion shall pay Lumx, in the first three 
+months of this Agreement, the fixed and monthly amount of 0.75 ETH (zero point seventy-five Ethereum), and 
+from the fourth month forth, the fixed, non-adjustable and monthly amount of 1 ETH (one Ethereum) (“Price”). 
+ 
+The Etherium Price shall be transferred to the digital wallet indicated by Lumx, by the 10th of each month. 
+3.2. 
+The delay or non-payment by Zion shall give rise to default interest of 1% (one percent) per month, or 
+fraction, and a late payment fine of 2% (two percent) on the amounts in arrears, regardless of notification or 
+interpellation, judicial or extrajudicial.  
+ 
+Clicksign 569f4605-44f3-45a4-bac8-089b6a03820e
+Page 3 of 7 
+3.3. 
+The Price is closed, including the regular expenses necessary for the Licensing, and includes the total 
+remuneration due to Lumx for the fulfillment of all obligations undertaken by it, as well as all direct and indirect 
+costs, in addition to the applicable taxes. 
+ 
+4. TERM 
+ 
+4.1. 
+This Agreement is executed for an indefinite term and may be unilaterally terminated by either Party, 
+upon prior notice of 30 (thirty) days, without any penalties, maintaining the obligation to pay the Price in force, 
+and respecting the provisions of confidentiality and treatment of data established in this Agreement.  
+ 
+4.2. 
+Lumx may, at any time, terminate this Agreement unilaterally, without any compensation due to Zion, 
+in cases of infringement of its Intellectual Property or breach of data processing guidelines, without prejudice to 
+any fines, indemnities or damages that may be incurred by Lumx and due by Zion. 
+ 
+5. INTELLECTUAL PROPERTY 
+ 
+5.1. 
+Zion acknowledges that any and all Intellectual Property directly or indirectly related to the Platform, in 
+whole or in part, current or future, belongs exclusively to Lumx, regardless of whether they have been registered 
+or not, including, but not limited to, technical knowledge, know-how, patent, trademarks, copyrights, source 
+codes, software, applications, data modeling, technology, trade secret, inventions, industrial designs, layouts, 
+interfaces, materials, contents and any other data and/or information used in the execution of the object of this 
+Agreement, or duly licensed by third parties to Lumx (“Intellectual Property”), which cannot be used for any 
+purpose other than that expressly provided for in this Agreement, under penalty of direct liability of Zion for all 
+damages caused to Lumx, either directly by Zion or by third parties related to it.   
+ 
+5.2. 
+Zion expressly declares that it is aware that this Agreement does not imply any transfer, assignment, 
+right of use and exploitation, in whole or in part, of any Intellectual Property not expressly provided for in this 
+Agreement, being absolutely prohibited any other use or access to Intellectual Property, as well as the conduct 
+of any act or omission that may be considered a violation of this Agreement, Intellectual Property and 
+competition rules, including, but not limited to, improper access to the Platform's codes, repositories and 
+infrastructure, reverse engineering, copying, imitation, reproduction or commercialization, sublicensing of the 
+Platform outside the contexts of this Agreement, such as towards third parties and/or for environments external 
+to the use of the Platform; copying, reproduction or imitation of the brands, visual identity, trade dress, look and 
+feel of the Platform and of Lumx; disclosure, permission to access and transmission of confidential and sensitive 
+information about Lumx's business model and know-how; among others. 
+ 
+5.3. 
+Zion declares to be aware that the license to use the Intellectual Property object of this Agreement is of 
+a restricted nature, and any use of the Platform beyond what is absolutely necessary for the execution of the 
+related tasks is prohibited. 
+ 
+5.4. 
+Zion shall not sublicense the Platform and shall be liable for any misuse of brand, confusion or improper 
+association to which it causes, including any acts that may lead any third party to assume that the Platform is 
+owned by Zion, and/or that Lumx and Zion are related companies. 
+ 
+Clicksign 569f4605-44f3-45a4-bac8-089b6a03820e
+Page 4 of 7 
+5.5. 
+If Zion identifies an infringement of the Intellectual Property rights described in this Agreement, of any 
+nature and by any entity or person, it must report the situation to Lumx, so that it can obtain authorization to 
+proceed with the applicable protection measures, as well as for alignment of strategies. 
+ 
+5.6. 
+Zion shall use its best efforts to maintain the material integrity of the Intellectual Property and the 
+reputation of Lumx and the Platform. To do so, Zion must previously obtain Lumx´s approval for the use of the 
+Intellectual Property in its publicity and marketing materials. 
+ 
+6. PARTIES OBLIGATIONS 
+ 
+6.1. 
+Without prejudice to the other obligations set forth in this Agreement, Zion shall: 
+ 
+a. 
+Submit all information necessary for Lumx to provide the services covered by this Agreement; 
+ 
+b. 
+Maintain the confidentiality of the information of the terms and conditions established in this 
+Agreement; 
+ 
+c. 
+Pay the Price on time;  
+ 
+d. 
+Act in accordance with the legislation, regulations and other rules applicable to the achievement of 
+the object of this Agreement; and 
+ 
+e. 
+Provide Lumx, whenever there are any problems or errors with the Platform, if possible, all 
+documentation, reports and other information that individualize the circumstances in which the problems 
+occurred, in order to facilitate and expedite the work of their correction and improvement. 
+ 
+6.2. 
+Without prejudice to the other obligations set forth in this Agreement, Lumx shall: 
+ 
+a. 
+Develop and maintain the Platform in operation; 
+ 
+b. 
+Maintain the confidentiality of the information of the terms and conditions established in this 
+Agreement; 
+ 
+c. 
+Promptly correct any errors or failures of the Platform under this Agreement;  
+ 
+d. 
+Update the Platform, as applicable; and 
+ 
+e. 
+Act in accordance with the legislation, regulations and other rules applicable to the achievement of 
+the object of this Agreement.  
+ 
+7. DATA PROTECTION 
+ 
+7.1. 
+The Parties agree that they shall process the personal data necessary for the performance of this 
+Agreement solely and exclusively to fulfill the purpose for which they are intended and in compliance with all 
+applicable legislation and technical standards on information security and data protection, including, but not 
+limited to, the data protection laws of Brazil and specific to Singapore. For the purposes of executing this 
+Clicksign 569f4605-44f3-45a4-bac8-089b6a03820e
+Page 5 of 7 
+Agreement, personal data will be internationally transferred to Brazil, applying the specific rules of each 
+contracting country, in particular respecting the Personal Data Protection Law No. 13.709/2018 (“LGPD”). 
+ 
+7.1.1. 
+ Zion undertakes to notify and request the necessary authorization from the Protection 
+Agencies of the respective contracting countries and intermediaries prior to the transfer of international 
+personal data to Lumx in Brazil. Zion shall bear any costs and fees arising from such notification and/or 
+request. 
+ 
+7.2. 
+The Parties will process personal data in accordance with the instructions contained in this Agreement, 
+its amendments and possible exhibits. Data processing must be restricted to the purposes set out in this 
+Agreement. 
+ 
+7.3. 
+Zion shall not collect, use, access, maintain, modify, disclose, transfer or otherwise process personal 
+data without Lumx's knowledge and authorization, ensuring that such data is not accessed, shared or transferred 
+to third parties, including subcontractors, authorized agents and affiliates without Lumx's prior written consent. 
+ 
+7.3.1. 
+If Lumx authorizes the sharing, Zion must ensure that these third parties undertake, in writing, 
+to guarantee the same protection of personal data established in this Agreement, submitting them to the 
+terms contained therein. 
+ 
+7.3.2. 
+Zion shall process personal data in compliance with all relevant laws, in particular the LGPD and 
+Singapore's specific data protection laws, as well as all policies and regulations applicable to Lumx. 
+ 
+7.3.3. 
+Zion is responsible for all actions and omissions carried out by these third parties, regarding 
+the processing of personal data as if it had performed them. 
+ 
+7.4. 
+The Parties shall adopt security, technical and administrative measures, capable of protecting personal 
+data from unauthorized access and from accidental or unlawful situations of destruction, loss, alteration, 
+communication or any form of inappropriate or illicit treatment. 
+ 
+7.5. 
+In the event of a breach or suspected breach of obligations, controls or security measures and data 
+leakage, which may generate consequences or damages, the Parties will inform the other Party within the period 
+determined by the ANPD, or another competent Supervisory Authority, or, in the absence of, within 24 (twenty-
+four) hours from the acknowledgment of the fact and will indicate, at least, the nature and category of the 
+personal data affected, information on the affected subjects, identified risks and measures that have been or will 
+be adopted to reverse or mitigate the damage effects. 
+ 
+7.6. 
+The Party that causes the damage will keep the innocent Party harmless from any demand, 
+denunciation, claim and/or procedure, brought by the holder of personal data and/or by any administrative or 
+judicial authority, as a result of non-compliance with its obligations. 
+ 
+7.7. 
+The Party that caused the harmful event undertakes to indemnify the innocent Party for losses and 
+damages, including, but not limited to, any sanction it has received from any authority, without prejudice to 
+other applicable legal measures.  
+ 
+Clicksign 569f4605-44f3-45a4-bac8-089b6a03820e
+Page 6 of 7 
+7.8. 
+In view of the nature of this Agreement, the Parties shall assist each other with information, whenever 
+necessary, in order to respond to any requests related to the exercise of the rights of holders provided for in the 
+LGPD, and in specific laws of Singapore when applicable. 
+ 
+8. CONFIDENTIALITY 
+ 
+8.1. 
+The definition of "Confidential Information" means any data, methodology, documentation and 
+information, whether of a technical, administrative, commercial, legal, strategic or other nature, including, 
+without limitation, the references, commercial conditions, internal and/or external issues of the Parties, 
+corporate, economic, work performance, market position, organizational structure and/or other information 
+that is revealed at any time by the a Party, so that they will be treated in character of the most absolute secrecy 
+and confidentiality. The Parties must refrain from promoting any disclosure and/or use of this information to 
+third parties, no matter how small, forcing themselves not to assign, transfer, disclose, provide, lend and/or 
+transmit, by any means, all content made available to them.  
+ 
+8.2. 
+The disclosure of Confidential Information is only allowed with express authorization of the other Party 
+or by court order, at which time the ordered Party must notify the other Party within 24 (twenty-four) hours 
+after the acknowledgment. 
+ 
+8.3. 
+Lumx will maintain absolute secrecy of the data, information, documents, or any other that it may have 
+knowledge of as a result of this Agreement, which may not be published, disclosed or otherwise made available, 
+directly or indirectly, to any person, except to those employees, agents or contractors of the Parties, who need 
+such information for the fulfillment of this Agreement. 
+ 
+8.4. 
+Disclosure of Confidential Information will only be permitted when: 
+ 
+a. 
+The Party proves that the information was already known before it was received from the other 
+Party, and therefore is not obliged to keep it confidential; 
+ 
+b. 
+The information has been lawfully obtained by third parties, without breach of any of the provisions 
+of this Agreement; or 
+ 
+c. 
+The information is or has become publicly available otherwise than as a result of any act or omission 
+of the Parties or their agents. 
+ 
+8.5. 
+Upon request, the Parties undertake to immediately return any and all material that has been delivered 
+to them by the other Party and that contains Confidential Information. 
+ 
+The Parties shall use Confidential Information only for the purposes for which it was disclosed to them 
+and shall also comply with all applicable laws, regulations and restrictions. 
+8.6. 
+The confidentiality obligation undertaken by the Parties shall be in force throughout the Term and also 
+for a period of 5 (five) years after the termination of this Agreement. 
+ 
+9. MISCELANNEOUS 
+ 
+Clicksign 569f4605-44f3-45a4-bac8-089b6a03820e
+Page 7 of 7 
+9.1. 
+This Agreement does not establish any form of partnership, association, joint or several liability between 
+the Parties, each one being solely responsible for all the respective charges arising from current legislation, 
+whether labor, social security, insurance or tax in general, and obliged to comply with the relevant legal 
+provisions.  
+ 
+9.2. 
+All obligations undertaken in this Agreement are irrevocable and irreversible, and the Parties undertake 
+by themselves and their successors to comply, without restrictions, with all the terms and conditions of this 
+Agreement. 
+ 
+9.3. 
+Any tolerance of one Party in relation to the other in the fulfillment of the obligations arising from this 
+Agreement will not imply a modification of its clauses and conditions, which shall remain in force, in their exact 
+terms. 
+ 
+9.4. 
+The Parties may not assign, transfer, or dispose of, in any capacity, in whole or in part, the obligations 
+and rights arising from this Agreement, without the prior, express and written consent of the other Party. 
+ 
+9.5. 
+The Parties recognize the form of contracting by electronic means as valid and effective, even if done 
+with an electronic signature or certification outside the ICP-Brazil standards, pursuant to art. 10, §2, of Provisional 
+Measure No. 2,200/2001. 
+ 
+9.6. 
+This Agreement is governed by the laws of the Federative Republic of Brazil. 
+ 
+9.7. 
+The Parties elect the District Court of the Capital of Rio de Janeiro, waiving any other, however privileged 
+it may be, to resolve doubts and controversies arising from or in connection with this Agreement. 
+ 
+AND, IN WITNESS WHEREOF, the parties sign this Agreement in 2 (two) counterparts of the same form and 
+content. 
+ 
+Rio de Janeiro, September 29th, 2022. 
+ 
+_______________________________________ 
+LUMX STUDIOS LTDA. 
+ 
+_______________________________________ 
+ZION LABS PTE. LTD. 
+ 
+Witnesses: 
+ 
+ 
+ 
+____________________________________ 
+Name: Caio Diniz Bretas 
+ID: 5107.712.927-00 
+______________________________________ 
+Name: Michel Ruthenberg Goldberg 
+ID: 160.306.787-60 
+ 
+ 
+ 
+Clicksign 569f4605-44f3-45a4-bac8-089b6a03820e
+Lumx_Seamore_License Agreement_(LF_23.09.2022) (1).docx
+Documento número #569f4605-44f3-45a4-bac8-089b6a03820e
+Hash do documento original (SHA256): f7a786e760e0aae44766469d727446ea64e0f7c090f2b78f778774a3794cd21a
+Assinaturas
+Michel Ruthenberg Goldberg
+CPF: 160.306.787-60
+Assinou como testemunha em 03 out 2022 às 13:02:30
+Caio Diniz Bretas
+CPF: 150.712.927-00
+Assinou como testemunha em 29 set 2022 às 17:20:27
+Caio Barbosa Zacarias
+CPF: 162.868.767-31
+Assinou como parte em 29 set 2022 às 17:33:20
+Greg Palma
+Assinou como parte em 11 out 2022 às 23:11:15
+Log
+29 set 2022, 17:19:02
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 criou este documento número 569f4605-44f3-45a4-bac8-089b6a03820e. Data
+limite para assinatura do documento: 27 de dezembro de 2022 (17:16). Finalização automática
+após a última assinatura: não habilitada. Idioma: Português brasileiro.
+29 set 2022, 17:19:06
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 adicionou à Lista de Assinatura:
+michel@lumxstudios.com para assinar como testemunha, via E-mail, com os pontos de
+autenticação: Token via E-mail; Nome Completo; CPF; endereço de IP. Dados informados pelo
+Operador para validação do signatário: nome completo Michel Ruthenberg Goldberg e CPF
+160.306.787-60.
+29 set 2022, 17:19:06
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 adicionou à Lista de Assinatura:
+caio.bretas@lumxstudios.com para assinar como testemunha, via E-mail, com os pontos de
+autenticação: Token via E-mail; Nome Completo; CPF; endereço de IP. Dados informados pelo
+Operador para validação do signatário: nome completo Caio Diniz Bretas e CPF 150.712.927-00.
+Datas e horários em GMT  -03:00 Brasilia
+Log gerado em 13 de outubro de 2022. Versão v1.15.0.
+569f4605-44f3-45a4-bac8-089b6a03820e
+Página 1 de 2 do Log
+29 set 2022, 17:19:06
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 adicionou à Lista de Assinatura:
+caio@lumxstudios.com para assinar como parte, via E-mail, com os pontos de autenticação:
+Token via E-mail; Nome Completo; CPF; endereço de IP. Dados informados pelo Operador para
+validação do signatário: nome completo Caio Barbosa Zacarias e CPF 162.868.767-31.
+29 set 2022, 17:19:06
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 adicionou à Lista de Assinatura:
+greg@moonlabs.gg para assinar como parte, via E-mail, com os pontos de autenticação: Token
+via E-mail; Nome Completo; CPF; endereço de IP.
+29 set 2022, 17:20:27
+Caio Diniz Bretas assinou como testemunha. Pontos de autenticação: Token via E-mail
+caio.bretas@lumxstudios.com. CPF informado: 150.712.927-00. IP: 201.17.85.82. Componente
+de assinatura versão 1.373.0 disponibilizado em https://app.clicksign.com.
+29 set 2022, 17:33:20
+Caio Barbosa Zacarias assinou como parte. Pontos de autenticação: Token via E-mail
+caio@lumxstudios.com. CPF informado: 162.868.767-31. IP: 201.17.86.244. Componente de
+assinatura versão 1.373.0 disponibilizado em https://app.clicksign.com.
+03 out 2022, 13:02:30
+Michel Ruthenberg Goldberg assinou como testemunha. Pontos de autenticação: Token via E-
+mail michel@lumxstudios.com. CPF informado: 160.306.787-60. IP: 201.17.85.82. Componente
+de assinatura versão 1.374.0 disponibilizado em https://app.clicksign.com.
+07 out 2022, 10:24:33
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 removeu da Lista de Assinatura: greg@moonlabs.gg para assinar como parte.
+07 out 2022, 10:24:46
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 adicionou à Lista de Assinatura:
+greg@moonlabs.gg para assinar como parte, via E-mail, com os pontos de autenticação: Token
+via E-mail; Nome Completo; endereço de IP.
+11 out 2022, 23:11:15
+Greg Palma assinou como parte. Pontos de autenticação: Token via E-mail greg@moonlabs.gg.
+IP: 114.75.227.103. Componente de assinatura versão 1.381.0 disponibilizado em
+https://app.clicksign.com.
+13 out 2022, 00:52:22
+Operador com email caio.bretas@lumxstudios.com na Conta 318e8694-56e1-4b15-8826-
+f092a2a25a65 finalizou o processo de assinatura. Processo de assinatura concluído para o
+documento número 569f4605-44f3-45a4-bac8-089b6a03820e.
+Documento assinado com validade jurídica.
+Para conferir a validade, acesse https://validador.clicksign.com e utilize a senha gerada pelos signatários ou
+envie este arquivo em PDF.
+As assinaturas digitais e eletrônicas têm validade jurídica prevista na Medida Provisória nº. 2200-2 / 2001
+Este Log é exclusivo e deve ser considerado parte do documento nº 569f4605-44f3-45a4-bac8-089b6a03820e, com os efeitos
+prescritos nos Termos de Uso da Clicksign, disponível em www.clicksign.com.
+Datas e horários em GMT  -03:00 Brasilia
+Log gerado em 13 de outubro de 2022. Versão v1.15.0.
+569f4605-44f3-45a4-bac8-089b6a03820e
+Página 2 de 2 do Log

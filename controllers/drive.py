@@ -31,10 +31,10 @@ class Drive:
             done = False
             while not done:
                 status, done = downloader.next_chunk()
-                print(
-                    f"Document: {file_id}\n"
-                    f"  download progress: {status.progress() * 100}"
-                )
+                # print(
+                #     f"Document: {file_id}\n"
+                #     f"  download progress: {status.progress() * 100}"
+                # )
 
             fh.seek(0)
             return fh
