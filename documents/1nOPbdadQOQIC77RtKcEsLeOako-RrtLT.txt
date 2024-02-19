@@ -1,0 +1,1093 @@
+Page 1 of 4
+Order Form Number: Q-03377
+Expiration Date:28 Nov, 2023
+Fireblocks Ltd
+Floor 25, Yizhak Sade 8
+Tel Aviv 6777508
+Israel
+Prepared For:
+Michel Goldberg
+financeiro@lumx.io
+Prepared By:
+Sofia Duesberg
+sduesberg@fireblocks.com
+BILL TO
+SHIP TO
+Name:
+Lumx Studios
+Name:
+Lumx Studios
+Address:
+Rua Voluntários da Pátria 89/804
+Rio de Janeiro, Rio de Janeiro
+02010-100
+Brazil
+Address:
+Rua Voluntários da Pátria 89/804
+Rio de Janeiro, Rio de Janeiro
+02010-100
+Brazil
+Bill To Email:
+financeiro@lumx.io
+Workspace
+Owner Email:
+bruno.leao@lumxstudios.com
+Named Account: Lumx Studios
+Subscription Start Date: 29 Nov, 2023
+Subscription End Date: 28 Nov, 2024
+Billing Frequency: Monthly
+Payment Terms: Net 30
+Credit Card payment upfront on a Monthly basis. 
+Please ensure accuracy of the Bill to and Ship to information above. The welcome email with service activation information will
+be sent to the Workspace Owner Email provided above.
+ORDER DETAILS
+SUBSCRIPTION
+Product Name
+Product Description
+Date
+Quantity
+Final Price
+Wallet as a
+Service Starter
+Retail Wallet: 10,000
+Online Workspace: 1
+Testnet Workspace: 1
+Workspace Users: 5
+Quarterly Outgoing Transfer Volume: 1,000,000
+Assets Under Custody: 500,000
+Exchange Connections: 2
+Blockchains: 10
+29 Nov, 2023-
+28 Nov, 2024
+1
+$12,500.00
+ 
+Total: $12,500.00
+Page 2 of 4
+ 
+OVERAGES
+Start Date
+End Date
+Product
+Code
+Product Name
+Overage
+Rate
+Measurement
+Frequency
+29 Nov,
+2023
+28 Nov,
+2024
+BCK
+Blockchains
+$156.25
+Monthly
+29 Nov,
+2023
+28 Nov,
+2024
+EXC
+Exchange Connections
+$781.25
+Monthly
+29 Nov,
+2023
+28 Nov,
+2024
+AUC
+Assets Under Custody
+$0.00313
+Monthly
+29 Nov,
+2023
+28 Nov,
+2024
+VOL
+Quarterly Outgoing Transfer
+Volume
+$0.00469
+Quarterly
+29 Nov,
+2023
+28 Nov,
+2024
+USER
+Workspace Users
+$312.5
+Monthly
+29 Nov,
+2023
+28 Nov,
+2024
+RW
+Retail Wallet
+$0.15625
+Monthly
+ORDER TERMS
+This Order Form is incorporated into the Fireblock’s License Agreement/Master Software as a Service Agreement
+(the “Agreement”) executed between the parties. 
+The term of subscriptions included in this Order Form shall commence on the later of the Subscription Start Date
+listed above or the execution date, as determined by the date listed in the Signature section below. 
+PAYMENT TERMS
+Fees associated with this Order Form shall be invoiced upon the Subscription Start Date and are payable in
+accordance with the Payment Terms stated above unless expressly stated otherwise below. Fees stated in this
+Order Form are non-cancellable and non-refundable. 
+If a Client Purchase Order is required, please complete the following (leave blank if not required).
+Client PO Number:
+OTHER PURCHASE TERMS
+At the end of each period determined by the Measurement Frequency stated above during the subscription term
+set forth in the Order Form, if Client's cumulative consumption exceeds the amounts included in its subscription,
+such excess shall constitute an Overage. Fireblocks shall invoice for such Overages based on the rates
+prescribed herein, which will be due in accordance with the Payment Terms stated in this Order Form. 
+For avoidance of doubt, amounts to be invoiced for the Overage shall be calculated as follows: 
+(Actual Amount - Subscription Amount) x Overage Rate
+SPECIAL TERMS
+Page 3 of 4
+Page 4 of 4
+ 
+DISCLAIMER: This Order Form and its contents are intended solely for the benefit of the parties identified above. This Order Form may not be reproduced or distributed to
+third parties. 
+ 
+SIGNATURE
+By signing below, I affirm that I am authorized to execute this Order Form and agree to the terms set forth herein.
+Accepted by:
+ 
+ 
+ 
+ 
+Signature    _____________________________________
+ 
+ 
+ 
+ 
+Name
+   _____________________________________
+ 
+ 
+ 
+ 
+Title
+   _____________________________________
+ 
+ 
+ 
+ 
+Date
+   _____________________________________
+Caio Barbosa (Nov 28, 2023 16:39 GMT-3)
+Caio Barbosa
+Caio Barbosa
+Co-CEO
+Nov 28, 2023
+Michel Goldberg (Nov 28, 2023 16:42 GMT-3)
+Michel Goldberg
+Michel Goldberg
+CFO
+Nov 28, 2023
+ 
+Rev. 2023-07-31 
+Master Software as a Service Agreement 
+ 
+This Master Software as a Service Agreement (the “SaaS” and “Agreement” respectively) is entered into 
+and effective as of the date of the final signature below (“Effective Date”), by and among LUMX 
+STUDIOS S.A., located at Rua Voluntários da Pátria, 89/804, Botafogo, Rio de Janeiro, 22270-000, Brazil 
+and its Affiliates (as defined below), (“Client”), and Fireblocks Ltd. an Israeli Company, located at Floor 
+25, Yizhak Sade 8, Tel Aviv, Israel 6777508 (“Fireblocks”); and (each, a “Party” and collectively, the 
+“Parties”).  
+ 
+Capitalized terms not defined herein shall have the meaning assigned to them in Schedule A (Definitions). 
+1.        Access and usage rights to Services. 
+1.1    
+ The Service provides Client access and usage of the proprietary SaaS platform developed 
+and owned by Fireblocks (and supporting services thereto), enabling Client to securely store, 
+manage and administer its own holdings of digital assets in its Workspace directly on various 
+blockchains using a combination of encrypted public and private keys (each such administrative 
+environment a “Workspace”). Fireblocks may at its sole discretion also make additional services 
+and/or software features available to Client from time to time (“Optional Services,” and together 
+with the Workspaces, collectively the “Service”). Client’s selection of chargeable items offered as 
+part of the Service, such as the initial number of Workspaces or Users, shall be set forth in the 
+applicable Order Form(s), which collectively form an integral part of this Agreement. 
+1.2    
+ Usage rights. Subject to Client’s compliance with the terms and conditions of this 
+Agreement (including payment obligations), Order Form(s) and Schedule B (additional terms 
+applicable to Optional Services during the Term, Fireblocks hereby grants to Client a subscription 
+to access and use the Service on a non-exclusive, non-sublicensable, non-transferable basis for the 
+Term.  
+1.3         Supported Tokens & Forks. Fireblocks supports only Supported Tokens. This means, and 
+without limitation, Client shall not attempt to receive, request, send, store, or engage in any other 
+type of transaction involving any token other than a Supported Token. Fireblocks will have no 
+responsibility or liability if Client loses, burns, or otherwise cannot access or control any token that 
+Fireblocks does not support. Additionally, Client acknowledges and agrees that (i) Fireblocks is 
+not responsible for operation or failure of underlying digital asset protocols and further, makes no 
+guarantee as to the functionality, security, or availability of such underlying protocols (including 
+but not limited to delays caused by “hashing” and other blockchain errors); and (ii) if a Fork occurs, 
+Fireblocks will not support the Forked protocol unless officially announced by Fireblocks, but will 
+allow Client to transfer the affected digital asset. 
+2.        Usage Restrictions. 
+2.1 
+Client will not (or attempt to, and ensure it will not authorize or assist others to): (a) 
+circumvent, disable or otherwise interfere with security-related features of the Services or features 
+that enforce limitations on use of the Services; (b) disassemble, reverse engineer, modify, translate, 
+ 
+Rev. 2023-07-31 
+alter or decompile all or any portion of the Services or otherwise discern the source code of the 
+Services except and solely to the extent permitted under applicable law; (c) use the Services (i) on 
+a service bureau or time sharing basis;  or (ii) to provide services to third parties not in accordance 
+with this Agreement; (d) distribute, copy, modify, duplicate, rent, lease, sublicense, assign, 
+transmit, sell or otherwise transfer the Services or any of Client’s rights therein; (e) violate or abuse 
+password protections governing access and usage of the Services; (f) interfere with the integrity or 
+proper working of the Services; (g) use the Services in any unlawful manner or otherwise in breach 
+of this Agreement; (h) delete, remove, obscure or in any manner alter the copyright, trademark, and 
+other Fireblocks’ or any other third parties’ intellectual proprietary rights notices appearing on or 
+in the Services or any component thereof; (i) use the Services in order to conduct any comparisons, 
+competitive analysis, penetration testing, vulnerability assessment, aimed identified security 
+vulnerability, or other benchmarking activities, either alone or in connection with any other 
+Services or hardware without the prior written consent of the Fireblocks; (j) use the Services other 
+than as permitted herein; and/or (k) use Fireblocks’ name and logo without Fireblocks prior written 
+approval. Client will prevent any unauthorized access to, or the use of the Services and immediately 
+notify Fireblocks of any such unauthorized access or use. 
+3.        Setup; Client Key Obligations. 
+3.1    
+ Initial Setup. Following the Effective Date, Fireblocks will enable Client to access and use 
+the Service. Client’s access and use of the Service will conform to the number of Workspaces set 
+forth in the applicable Order Form, and Client will appoint an Owner for each Workspace within 
+its Account. Following the creation of a digital wallet private key through the Service, Client is 
+required to activate an encrypted share of the access credentials, which must be stored on a Client 
+Device (the “Private Key Share”). Upon activation of the Private Key Share and during the initial 
+onboarding process, Client will trigger the Service to generate a Recovery Passphrase to enable 
+recovery of the Private Key Share (the “Recovery Passphrase”) and the Service will automatically 
+provide a code which enables the reconstruction of the private keys for the wallets in the Workspace 
+without any requirement of Fireblocks’ involvement (the “Full Key Recovery Package”). The 
+Private Key Share, Recovery Passphrase and Full Key Recovery Package are collectively referred 
+to as the “Client Keys”. 
+3.2    
+Recovery Process. Client may use the Recovery Passphrase to recover a Private Key Share 
+in the event a Client Device containing a Private Key Share is lost, stolen, damaged, or otherwise 
+inaccessible. Fireblocks doesn’t have the ability to create or access the Client Keys. Client 
+acknowledges and agrees it must: (i) store the Client Keys in a secured, offline location, with strict 
+protocols setting adequate security measures to protect the Client Keys; and (ii) from time to time, 
+perform a recovery test to ensure the Full Key Recovery Package operates in accordance with 
+Client’s recovery procedure. If Client loses the Client Keys, Fireblocks cannot assist Client in the 
+retrieval of the lost Client Keys. Client acknowledges that under certain conditions, loss of the 
+Client Keys can lead to permanent damage and complete loss of control over the Client’s digital 
+assets, and the inability to recover the digital assets therein. 
+3.3    
+Recovery Process Backup. Client hereby expressly agrees (i) it is Client’s sole 
+responsibility to backup the Client Keys; and (ii) Fireblocks will not be liable (whether directly or 
+ 
+Rev. 2023-07-31 
+indirectly) for any loss suffered due to Client’s failure to comply with the recovery process 
+recommendation under Section 3.2 immediately above. If requested by Client, Fireblocks may 
+recommend a third party to directly provide Client with backup storage services.  Client agrees 
+such backup storage services will be provided in full by an external, unrelated to Fireblocks, third 
+party and therefore Client hereby releases and forever discharges Fireblocks and its respective 
+predecessors, successors and Affiliates, assignees, officers, directors, agents, and employees, as 
+well as all other persons or entities named or unnamed, from all claims, demands, damages, costs, 
+expenses, liens, actions or causes of action, whether known or unknown, that arise from or are in 
+any way related to the services provided by such third party. Fireblocks is not responsible for any 
+acts and/or omissions of any such service provider (including, without limitation, in compliance 
+with applicable law, the service provider’s vendors’, breaches and misuse of any data provided 
+hereunder). 
+3.4   
+  Client Keys. Client acknowledges that only Client, through its Owners and Users, are 
+permitted to use the Client Keys. Client will prevent any unauthorized access to, or use of, the 
+Client Keys, and Client will notify Fireblocks immediately upon becoming aware of any access to 
+or use of the Client Keys. Client is solely responsible for any consequences, losses, expenses, costs, 
+and claims that may result due to any incorrect, neglectful, or unauthorized use of the Client Keys. 
+Fireblocks has no responsibility for any loss or damage that may be incurred due to Client’s failure 
+to secure the Client Keys pursuant to this Section 3.4 and Section 3.3 of this Agreement, including, 
+but not limited to, a failed recovery of a wallet, loss of data, erroneous transmission of digital assets, 
+loss of digital assets, and/or hacking by third parties. Client shall implement appropriate technical, 
+organizational and security measures to make sure that Client’s Users have access to their 
+individual Client Keys. 
+3.5    
+ Client Keys; Security Breach Notification. Client shall notify Fireblocks of any security 
+breach of, including unauthorized access to, the Service, any of the Client Keys, the Account, any 
+User, or a Client network, endpoint, or system as soon as possible upon becoming aware of such 
+event. Client shall cooperate in good faith with Fireblocks in the investigation of any suspected 
+unauthorized access to or use of the Service using the Account, credentials or Client Keys, and any 
+security breach. 
+3.6    
+ Sanity Testing. Following the setup of each Workspace(s), development or deployment of 
+a new smart contract, minting of a new token, or connection to a new exchange or counterparty, 
+Client must test each such new Workspace(s), smart contract, token, or connection before executing 
+a live transaction to ensure that the functionality is working as intended.   
+3.7 
+ Insurance.  Client shall be responsible for maintaining their own insurance policies. 
+Fireblocks will provide Client with a copy of its certificate of insurance upon written request. 
+3.8    
+ Users.  Client will ensure that all Users comply with the terms and conditions of this 
+Agreement and that Users will keep Account login details secure. Client is, and will remain, solely 
+responsible for its internal policies and procedures with respect to delegating use of the Service to 
+Users, and Client acknowledges that it will be bound by all actions taken on the Fireblocks platform 
+and will be liable for any breach of this Agreement by its Users. Without derogating from the above, 
+Fireblocks will not be responsible or liable in any way for any of the following: (a) any instance of 
+ 
+Rev. 2023-07-31 
+unauthorized access or use of the Service by Users; and/or (b) any other third party using the 
+Account to access to the Service (including in case of theft, embezzlement, or similar cases).  
+4.        Usage Data. 
+4.1    
+ Usage Data. Through its use of the Service, Client may provide, upload, import, transmit, 
+post, or make accessible to Fireblocks certain data (“Usage Data”). Client grants Fireblocks a 
+royalty-free, fully paid, revocable, non-exclusive license to use, process, display, copy, modify, 
+make derivative works of, and store the Usage Data solely in order to: (i) to provide the Services 
+to Client; (ii) to administer and make improvements to the Service; and (iii) to collect and analyze 
+aggregated anonymous information. Client acknowledges that the Services do not operate as an 
+archive or file storage service. Client is solely responsible for the backup of Usage Data and Client 
+alone can implement back up plans and safeguards appropriate for its requirements. 
+4.2    
+ Rights in Usage Data. Client shall own all rights, title, and interest in and to the Usage 
+Data. Client shall have sole responsibility for the reliability, integrity, accuracy, and quality of the 
+Usage Data. 
+5.        Support Levels. 
+5.1    
+ Support and maintenance services are provided according to the service level agreements 
+set forth at fireblocks.com/sla (the “SLA”). 
+6.    
+Accessing Third Party Services. 
+6.1    
+Third Party Services. Client may access certain optional third-party services provided by 
+external and independent third-party providers (“Third Party Services”) through the Fireblocks 
+platform, in connection with Client’s use of the Services. Client hereby acknowledges and agrees 
+that such Third-Party Services are provided directly by the Third Party and are completely in the 
+relevant Third Party’s control. Third Party Services to Client are subject to the Third Party's 
+applicable terms and conditions. Fireblocks is not responsible for the quality of Third-Party 
+Services provided by the Third Party to Client. By accepting the Third Party’s terms and conditions, 
+Client is engaging directly with the Third Party and Fireblocks will not be liable for any acts or 
+omissions of such Third Party, including failure of such Third-Party Service to perform to any 
+particular standard. In no manner does Client’s ability to access Third Party Services via the Service 
+constitute a recommendation or endorsement of those Third-Party Services by Fireblocks. Client 
+agrees to comply with all applicable Third-Party terms and conditions when accessing the Third-
+Party Services through the Services. 
+6.2    
+Usage Data. In order to use Third Party Services via the Service, Client may need to provide 
+certain information to the Third Party. Client acknowledges and agrees that Fireblocks may share 
+any data (including without limitation, Usage Data) Client provides when using such Third-Party 
+Service to the applicable Third Party for the sole purpose of facilitating the integration of Service 
+with the Third-Party Services. Client hereby authorizes and consents to Fireblocks sharing only 
+such data as is necessary to ensure the smooth functioning of the Third-Party Services.  
+ 
+Rev. 2023-07-31 
+6.3    
+Optional Services. In addition, Client has the option to use and/or add Optional Services 
+that will be used in connection with the Services. A list of such Optional Services and their 
+description and additional terms are attached hereto as Schedule B. Client represents and warrants 
+that it will ensure that Users are aware of and understand the terms of this Agreement and any 
+relevant terms of the Optional Services.  
+6.4    
+Disclaimer of Accuracy of Third-Party Content.  Fireblocks cannot warrant and does not 
+warrant that the Third-Party content available on the Services is accurate, complete, reliable, 
+current, or error-free. 
+6.5    
+Disclaimer of Errors Attributable to Third Party Services. In the event that a transaction is 
+not completed due to a Third Party, or any other error occurs as a result of a Third Party (including 
+without limitation errors that occur on any supported blockchain), Fireblocks is not responsible for 
+any claim, liability, expenses, losses, costs, and/or claims resulting from such Third-Party content. 
+6.6        No Warranty by Fireblocks. CLIENT IS SOLELY RESPONSIBLE FOR ITS CHOICE 
+AND USE OF OPTIONAL SERVICES AND ANY THIRD-PARTY SERVICES OFFERED 
+THROUGH THE SERVICE AND NOTWITHSTANDING SECTIONS 12 (LIMITED 
+WARRANTIES AND DISCLAIMER OF WARRANTIES) AND 14 (LIMITATION OF 
+LIABILITY) BELOW, FIREBLOCKS AND ITS AFFILIATES MAKE NO WARRANTIES, 
+WHETHER EXPRESS OR IMPLIED (BY LAW OR OTHERWISE), AND HEREBY DISCLAIM 
+ALL LIABILITY, WITH RESPECT TO SUCH OPTIONAL SOFTWARE SERVICE AND 
+THIRD-PARTY SERVICE.      
+7.      
+DeFi Applications and Staking. 
+7.1    
+As part of the Services, Fireblocks offers its clients the option to access decentralized 
+finance (“DeFi”) applications and/or proof of stake networks (“Staking”). Fireblocks may offer 
+some of these services through Third Parties. All the terms and conditions contained in Section 6 
+(Accessing Third Party Services) above will be fully applicable in its entirety to all DeFi and 
+Staking services provided through Third Party Services. The incentives for the Third-Party Services 
+vary and are typically calculated subject to the protocols of the applicable network.  
+7.2 FIREBLOCKS RESERVES THE RIGHT TO INITIATE OR TERMINATE CONNECTIVITY 
+WITH ANY DEFI APPLICATION OR STAKING SERVICE PROVIDER, OR MODIFY THE 
+RULES FOR PARTICIPATION, AT ANY TIME IN ITS SOLE DISCRETION BY PROVIDING 
+CLIENT AT LEAST FIVE (5) DAYS PRIOR NOTICE. 
+7.3    
+Interactions with DeFi Applications. Unless otherwise specified, DeFi applications are 
+offered by Third Parties. Fireblocks makes no representations or guarantees regarding the operation 
+of any particular DeFi application or protocol, and Fireblocks makes no statements, claims, 
+representations or warranties about the security, functionality, or accuracy of representations 
+regarding any DeFi service, including in circumstances where a transaction to or from a DeFi 
+application originates or terminates from a Fireblocks wallet.  
+7.4    
+FIREBLOCKS DOES NOT REPRESENT, WARRANT OR GUARANTEE: (i) THE 
+RETURN OF ANY PRINCIPAL AMOUNT OF DIGITAL ASSETS TRANSFERRED TO A 
+DEFI APPLICATION OR STAKING NETWORK; OR, (ii) ANY PROCEEDS, RETURNS OR 
+ 
+Rev. 2023-07-31 
+REWARDS OFFERED OR ADVERTISED IN CONNECTION WITH ANY DEFI 
+APPLICATION OR STAKING SERVICE. 
+7.5    
+Distribution of Staking Rewards.  Unless otherwise specified, proceeds from Staking and 
+DeFi programs are calculated, rewarded, and distributed by Third Parties. Fireblocks makes no 
+representations or guarantees regarding the calculation or distribution of proceeds in connection 
+with Client’s use of Staking or DeFi services.  Client acknowledges that any complaint regarding 
+the calculation or distribution of proceeds should be directed to the Third Parties providing the 
+Third-Party Service, and Fireblocks has no obligation or responsibility to act as intermediary to any 
+complaint or dispute as may arise between Client and a DeFi application or Staking service 
+provider. With respect to Ethereum Staking specifically, Fireblocks makes no guarantees regarding 
+any conversion between any Ethereum network protocols that Client may be required to perform 
+in connection with a DeFi application or Staking service. IF AN ETHEREUM NETWORK 
+CONVERSION OR UPGRADE FAILS FOR ANY REASON, FIREBLOCKS WILL NOT BE 
+RESPONSIBLE FOR THE LOST ASSETS. 
+  
+7.6    
+Slashing Penalties.  A Staking Third Party may, on occasion, determine that proceeds were 
+erroneously rewarded, or that proceeds should not be rewarded, and such determinations may result 
+in the application of a “slashing penalty.”  Fireblocks makes no guarantees that any of Client’s 
+digital assets that are transferred to a Staking network will not be subject to a slashing penalty. In 
+the unlikely event that Client’s digital assets are subject to a slashing penalty, Client acknowledges 
+that it is solely responsible for resolving the complaint with the relevant Third Party.    
+  
+7.7    
+Transaction Authorization Policy.  Interacting with the DeFi and Staking Third Party may 
+require changes in the Fireblocks Transaction Authorization Policy of Client.  Client understands 
+and accepts the risk of making changes to the Fireblocks Transaction Authorization Policy. It is 
+Client’s sole responsibility to conduct diligence on the consequences of any Transaction 
+Authorization Policy changes and approve them. 
+  
+7.8    
+Use of APIs.  Fireblocks may make open-source scripts and external utilities to interact 
+with DeFi and staking applications available to Client through API. The API access that is required 
+is broad and can reduce the level of Fireblocks policy security for Client. It is the Client’s sole 
+responsibility to audit and diligence the script and/or utilities, validate that the script files are not 
+compromised in their system or networks and maintain strict protocols around the security of the 
+API key. 
+  
+7.9    
+Downtime Incidents.  Some DeFi applications and Staking services are time sensitive. 
+Client acknowledges that its inability to interact with a DeFi application or Staking service within 
+certain timeframes may result in monetary loss, including from liquidations or fluctuations in 
+market prices.  Client acknowledges that Fireblocks makes no representations regarding the 
+suitability of its Service for interacting with time sensitive DeFi applications and Staking services, 
+and Fireblocks accepts no responsibility for the impact of any unavailability, downtime, or delays 
+in interacting with such services through the Fireblocks Service.  
+  
+ 
+Rev. 2023-07-31 
+7.10   Assumption of Risk.  Fireblocks’ sole responsibility with respect to DeFi and Staking 
+services is transmitting information over the Fireblocks’ nodes into the respective blockchain 
+network. Fireblocks makes no representations or warranties of any kind as to the consequences of 
+Client transferring digital assets to a DeFi application or Staking service.  
+8.        Pricing and Payment 
+8.1    
+ Subscription Fee. Client shall pay Fireblocks the subscription Fees. Unless otherwise set 
+forth in an applicable Order Form, the Fee are due and payable in full annually upon execution of 
+this Agreement and the Order Form. 
+8.2    
+ Payment Terms. Unless otherwise specified in the Order Form, all Fees shall be due and 
+payable within thirty (30) days from the date of the invoice, and Client shall affect payment of all 
+Fees by wire transfer, credit card or as otherwise specified in the Order Form. If Client does not 
+pay the Fees in full by the due date, the overdue amount shall be subject to a late fee equal to 1.5% 
+per month or, if less, the maximum amount allowed by applicable law. Additionally, Fireblocks 
+may cease providing the Services in the event of a failure to pay undisputed invoices in accordance 
+with Section 8.3 below. 
+8.3    
+ Taxes. All amounts and Fees payable hereunder shall not be subject to any set-off or 
+deduction. All Fees are exclusive of any applicable taxes, duties, and similar governmental charges, 
+and, except with respect to income taxes of Fireblocks, Client is responsible for payment of all such 
+amounts, including sales and use tax, value added tax (VAT), withholding taxes, export, import, 
+and other duties imposed by any governmental agency in connection with this Agreement. For the 
+avoidance of doubt, Client agrees to classify all payments made under this Agreement to be for 
+Services and at no time will Client characterize said payments to be royalties.  Client agrees to hold 
+harmless Fireblocks from all claims and liability arising from Client's failure to report or pay such 
+taxes, duties, or other governmental charges. 
+9.        Term and Termination 
+9.1    
+ Term. Unless terminated earlier in accordance with the terms of this Agreement, this 
+Agreement and the access and usage rights granted under Section 1 above is effective for the period 
+set forth in the applicable Order Form (the “Initial Term”). Following the Initial Term (or a 
+Renewal Term as the case may be), this Agreement shall automatically be renewed for consecutive 
+periods of one (1) year (each a “Renewal Term,” and together with the Initial Term collectively 
+the “Term”), unless either Party provides the other Party with notice of termination of this 
+Agreement at least thirty (30) days prior to the expiry of the then-current Renewal Term. If Client 
+continues to use the Services past any Renewal Date, Client shall be deemed to have renewed the 
+Agreement for the following Renewal Term. For the avoidance of doubt, Fireblocks may update 
+its Fees upon a Renewal Term by providing Client with thirty (30) days’ notice. 
+9.2    
+ Termination for Breach. Either Party may terminate this Agreement at any time by giving 
+written notice to the other Party if the other Party commits a material breach of any term of this 
+Agreement, and, if curable, fails to cure the breach, within thirty (30) days after being given written 
+notice, specifying details of the breach, and requiring the same to be remedied. 
+ 
+Rev. 2023-07-31 
+9.3    
+ Suspension of Services. If Client does not pay the Fees in accordance with the terms of 
+this Agreement and the applicable Order Form, Fireblocks, in its sole discretion, upon ten (10) days 
+of written notice to Client may suspend, block and/or restrict Client’s access to and usage of the 
+Service. 
+9.4    
+ Effect of Termination. Upon termination, Client shall: (i) immediately stop access and 
+cease use of the Service; (ii) transfer and remove all the amounts deposited or transferred to its 
+Workspace(s) and ensure that no amounts will be transferred to the Account following termination; 
+and (iii) return to Fireblocks any and all of Fireblocks Confidential Information then in its 
+possession. Fireblocks shall not be liable for any transfers to Client's wallets following the 
+termination of the Agreement. Following the Termination or expiration of this Agreement, Client 
+has the sole responsibility to remove any and all digital assets from its Workspace(s) and 
+acknowledges that Fireblocks is not liable for any assets in Client’s Workspace. 
+9.5    
+ Survival. All provisions of this Agreement which may reasonably be interpreted or 
+construed as surviving the expiration or termination of this Agreement including, but not limited 
+to, Sections 2, 4, 9, 10, 11, 12, 14, and 17 shall survive any expiry or termination of this Agreement. 
+10.          Proprietary Rights 
+10.1      Intellectual Property Rights. All rights, titles, and interests, including any Intellectual 
+Property rights evidenced by or embodied in, attached, connected, and/or related to the Services 
+and any and all improvements and derivative works thereof, are and shall remain owned solely by 
+Fireblocks. This Agreement does not in any manner whether directly or indirectly convey to Client 
+any rights, interest, or license in or to the Services other than as the right to access and use the 
+Services as expressly stated herein or in any Order Form. Nothing herein constitutes a waiver of 
+Fireblocks’ Intellectual Property rights under any applicable law. Nothing in this Agreement 
+excludes the liability of Client for any breach, infringement or misappropriation of Fireblocks 
+Intellectual Property rights. 
+10.2      Feedback. Any improvements made to the Service due to any Feedback shall belong 
+exclusively to Fireblocks and shall be considered Fireblocks’ Intellectual Property. Client hereby 
+irrevocably and unconditionally transfers and assigns to Fireblocks all Intellectual Property rights 
+it may have in any developments made as a result of such Feedback and waives any and all moral 
+rights that Client may have in respect thereto.  It is further understood that use of Feedback, if any, 
+may be made by Fireblocks at its sole discretion, and that Fireblocks in no way shall be obliged to 
+make use of any kind of the Feedback or part thereof. 
+10.3      Intellectual Property. Except for rights expressly granted under this Agreement, nothing 
+in this Agreement will transfer any of either Party's Intellectual Property rights to the other Party, 
+and each Party will retain exclusive interest in, and ownership of, its Intellectual Property 
+developed prior to this Agreement or developed outside the scope of this Agreement. 
+11.    
+ Confidential Information 
+11.1  
+Nondisclosure of Confidential Information. Each Party shall take reasonable measures, at 
+least as protective as those taken to protect its own Confidential Information, but in no event less 
+than reasonable care, to protect the disclosing Party’s Confidential Information from disclosure to 
+ 
+Rev. 2023-07-31 
+a third party. The receiving Party’s obligations under this Section 11, with respect to any 
+Confidential Information of the disclosing Party, shall not apply to and/or shall terminate if such 
+information: (a) was already lawfully known to the receiving Party at the time of disclosure by the 
+disclosing Party; (b) was disclosed to the receiving Party by a third party who had the right to make 
+such disclosure without any confidentiality restrictions; (c) is, or through no fault of the receiving 
+Party has become, generally available to the public; or (d) was independently developed by the 
+receiving Party without access to, or use of, the disclosing Party’s Confidential Information. 
+Neither Party shall use or disclose the Confidential Information of the other Party except for 
+performance of its obligations under this Agreement. The receiving Party shall only permit access 
+to the disclosing Party's Confidential Information to its respective employees, consultants, 
+Affiliates, agents, and subcontractors having a need to know such information. 
+11.2  
+Effect of Termination. Upon any termination of this Agreement, each Party shall return to 
+the other Party all confidential information of the other Party, and all copies thereof, in the 
+possession, custody or control of the Party unless otherwise expressly provided in this Agreement. 
+All right, title and interest in and to Confidential Information are and shall remain the sole and 
+exclusive property of the disclosing Party. 
+11.3  
+Permitted Disclosure. The receiving Party may also disclose Confidential Information to 
+the minimum extent required by an order of any court of competent jurisdiction or any regulatory, 
+judicial, governmental, or similar body or any taxation authority of competent jurisdiction. Before 
+the receiving Party discloses any Confidential Information pursuant to this Section 11.3 it shall, to 
+the extent permitted by law, use reasonable endeavors to give the disclosing Party as much notice 
+of this disclosure as possible. 
+12.    
+ Limited Warranties; Disclaimer of Warranties 
+12.1  
+Representations. Each Party warrants that (i) it has the power and authority, and has taken 
+all corporate action required, to enter into and fully perform this Agreement; and (ii) its entry into 
+and performance of this Agreement does not and will not, violate any agreement to which it is 
+bound. 
+12.2  
+Fireblocks' Representations. Fireblocks further warrants the Service: (a) will perform 
+materially in accordance with the applicable Documentation (as defined below); and (b) the use of 
+the Service in accordance with the terms of this Agreement, will not introduce any malicious code 
+into Client's systems. In case of failure of the abovementioned warranties, Client will immediately 
+notify Fireblocks of such failure, and Fireblocks will make commercially reasonable efforts to 
+repair or replace the non-conforming Service. The Security Reports will be provided upon request. 
+12.3  
+Client's Representations. Client further represents and warrants that it will comply with all 
+applicable laws and shall ensure that its digital assets activities comply with all applicable laws and 
+regulations, including but not limited to consumer protection, e-money licenses, anti-bribery, anti-
+corruption, money laundering, or terrorist financing laws and regulations. Additionally, Client 
+represents and warrants that It is Client’s sole responsibility for reporting and paying any applicable 
+tax obligations that arise from Client’s use of DeFi and Staking services and all transactions in 
+connection therewith. 
+ 
+Rev. 2023-07-31 
+12.4  
+EXCEPT AS EXPRESSLY PROVIDED IN THIS SECTION, THE SERVICE AND THE 
+SERVICES PROVIDED BY FIREBLOCKS TO CLIENT ARE PROVIDED "AS IS" AND 
+FIREBLOCKS AND ITS SUPPLIERS, IF ANY, MAKE NO WARRANTY OF ANY KIND, 
+EXPRESS OR IMPLIED, REGARDING THE SERVICE, AND SPECIFICALLY DISCLAIM 
+THE WARRANTIES OF MERCHANTABILITY FITNESS FOR A PARTICULAR PURPOSE, 
+TO THE MAXIMUM EXTENT POSSIBLE BY LAW. FIREBLOCKS DOES NOT WARRANT 
+THAT THE SERVICE WILL MEET CLIENT'S REQUIREMENTS, OPERATE WITHOUT 
+INTERRUPTION OR BE ERROR FREE. 
+12.5  
+LIABILITY 
+FOR 
+CLIENT 
+MODIFICATIONS. 
+FIREBLOCKS 
+HAS 
+NO 
+RESPONSIBILITY FOR ANY DAMAGE RESULTING FROM, INCLUDING, BUT NOT 
+LIMITED TO, ANY DAMAGE TO THE ACCOUNT, AND THE WARRANTY DOES NOT 
+APPLY TO ANY SECURITY BREACH RESULTING FROM: (i) ANY MODIFICATIONS OR 
+ALTERATION OF THE SERVICE, ITS FUNCTIONALITY, OR CAPABILITIES THAT IS 
+NOT MADE BY FIREBLOCKS OR ITS AGENTS; AND/OR (ii) BY MALICIOUS CODE, 
+MALWARE, BOTS, WORMS, TROJANS, BACKDOORS, EXPLOITS, CHEATS, FRAUD, 
+HACKS, HIDDEN DIAGNOSTICS, OR OTHER MECHANISMS TO DISABLE SECURITY 
+OR CONTENT PROTECTION THAT IS  RESULTING FROM CLIENT'S NETWORK OR 
+SYSTEM. 
+12.6  
+Blockchain/Node Errors/Failures.  In the event that the Service does not accomplish a 
+transaction due to an error or failure related to operation of the underlying blockchain or protocol 
+of any supported digital asset (including delays caused by “hashing” and other blockchain errors), 
+Fireblocks is not responsible for any claim, liability, expenses, losses, costs, and/or claims related 
+thereto. Fireblocks shall have no responsibility for any damages caused due to a blockchain and/or 
+node downtime or failure irrespective of cause. 
+12.7 
+ Additional Risk Disclosures. Fireblocks has no control over and makes no representations 
+regarding the value of digital assets, or the security of their networks or protocols. Fireblocks does 
+not own or control the underlying software protocols which govern the operation of digital assets. 
+12.8     Monitoring. Fireblocks enables Client to utilize its digital assets while stored in the 
+Workspace; however, Fireblocks is an automated platform and does not manually monitor or 
+control the status of transactions or balances within the Workspace. Client must review its own 
+internal ledger and the wallet balances to ensure that the transaction is reflected in accordance with 
+the notification provided by the Service prior to reattempting a “FAILED” transaction or crediting 
+an end-user if using a reconciliation process following a notification of a “COMPLETED” 
+transaction.  
+12.9 
+Deposit Control Feature. Client may customize the number of confirmations required from 
+a blockchain before funds will be credited to its wallet by customizing various logical rules within 
+the Service (the “Deposit Control'' feature). Client is solely responsible in the event a transaction 
+is unsuccessful in being added to the blockchain in the event it configures the Deposit Control 
+feature to a threshold below the recommended value. 
+13.    
+ Indemnities 
+ 
+Rev. 2023-07-31 
+13.1  
+Indemnification by Fireblocks. Fireblocks agrees to indemnify, defend, and hold harmless 
+Client from and against third party IP Infringement Claims arising out of Client’s use of the Service 
+and Fireblocks will pay any damages or judgments awarded in a final judgment against Client that 
+are attributable to such claim, provided that Client complies with the Indemnification Process set 
+forth herein. Notwithstanding the foregoing, Fireblocks shall have no responsibility for Excluded 
+Claims. If the Service becomes, or in Fireblocks' opinion is likely to become, the subject of an IP 
+Infringement Claim, then Fireblocks may, at its sole discretion: (a) procure for Client the right to 
+continue using the Service; (b) replace or modify the Service to avoid the IP Infringement Claim; 
+or (c) if options (a) and (b) cannot be accomplished despite Fireblocks' reasonable efforts, then 
+Fireblocks may terminate this Agreement and provide a refund for any amount prepaid by Client 
+for the remaining unused period of the Term. 
+13.2  
+Indemnification by Client. Client agrees to indemnify, defend, and hold harmless 
+Fireblocks from and against (i) Excluded Claims; (ii) Client’s breach of any Optional Software 
+Service terms or third party terms; and (iii) Client’s breach of Sections 2 (Usage Restrictions) or 3 
+(Setup; Client Keys Obligations) above and Client will pay any damages or judgments awarded in 
+a final judgment against Fireblocks that are attributable to such claim, provided that Fireblocks 
+complies with the Indemnification Process set forth herein. 
+13.3  
+Indemnification Process. Pursuant to the terms set forth under this Section 13.3, the Party 
+seeking indemnification shall: (i) promptly notify the indemnifying Party of any claim in writing; 
+(ii) grant the indemnifying Party the sole authority to conduct the defense or settlement of such 
+claim, provided that the indemnifying Party shall not settle any claim that requires the indemnified 
+Party to pay monetary damages or is subject to injunctive relief without the indemnified Party’s 
+written consent; and (iii) provide the indemnifying Party all reasonable information and assistance 
+at the indemnifying Party’s expense. Notwithstanding the forgoing, the indemnified Party shall be 
+able to participate in any defense at its own expense. 
+13.4  
+Sole and Exclusive Remedy. This Section 13 states Fireblocks’ entire liability, and Client’s 
+exclusive remedy, for claims or alleged or actual infringement. 
+14.    
+ Limitation of Liability 
+EXCEPT FOR CLIENT'S MISAPPROPRIATION OR OTHERWISE VIOLATION OF FIREBLOCKS' 
+INTELLECTUAL PROPERTY RIGHTS INCLUDING MISUSE OF THE LICENSE GRANTED 
+HEREUNDER (“LIABILITY EXCLUSIONS”), NEITHER PARTY SHALL BE LIABLE FOR ANY 
+INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES, OR ANY 
+LOSS OF REVENUE, REPUTATION, OR PROFITS, DATA, OR DATA USE. 
+EXCEPT FOR THE LIABILITY EXCLUSIONS, EITHER PARTY’S MAXIMUM LIABILITY FOR 
+ANY DAMAGES ARISING OUT OF OR RESULTING DIRECTLY FROM THIS AGREEMENT, 
+WHETHER IN CONTRACT OR TORT, OR OTHERWISE, SHALL IN NO EVENT EXCEED, IN THE 
+AGGREGATE, THE TOTAL AMOUNTS ACTUALLY PAID TO FIREBLOCKS IN THE TWELVE (12) 
+MONTH PERIOD IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO SUCH CLAIM. 
+THIS LIMITATION OF LIABILITY IS CUMULATIVE TO THE TERM OF THE AGREEMENT (AS 
+EXTENDED OR OTHERWISE) AND NOT PER INCIDENT; PROVIDED, HOWEVER, THE 
+ 
+Rev. 2023-07-31 
+LIMITATIONS IN THIS SECTION 14 DO NOT APPLY TO PAYMENTS DUE TO FIREBLOCKS 
+UNDER THIS AGREEMENT. 
+THE LIMITATIONS SET FORTH IN THIS SECTION 14 SHALL APPLY EVEN IF CLIENT’S 
+REMEDIES UNDER THIS AGREEMENT FAIL THEIR ESSENTIAL PURPOSE. 
+15.    
+ Force Majeure 
+Neither Party shall be liable to the other for any performance delay or failure to perform hereunder, due to 
+Force Majeure Event, provided the affected Party gives prompt notice to the other and makes reasonable 
+efforts to resume performance as soon as possible. The Party not affected by such act, omission or condition 
+may terminate this Agreement upon written notice if the other Party remains unable to perform because of 
+any circumstances described in this Section 15 for a period of more than sixty (60) days. It is hereby clarified 
+that neither an occurrence of a Force Majeure Event or the termination of this Agreement in connection 
+therewith shall relieve either Party from its obligations to pay the other any outstanding payments due under 
+this Agreement. 
+16.    
+ Export Controls and Trade Sanctions Compliance 
+Client agrees that Client use of the Service will comply with the Export Control Laws. Client represents 
+and warrant that (i) Client is not a citizen of, or located within, a country or territory that is subject to 
+comprehensive U.S. trade sanctions or other significant trade restrictions (including without limitation 
+Crimea, Cuba, Iran, North Korea, and Syria); (ii) Client is not identified on any U.S. government restricted 
+party lists (including without limitation the Specially Designated Nationals and Blocked Persons List, 
+Foreign Sanctions Evaders List, and Sectoral Sanctions Identifications List, administered by OFAC, and 
+the Denied Party List, Entity List and Unverified List, administered by BIS); and (iii) that no content created 
+or submitted by Client is subject to any restriction on disclosure, transfer, download, export or re-export 
+under the Export Control Laws. Client agrees that Client will not use the Service to disclose, transfer, 
+download, export, or re-export, directly or indirectly, any content to any country, entity or other party which 
+is ineligible to receive such items under the Export Control Laws or under other laws or regulations to 
+which Client may be subject. Client acknowledges that the Services may not be available in all jurisdictions 
+and that Client is solely responsible for (a) complying with the Export Control Laws; and (b) monitoring 
+them for any modifications. Fireblocks may immediately terminate this Agreement upon written notice to 
+Client if Fireblocks reasonably believes that Client is in violation of this Section 16. 
+ 
+17. 
+Beta Services. 
+17.1 
+Beta Services. From time to time, Fireblocks may make in-development or testing 
+services or features (the “Beta Services”) available to Client at no charge. Client may choose to try 
+such Beta Services or not at its sole discretion. The  Beta  Services  may  contain  bugs  or  errors.  
+Any  participation  in  or  use  of  the  Beta  Services   is  at  Client’s  sole  risk.  Client  acknowledges  
+that  Fireblocks  may  discontinue  the  Beta  Services  at  any  time  in  its  sole  discretion,  and  
+may  never  make  the Beta Service generally  available. 
+ 
+Rev. 2023-07-31 
+17.2 
+Disclaimer of Warranty. THE  BETA  SERVICES ARE  PROVIDED  “AS-IS,”  
+EXCLUSIVE  OF  ANY  WARRANTY  WHATSOEVER  WHETHER  EXPRESS,  IMPLIED,  
+STATUTORY  OR  OTHERWISE.  FIRBELOCKS  DISCLAIMS  ALL  IMPLIED  
+WARRANTIES,  INCLUDING  WITHOUT  LIMITATION  ANY  IMPLIED  WARRANTIES  
+OF  MERCHANTABILITY  AND  FITNESS  FOR  A  PARTICULAR  PURPOSE  OR  NON-
+INFRINGEMENT,  TO  THE  MAXIMUM  EXTENT  PERMITTED  BY  APPLICABLE  LAW.  
+FIREBLOCKS  DISCLAIMS  ALL  LIABILITY  FOR  ANY  HARM  OR  DAMAGES  CAUSED  
+BY  ANY  THIRD-PARTY  HOSTING  PROVIDERS.   
+18.    
+ Miscellaneous 
+18.1  
+Governing Law & Jurisdiction. This Agreement shall be governed by and construed under 
+the laws of England and Wales, without reference to principles and laws relating to the conflict of 
+laws. The competent courts of London, England shall have the exclusive jurisdiction with respect 
+to any dispute and action arising under or in relation to this Agreement. 
+18.2  
+Injunctive Relief. Notwithstanding anything to the contrary in this Agreement or any 
+applicable Order Form, Fireblocks may seek injunctive relief or other relief necessary to prevent 
+or restrain a breach of this Agreement in any jurisdiction. 
+18.3  
+Entire Agreement. This Agreement, together with the Order Form, the SLA, the Optional 
+Software Service terms, any Schedules, and the Documentation represents the complete agreement 
+concerning the subject matter hereof and supersedes any prior or contemporaneous agreements 
+between the Parties with respect to the subject of this Agreement. The Agreement may be amended 
+only by a written agreement executed by both Parties. 
+18.4  
+Severance. If any provision of this Agreement shall be declared invalid, illegal, or 
+unenforceable, then such provision shall be deemed modified or excluded to the extent necessary 
+so that it is no longer invalid, in violation of law or unenforceable and all remaining provisions 
+shall continue in full force and effect. 
+18.5  
+Order of Precedence. In the event of a conflict between any terms set forth in the documents 
+listed in Section 17.3 of this Agreement, the controlling term shall be the term set forth in the Order 
+Form, except for Section 9.1 (Term) above of this Agreement, then the Optional Software Service 
+terms, then this Agreement, then any Schedules, and finally the SLA. 
+18.6  
+Relationship of the Parties. This Agreement does not, and shall not be construed to create 
+any relationship, partnership, joint venture, employer-employee or agency relationship between the 
+Parties, or authorize either Party to act as an agent for the other, and neither Party shall have 
+authority to act in the name or on behalf of or otherwise to bind the other in any way (including, 
+but not limited to, the making of any representation or warranty the assumption of any obligation 
+or liability and the exercise of any right of power). 
+18.7  
+Waiver. Any failure or delay by a Party to require compliance by the other Party with any 
+of the terms, or exercise any right or remedy, provisions, warranties, covenants or conditions of 
+this Agreement will in no way affect such Party's right to enforce the same, nor will any waiver by 
+a Party of any breach of any term, provision, warranty, covenant or condition of this Agreement 
+constitute a waiver of any succeeding breach. 
+ 
+Rev. 2023-07-31 
+18.8  
+Rights and Remedies. Except as expressly provided in this Agreement, the rights and 
+remedies provided under this Agreement are in addition to, and not exclusive of, any rights or 
+remedies provided by law. 
+18.9  
+Assignment. Neither Party may assign its rights or obligations under this Agreement 
+without the prior written consent of the other Party, whose consent may not be unreasonably 
+withheld or delayed. Notwithstanding the foregoing, this Agreement may be assigned by either 
+Party  in connection with a merger, consolidation, sale of all of the equity interests of the assigning 
+Party, or a sale of all or substantially all of the assets of the assigning Party to which this Agreement 
+relates; provided that Fireblocks may terminate this Agreement immediately if it determines it 
+cannot do business with the purported assignee due to its internal policies or due to any obligations 
+under applicable law. 
+18.10   Counterparts. This Agreement may be executed in any number of counterparts, each of 
+which shall constitute a duplicate original, but all the counterparts shall together constitute the one 
+agreement. No counterpart shall be effective until each Party has provided to the other at least one 
+executed counterpart.  
+  
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date. 
+  
+Fireblocks, Ltd. 
+LUMX STUDIOS S.A. 
+By: {{S_es_:signer2:signature}} 
+By: {{S_es_:signer1:signature}} 
+Name: {{N_es_:signer2:fullname}} 
+Name: {{N_es_:signer1:fullname}} 
+Title: {{*title2_es_:signer2}} 
+Title: {{*title1_es_:signer1}} 
+Date: {{D_es_:signer2:date}} 
+Date: {{D_es_:signer1:date}} 
+ 
+  
+ 
+ 
+Caio Barbosa (Nov 28, 2023 16:39 GMT-3)
+Caio Barbosa
+Caio Barbosa
+Nov 28, 2023
+Co-CEO
+Michel Goldberg (Nov 28, 2023 16:42 GMT-3)
+Michel Goldberg
+Michel Goldberg
+CFO
+Nov 28, 2023
+Dominic Wong (Nov 28, 2023 12:09 PST)
+Dominic Wong
+Dominic Wong
+VP, Revenue Operations
+Nov 28, 2023
+ 
+Rev. 2023-07-31 
+Schedule A 
+Definitions 
+Definitions. 
+1.1  
+“Account” refers to one or more Workspaces Client may access as part of its agreement to 
+use the Service. 
+1.2  
+“Affiliate” shall mean any entity, individual, agent, employee, firm, or corporation, 
+directly or indirectly, through one or more intermediaries, controlling, controlled by, or under common 
+control with Client. 
+1.3  
+“BIS” means the U.S. Department of Commerce’s Bureau of Industry and Security. 
+1.4  
+“Client Device” means any supported device controlled by Client or its Users. 
+1.5  “Confidential Information” means all knowledge, information, or materials of whatever nature 
+and in whatever form (whether provided in writing or orally) relating to the disclosing party and made 
+available or provided by or on behalf of the disclosing party to the recipient whether before, on or after 
+the Effective Date. It specifically includes the terms of this Agreement and information relating to: (i) 
+any and all proprietary technology and products, including technical data, data record layouts, trade 
+secrets, know-how, research, prototypes, improvements, processes, plans, calculations, designs, 
+requirements, architecture, structures, models, methods, product plans, databases and database tables, 
+ideas or concepts, opinions, reports, services, software, inventions, techniques, developments, 
+algorithms, formulas, technology, designs, schematics, drawings, engineering and hardware 
+configuration information; (ii) the operations and business or financial statements and projections, 
+product pricing and marketing, financial or other strategic business plans or affairs, accounting matters, 
+tax matters, subscriber numbers and forecasts, content providers identity and business models; (iii) all 
+summaries, notes, memoranda, analyses, compilations, studies or other documents prepared by or on 
+behalf of the recipient to the extent that they contain or are derived from Confidential Information; (iv) 
+information collected or developed by a party regarding its customers; (v) any actual or perceived 
+system vulnerability, whether identified by Fireblocks or Client; and (vi) all other information which 
+would reasonably be considered to be proprietary or confidential in nature. 
+1.6  
+“Documentation” shall mean the SLA and the Security Reports. 
+1.7  
+“Excluded Claim” means any and all third party claims, actions, suits, liabilities, costs, 
+and expenses alleging that the Service infringes Intellectual Property rights of a third party and that 
+such infringement is resulting from or based on: i) modifications to the Service made by Client or its’ 
+representatives or designees, or at their direction; (ii) Client's failure to implement software updates 
+provided by Fireblocks specifically to avoid infringement; or (iii) combination or use of the Service 
+with equipment, devices or software not supported or provided by Fireblocks or not in accordance with 
+the terms of this Agreement. 
+1.8   “Export Control Laws” mean applicable export control and trade sanctions laws, rules, and 
+regulations, including without limitation the regulations administered by BIS and OFAC. 
+1.9   “Fee” means any fees set forth in an applicable Order Form. 
+ 
+Rev. 2023-07-31 
+1.10  
+“Feedback” is any input or suggestions (including, but not limited to, questions, 
+comments, feature improvement requests, or the like) regarding the Services made by Client to 
+Fireblocks. 
+1.11  “Force Majeure Event” means any act, omission or condition beyond the reasonable control of 
+the affected party including, but not limited to the following events: acts of God, flood, draught, 
+earthquake or other natural disaster, epidemic or pandemic, terrorist attack, civil war, armed conflict, 
+nuclear, chemical or biological contamination, any law or any action taken by a government or public 
+authority, including without limitation imposing an export or import restriction, quota or prohibition, 
+interruption or failure of utility services. 
+1.12  
+  “Fork(ed)” refers to a change in protocol rules affecting a digital asset. 
+1.13   “Intellectual Property” means patents (including patent for software and business 
+methodology), rights to apply for patents, trademarks, trade names, service marks, domain names, 
+copyrights and all applications and registration of such worldwide, schematics, industrial models, 
+inventions, know-how, trade secrets, computer software programs, and other intangible proprietary 
+information. 
+1.14  
+ “IP Infringement Claim” means any and all third-party claims, actions, suits, liabilities, 
+costs, and expenses alleging that the Service, when used as permitted under this Agreement, infringes 
+Intellectual Property rights of a third party. 
+1.15  
+ “OFAC” means the U.S. Department of the Treasury’s Office of Foreign Assets Control. 
+1.16  
+“Optional Software Service” includes any additional services Client elects to use in 
+conjunction with the Workspace and in accordance with this Agreement. 
+1.17 
+“Order Form” means a document executed by the Parties setting forth the Term of this 
+Agreement, the Fees, and any additional terms. 
+1.18 
+“Owner” means the administrative user appointed by Client for each Workspace that has 
+ultimate authority over the administration of such Workspace. 
+1.19 
+“Security Reports” means each of the SOC 2 Type 2, ISO 27001, ISO 27017, and ISO 
+27018 attestation(s) of certification. 
+1.20  
+“Supported Tokens” are those protocols/tokens/transactions as may be displayed in the 
+Web Console from time-to-time. 
+1.21 
+“Users” refer to the Owner and any individual users authorized by Client to use or 
+otherwise have access to the Service. 
+1.23 
+“Web Console” is the user interface and the information contained therein made available 
+as part of the Service. 
+  
+  
+  
+ 
+  
+ 
+Rev. 2023-07-31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schedule B 
+Optional Services 
+  
+This Schedule B describes the additional terms and conditions that apply to Client’s use of any of the 
+Optional Services described herein. 
+   
+I. 
+Gas Station Service 
+1. These additional terms only apply to the extent that Client wishes to authorize Fireblocks 
+to administer various blockchain assets (“Asset”) owned by Client and transferred by 
+Client to a designed wallet solely for the purpose of enabling Fireblocks to calculate and 
+apply units of computational power (“Gas”) in connection with the processing of Client-
+initiated operations on the supported EVM blockchains (the “Gas Station Service”). 
+2. The Fireblocks Gas Station Wallet.  Asset to be used in connection with the Gas Station 
+Service shall be transferred to and held in a designated Workspace owned and managed by 
+Fireblocks (the “Fireblocks Gas Station Wallet”) for the sole purpose of facilitating 
+Client-initiated operations on the supported blockchain.   Once Client has notified 
+Fireblocks of its wish to use the Gas Station Service, Fireblocks will generate a unique 
+wallet address to track Client-owned Asset designated for use in connection with the Gas 
+Station Service. 
+3. Appointment of Administrator.  Client hereby appoints Fireblocks as the exclusive 
+administrator of Asset owned by Client and transferred to the Fireblocks Gas Station Wallet 
+for use in connection with the Gas Station Service, and Fireblocks accepts such 
+appointment.  In its capacity as administrator of Client-owned Asset transferred to the 
+Fireblocks Gas Station Wallet, Fireblocks shall: (i) monitor the wallet address assigned to 
+Client; (ii) track incoming transfer amounts, debits and withdrawals; and, (iii) administer 
+assets held in the Fireblocks Gas Station Wallet solely in accordance with the instructions 
+of Client and Client’s Authorized Persons, this Agreement and the additional terms of this 
+Schedule B. 
+4. Authorization to Debit.  Client authorizes and requests Fireblocks to debit its Asset 
+holdings in the Fireblocks Gas Station Wallet solely to provide Gas in support of Client-
+ 
+Rev. 2023-07-31 
+initiated operations on the supported blockchain.  To the extent that Client uses automated 
+features of the Gas Station Service, if any, Client acknowledges that it is authorizing 
+Fireblocks to make recurring debits from its Asset holdings in the Fireblocks Gas Station 
+Wallet in accordance with Client’s instructions.  The authorization granted in herein shall 
+also extend to the deduction of fees owed to Fireblocks pursuant to its provision of the Gas 
+Station Service.  Fireblocks’ authorization to debit Gas and fees in connection with the Gas 
+Station Service shall remain in full force and effect until the sooner of the termination of 
+(i) Client’s use of this Optional Software Service; or (ii) this Agreement. 
+5. Gas Pricing.  Client is solely responsible for setting price parameters (whether as a custom 
+value “ceiling” specified by Client or by delegation to any automated or manual price-
+setting service provided by Fireblocks) that Client believes is appropriate to executing 
+Client’s desired supported blockchain operations (such price, the “Gas Price”).  Client 
+acknowledges that all block-based transactions are probabilistic and subject to failure and 
+operations can be unsuccessful in being added to the supported blockchain for several 
+reasons, including network congestion and insufficient funds in the Fireblocks Gas Station 
+Wallet.  Client acknowledges that Fireblocks’ sole responsibility with respect to Gas Price 
+is to apply the Gas Price parameters set by Client, whether as a custom value “ceiling” or 
+by delegation to any automated or manual service provided by Fireblocks. 
+6. CLIENT ACKNOWLEDGES AND AGREES THAT FIREBLOCKS DOES NOT GIVE 
+ANY RECOMMENDATIONS REGARDING THE GAS PRICE NEEDED TO 
+ACHIEVE A PARTICULAR TRANSACTION SPEED NOR DOES IT MAKE ANY 
+GUARANTEES REGARDING THE EFFECTIVENESS OF ANY PARTICULAR GAS 
+PRICE IN COMPLETING ANY PARTICULAR TRANSACTION OR SET OF 
+TRANSACTIONS AND THAT CLIENT ACKNOWLEDGES AND ACCEPTS THAT 
+IT IS SOLELY RESPONSIBLE FOR DETERMINING THE GAS PRICE NEEDED TO 
+ACHIEVE ANY PARTICULAR OUTCOME.  CLIENT UNDERTAKES TO USE THE 
+GAS STATION SERVICE AT ITS OWN RISK, AND CLIENT ASSUMES FULL 
+RESPONSIBILITY 
+FOR 
+THE 
+CONSEQUENCES 
+OF 
+ANY 
+AND 
+ALL 
+UNSUCCESSFUL TRANSACTIONS AND ANY AMOUNTS THAT ARE DEBITED 
+IN CONNECTION WITH SUCH TRANSACTIONS. 
+7. Limits.  Client shall be permitted to hold a total of no more than the designated amount of 
+Asset(s) in the Gas Station Wallet at any given time. 
+8. Insufficient Amounts.  If there are insufficient amounts of Client-owned Assets in the 
+Fireblocks Gas Station Wallet for any attempted transaction(s), the transaction will fail.  
+Client is solely responsible for ensuring there are sufficient Assets in the Fireblocks Gas 
+Station Wallet to support its desired blockchain operations at any particular time.  
+9. Withdrawal.  Client can withdraw amounts held on its behalf in the Fireblocks Gas Station 
+Wallet by contacting Fireblocks support. 
+10. Termination of Enrollment.  Fireblocks may suspend or terminate access to this service 
+at any time if Client is in breach or default of any material provision of these Gas Station 
+Service additional terms, and, if curable, fails to cure the breach or default within thirty 
+(30) days after being given written notice specifying details of the breach or default and 
+requiring the same to be remedied. 
+ 
+ 
+Rev. 2023-07-31 
+ 
+Please sign - Ironclad MSA (LUMX STUDIOS
+S.A. and Fireblocks)
+Final Audit Report
+2023-11-28
+Created:
+2023-11-28
+By:
+Adobe Admin (adobeadmin@fireblocks.com)
+Status:
+Signed
+Transaction ID:
+CBJCHBCAABAAnrKQ6YvWE7dfl5LXqiYXd2EMkV6B_0-Q
+"Please sign - Ironclad MSA (LUMX STUDIOS S.A. and Firebloc
+ks)" History
+Document created by Adobe Admin (adobeadmin@fireblocks.com)
+2023-11-28 - 7:36:49 PM GMT
+Document emailed to michel@lumx.io for signature
+2023-11-28 - 7:36:55 PM GMT
+Document emailed to dwong@fireblocks.com for signature
+2023-11-28 - 7:36:56 PM GMT
+Document emailed to caio@lumx.io for signature
+2023-11-28 - 7:36:56 PM GMT
+Email viewed by caio@lumx.io
+2023-11-28 - 7:38:48 PM GMT
+Signer caio@lumx.io entered name at signing as Caio Barbosa
+2023-11-28 - 7:39:13 PM GMT
+Document e-signed by Caio Barbosa (caio@lumx.io)
+Signature Date: 2023-11-28 - 7:39:15 PM GMT - Time Source: server
+Email viewed by michel@lumx.io
+2023-11-28 - 7:41:04 PM GMT
+Signer michel@lumx.io entered name at signing as Michel Goldberg
+2023-11-28 - 7:42:08 PM GMT
+Document e-signed by Michel Goldberg (michel@lumx.io)
+Signature Date: 2023-11-28 - 7:42:10 PM GMT - Time Source: server
+Signer dwong@fireblocks.com entered name at signing as Dominic Wong
+2023-11-28 - 8:09:14 PM GMT
+Document e-signed by Dominic Wong (dwong@fireblocks.com)
+E-signature hosted by Adobe Admin (adobeadmin@fireblocks.com)
+Signature Date: 2023-11-28 - 8:09:16 PM GMT - Time Source: server
+Agreement completed.
+2023-11-28 - 8:09:16 PM GMT

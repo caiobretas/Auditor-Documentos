@@ -16,6 +16,7 @@ O sistema consulta um banco de dados para obter metadados e Google IDs de docume
 - Python 3.9+
 - Conta no Google Cloud com acesso à Google Drive e Gmail API
 - Acesso à API da OpenAI
+- Instalação e Execução Ollama AI
 
 ## Configuração
 - Personalizar as entidades conforme necessidade em /entities

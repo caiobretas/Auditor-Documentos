@@ -1,0 +1,682 @@
+Página 1 de 12 
+ 
+CONTRATO DE LICENCIAMENTO DE PLATAFORMA 
+ 
+ 
+Pelo presente instrumento particular, de um lado: 
+ 
+MEUCHOPE LTDA., pessoa jurídica de direito privado, inscrita no CNPJ/MF sob o nº 45.007.367/0001-
+75, com sede na Av. Desembargador Dermeval Lyrio, n.º 390, Sala 01, Mata da Praia, Vitoria/ES CEP: 
+29.065-340, neste ato representada na forma de seus atos constitutivos, doravante denominada 
+“Contratante”;  
+ 
+E, de outro lado, 
+ 
+LUMX STUDIOS S.A., sociedade anônima de capital fechado, inscrita no CNPJ/MF sob o nº 
+42.887.120/0001-00, com sede na Rua Voluntários da Pátria, nº 89, sala. 804, Botafogo, na Cidade e 
+Estado do Rio de Janeiro, CEP: 22270-000, neste ato representada na forma de seus atos constitutivos, 
+doravante denominada “Lumx”. 
+ 
+Lumx, quando em conjunto com a Contratante, denominadas como “Partes” e, isoladamente, como 
+“Parte”. 
+ 
+CONSIDERANDO QUE:  
+ 
+(i) 
+A Contratante é desenvolvedora de um marketplace para produtores de cervejas artesanais 
+comercializarem seus produtos com distribuidores, em uma relação B2B; 
+ 
+(ii) A Lumx é uma startup especializada em consultoria estratégica e desenvolvimento de 
+produtos digitais e linhas de negócio com base em tecnologias, tais como blockchain, NFTs e 
+Metaverso; e 
+ 
+(iii) A Contratante tem interesse no licenciamento de um ambiente virtual para emissão, 
+gerenciamento, armazenamento e demais tipos de interação de seus usuários com os selos 
+colecionáveis desenvolvidos pela Contratante em formato de Tokens Não Fungíveis (“Sello´s”). 
+ 
+Resolvem as Partes, de comum acordo, celebrar o presente Contrato de Licenciamento de Plataforma 
+(“Contrato”), que será regido conforme os termos e condições abaixo: 
+ 
+1. 
+OBJETO 
+ 
+1.1. 
+O presente Contrato tem como objeto regular o licenciamento à Contratante de estrutura 
+virtual com interface gráfica, desenvolvida pela Lumx, acompanhada de seus respectivos códigos e 
+funcionalidades (“Plataforma”), a título oneroso, exclusivo e revogável (“Licenciamento”), na forma da 
+Proposta Comercial anexa (“Proposta”).  
+ 
+1.2. 
+Os Sello´s serão emitidos pela Contratante através da Plataforma e serão conquistados pelos 
+usuários nela cadastrados (“Users”) que cumprirem tarefas e missões de engajamento previamente 
+estipuladas pela Contratante.  
+ 
+DocuSign Envelope ID: 53504FA4-5AA0-4CDD-8B45-47FA36CC05DC
+Página 2 de 12 
+ 
+1.2.1. 
+Os Users poderão resgatar seus Sello´s e armazená-los em suas respectivas carteiras 
+de ativos digitais (“Wallets”), para serem colecionados ou comercializados, por prazo 
+indeterminado. 
+1.2.2. 
+Os Sello’s conquistados pelos Users serão de propriedade exclusiva destes, não tendo 
+a Contratante ou a Lumx qualquer controle sobre tais Sello’s após o seu resgate. 
+ 
+1.3. 
+A Contratante será responsável por disponibilizar os Sello´s que serão emitidos na Plataforma, 
+garantindo que as artes visuais vinculadas aos Sello´s serão criadas por si ou por terceiros no mais 
+absoluto caráter de originalidade, não podendo imputar contra a Lumx responsabilidade que vise a 
+resguardar lesão à propriedade intelectual de terceiros. 
+ 
+1.3.1. 
+Como exceção à regra prevista no item acima, as Partes podem acordar na Proposta 
+que a Contratada desenvolverá a estrutura em códigos criptografados do NFT, bem como será 
+responsável pela criação das artes gráficas que ilustrarão os NFTs comercializados, 
+responsabilizando-se pela sua originalidade perante terceiros. 
+ 
+1.4. 
+Além dos Sello’s emitidos, a Plataforma intermediará a concessão de benefícios adicionais, 
+disponibilizados pela Contratante, pelo cumprimento de determinadas tarefas pelos Users, conforme 
+cada caso. 
+ 
+1.4.1. 
+Os prêmios e benefícios atrelados aos Sello’s serão oferecidos pela Contratante, não 
+tendo a Lumx qualquer controle ou responsabilidade sobre a correta e completa entrega do 
+prêmio e benefício em questão. 
+ 
+1.4.1.1. 
+Caso a Contratante não entregue os prêmios e benefícios anunciados aos 
+Users nos prazos estabelecidos, deverá pagar multa compensatória em favor da Lumx no 
+valor de R$ 10.000,00 (dez mil reais) por dia de atraso, em virtude de danos reputacionais 
+à imagem da Lumx. 
+ 
+1.4.2. 
+A Plataforma apenas divulga os anúncios de prêmios e benefícios informados pela 
+Contratante, sendo esta a única responsável por cumprir com a vantagem anunciada, bem como 
+idealizar e divulgar novas campanhas de benefícios atrelados a seus Sello’s. 
+ 
+ 
+1.5. 
+O funcionamento da Plataforma dependerá exclusivamente de acesso à internet, não havendo 
+qualquer necessidade de instalação de complementos, aplicativos ou hardware para sua utilização. 
+ 
+1.5.1. 
+A Lumx deverá manter a Plataforma em perfeito funcionamento, respondendo as 
+eventuais dúvidas e atendendo aos chamados da Contratante em caso de falhas na sua 
+operacionalização.  
+ 
+1.6. 
+A Lumx é única e exclusiva titular dos códigos fonte relacionados à Plataforma e não cederá 
+nem transferirá à Contratante a propriedade intelectual vinculada à estrutura de códigos da 
+Plataforma desenvolvida para emissão e armazenamento dos Sello´s, tratando-se apenas de uma 
+licença de uso.  
+ 
+1.7. 
+A Lumx declara que: (i) é legítima e única titular dos direitos autorais relativos à Plataforma 
+DocuSign Envelope ID: 53504FA4-5AA0-4CDD-8B45-47FA36CC05DC
+Página 3 de 12 
+ 
+e/ou titular dos direitos de comercialização da Plataforma e detém os conhecimentos técnicos e 
+recursos necessários à prestação de serviços de desenvolvimento e suporte técnico relativos à 
+Plataforma; e (ii) possui infraestrutura suficiente para atendimento do objeto desta contratação, 
+sendo que a sua execução não implicará na realização de investimentos de qualquer natureza. 
+ 
+2. 
+LICENCIAMENTO E USO DA PLATAFORMA 
+ 
+2.1. 
+Fica desde já acordado que o Licenciamento não autoriza, de qualquer modo, o 
+sublicenciamento, cessão ou qualquer outra forma de transferência total ou parcial da Plataforma 
+e/ou quaisquer direitos a ele relativos, pela Contratante a quaisquer terceiros, sem a anuência prévia, 
+expressa e por escrito da Lumx. 
+ 
+2.2. 
+É vedada a realização de qualquer modificação na Plataforma pela Contratante, ainda que com 
+a finalidade de incorporar melhoramentos, upgrades ou updates, os quais somente poderão ser 
+realizados pela Lumx na qualidade de titular dos direitos econômicos e intelectuais da Plataforma e 
+suas funcionalidades. 
+ 
+2.3. 
+O Licenciamento inclui suporte técnico pelo prazo de validade deste Contrato, que será 
+prestado por acesso remoto, em dias úteis que respeitem os feriados da cidade do Rio de Janeiro, das 
+10h às 19h. O suporte técnico é limitado a questões relacionadas ao uso dos recursos da Plataforma 
+(“Suporte”). 
+ 
+2.4. 
+O acesso à Plataforma é de responsabilidade exclusiva da Contratante, devendo zelar pela 
+segurança do seu acesso.  
+ 
+2.4.1. 
+Em caso de suspeita de acesso não autorizado ou fraudulento à Plataforma, a 
+Contratante deverá comunicar imediatamente à Lumx para que bloqueie o acesso do cliente, 
+apurando eventual acesso indevido. 
+ 
+3. 
+FORMA E PRAZO DE PAGAMENTO  
+ 
+3.1. 
+Pelo Licenciamento da Plataforma, a Contratante pagará à Lumx mensalmente os valores 
+previstos na Tabela de Preços anexa ("Tabela”) por usuário ativo, de acordo com a quantidade de Users 
+indicada na Proposta (“Preço”). 
+ 
+3.1.1. 
+Entende-se como usuário ativo, para fins de apuração do Preço, todo User que realizou 
+alguma tarefa ou missão de engajamento dentro da Plataforma nos últimos 90 (noventa) dias. 
+  
+3.2. 
+A contagem dos usuários ativos ocorrerá no dia 24 (vinte e quatro) de cada mês, com envio da 
+nota fiscal até o último dia do mês da contagem.  
+ 
+3.2.1. Na hipótese de atraso no pagamento por culpa exclusiva da Contratante, será devida 
+correção monetária com base na variação do IPCA/IBGE e juros de 1% (um por cento) ao mês, 
+se aplicáveis, acrescida de multa moratória equivalente a 2% (dois por cento) sobre o valor em 
+atraso.  
+ 
+DocuSign Envelope ID: 53504FA4-5AA0-4CDD-8B45-47FA36CC05DC
+Página 4 de 12 
+ 
+3.2.2. Caso a fatura/nota fiscal seja apresentada com atraso, o pagamento poderá ser 
+postergado por prazo equivalente ao do atraso. 
+ 
+3.3. 
+O Preço é fechado, incluindo as despesas regulares necessárias à realização do Licenciamento, 
+e inclui a remuneração total devida à Lumx pelo cumprimento de todas as obrigações por esta 
+assumidas, bem como todos os custos diretos e indiretos, além dos tributos incidentes no 
+Licenciamento. 
+ 
+4. 
+PRAZO DE VIGÊNCIA  
+ 
+4.1. 
+O presente Contrato terá início de vigência a partir da data de sua assinatura, passando a 
+vigorar pelo prazo conforme indicado na Proposta (“Prazo”).  
+ 
+5. 
+DIREITO DE PROPRIEDADE INTELECTUAL  
+ 
+5.1. 
+Para fins deste Contrato, considera-se Propriedade Intelectual todos os direitos de 
+propriedade industrial, direitos autorais e conexos, e direitos sobre os softwares. Todos os direitos de 
+Propriedade Intelectual de qualquer natureza relacionados à Plataforma, independente de terem sido 
+registrados ou não, pertencem única e exclusivamente à Lumx, incluindo, mas não se limitando as 
+invenções de qualquer natureza, softwares, aplicativos de celular, códigos, patentes, modelos de 
+utilidade, desenhos industriais, marcas, bibliotecas, interfaces, nomes comerciais, nomes de domínio, 
+bancos de dados, design, know-how, segredos comerciais e direitos autorais. 
+ 
+5.2. 
+A Contratante reconhece que todo o conhecimento técnico, know-how, patente, marca 
+registrada, direito autoral, tecnologia, segredo do negócio e qualquer outro dado e/ou informação 
+utilizada na execução do objeto deste Contrato são e permanecerão de exclusiva propriedade da Lumx, 
+não podendo estes serem utilizados para qualquer outro fim que não o expressamente previsto neste 
+Contrato, sob pena de responsabilização direta da Contratante por todos os danos causados à Lumx. 
+ 
+5.2.1. 
+Incluem-se na determinação do caput da presente Cláusula, quaisquer 
+aprimoramentos, correções, traduções, alterações, novas versões ou obras derivadas, realizadas 
+pela Lumx, isoladamente ou em conjunto com o Contratante, quando expressamente 
+autorizada.  
+ 
+5.3. 
+Fica desde já definido que é terminantemente vedado à Contratante copiar, adaptar, 
+aprimorar, alterar, corrigir, traduzir, atualizar, desenvolver novas versões ou elaborar obras derivadas 
+da Plataforma ou, ainda, de qualquer de suas partes e componentes, salvo se expressamente 
+excepcionado neste Contrato. É igualmente vedado desmontar, descompilar, fazer engenharia reversa 
+da Plataforma, ou por intermédio de qualquer outra forma obter, acessar ou tentar obter ou acessar 
+o código-fonte da Plataforma e/ou qualquer dado ou informação confidencial relativa à tecnologia 
+objeto do presente Contrato. 
+ 
+5.4. 
+A Contratante declara não deter quaisquer direitos sobre a Propriedade Intelectual decorrente 
+da Plataforma. 
+ 
+5.5. 
+A Lumx não é responsável pelo uso indevido da marca e demais objetos de Propriedade 
+Intelectual da Contratante por demais usuários da rede blockchain, sobretudo por atos praticados fora 
+DocuSign Envelope ID: 53504FA4-5AA0-4CDD-8B45-47FA36CC05DC
+Página 5 de 12 
+ 
+da Plataforma.  
+ 
+5.6. 
+As Partes poderão utilizar a logomarca da outra Parte para composição de portfólio mediante 
+solicitação prévia e escrita, a ser enviada à outra Parte. 
+ 
+5.7. 
+Aplicam-se à presente relação entre Lumx e Contratante, além das normas dispostas pelo 
+Código Civil, a Lei nº 5.988/73 (“Lei de Direitos Autorais”) e Lei 9.279/96 (“Lei da Propriedade 
+Industrial”) e a Lei n° 9.609/98 (“Lei de Software”) que, em conjunto, regulam a atividade objeto do 
+presente contrato. 
+ 
+6. 
+PRIVACIDADE E PROTEÇÃO DE DADOS PESSOAIS 
+ 
+6.1. 
+As Partes se declaram cientes e de acordo que, em razão deste Contrato e para fins de 
+cumprimento de suas obrigações, terão acesso a dados pessoais relativos a pessoas naturais 
+identificadas ou identificáveis, devendo agir em conformidade com as instruções contidas neste 
+Contrato, seus aditivos e anexo, bem como observando a legislação vigente relativa à privacidade e 
+proteção de dados pessoais, sobretudo a Lei Geral de Proteção de Dados (Lei nº 13.709/2018 ou 
+“LGPD”). 
+ 
+6.2. 
+As Partes afirmam que cumprirão as seguintes obrigações: (i) manterão Registro das 
+Operações de Tratamento de Dados Pessoais, com indicação da base legal que legitima a realização do 
+tratamento, nos moldes previstos pelos arts. 7º e 11 da LGPD; (ii) adotarão todas as medidas de 
+segurança de natureza técnica e administrativa necessárias para proteção de dados pessoais contra 
+acessos não autorizados e situações acidentais, tais como destruição, perda, alteração, comunicação 
+ou qualquer forma de tratamento ilícito; (iii) apresentarão, quando solicitado por uma das Partes ou 
+por autoridades competentes, as informações necessárias para comprovação do cumprimento das 
+obrigações previstas na LGPD e no Contrato; (iv) tomarão medidas de segurança adicionais para 
+transferência internacional de dados, se aplicável; (v) em caso de violação ou suspeita de violação das 
+obrigações, controles ou medidas de segurança e vazamento de dados, que possam gerar dano, 
+informarão à outra Parte em prazo a ser determinado pela ANPD ou, na sua ausência, em até 24 (vinte 
+e quatro) horas da ciência do fato e indicarão, ao menos, a natureza e categoria dos dados pessoais 
+afetados, informações sobre os titulares atingidos, riscos identificados e medidas que foram ou que 
+serão adotadas para reverter ou mitigar os efeitos do dano. Caso não seja possível fornecer 
+informações detalhadas no prazo assinalado, deverá ser feita comunicação simplificada, acompanhada 
+de justificativa da impossibilidade. 
+ 
+6.3. 
+A Contratada, na qualidade de controladora de dados, determinará quais dados serão ou não 
+compartilhados com a Contratante e demais Brands. 
+ 
+6.4. 
+A Parte que der causa a evento danoso se obriga a indenizar a Parte inocente por perdas e 
+danos, incluindo, sem se limitar, qualquer sanção que tenha recebido de qualquer autoridade, sem 
+prejuízo das demais ações judiciais cabíveis. Além disso, a Parte que der causa deve tornar indene a 
+Parte inocente em qualquer demanda, denúncia, reclamação e/ou procedimento interposto pelo 
+titular de dados pessoais e/ou por qualquer autoridade administrativa ou judicial, em decorrência do 
+descumprimento de suas obrigações, inclusive quando pela falta da adoção de medidas de segurança 
+satisfatórias e adequadas ao atendimento das disposições legais, normativas e contratuais aplicáveis. 
+ 
+ 
+DocuSign Envelope ID: 53504FA4-5AA0-4CDD-8B45-47FA36CC05DC
+Página 6 de 12 
+ 
+ 
+7. 
+REGRAS ANTICORRUPÇÃO 
+ 
+7.1. 
+ As Partes declaram, desde já, que têm conhecimento da legislação brasileira de 
+anticorrupção, de prevenção à lavagem de dinheiro e antitruste, incluindo, mas não se limitando, às 
+leis nº. 9.613, de 3 de março de 1998 (“Lei sobre os crimes de Lavagem de Dinheiro”), lei nº. 12.846, 
+de 1º de agosto de 2013 (“Lei Anticorrupção”), decreto federal nº. 8.420, de 18 de março de 2015, 
+(“Decreto Anticorrupção”), lei nº. 8.429, de 2 de junho de 1992 (“Lei de Improbidade Administrativa”), 
+lei nº. 12.529 de 30 de novembro de 2011 (“Lei do CADE”), lei nº 12.813 de 16 de maio de 2013 (“Lei 
+de Conflitos de Interesses”), em conjunto denominadas as “Regras Anticorrupção Brasileiras”, e suas 
+respectivas regulamentações, e cumpre integralmente com seus dispositivos, mediante a abstenção 
+de qualquer atividade que constitua ou possa constituir uma violação das Regras Anticorrupção. 
+ 
+7.2. 
+As Partes declaram que conduzem suas práticas comerciais de forma ética e em conformidade 
+com os preceitos legais aplicáveis e garante que nenhum de seus sócios, associados, empregados, 
+agentes, representantes ou terceiros irão dar, oferecer, pagar, prometer pagar, ou autorizar o 
+pagamento de, direta ou indiretamente, dinheiro ou qualquer coisa de valor a qualquer autoridade 
+governamental, partido político ou candidato a cargo político, empregado de empresa detida ou 
+controlada pelo Estado, empregado de organização internacional pública, consultores, 
+representantes, parceiros, ou quaisquer terceiros, com a finalidade de influenciar qualquer ato, 
+decisão ou omissão em atuar de agente ou do governo, ou para assegurar qualquer vantagem 
+indevida, ou direcionar negócios para qualquer pessoa ou que violem as Regras Anticorrupção 
+Brasileiras. 
+ 
+8. 
+OBRIGAÇÕES DAS PARTES 
+ 
+8.1. 
+Sem prejuízo das demais obrigações previstas neste Contrato, a Contratante deverá: 
+ 
+(a) 
+Enviar todas as informações necessárias para que a Lumx possa prestar o Licenciamento 
+abarcado por este Contrato; 
+(b) 
+Manter o sigilo das informações dos termos e condições estabelecidos neste Contrato; 
+(c) 
+Realizar o pagamento do Preço em dia;  
+(d) 
+Agir de acordo com a legislação, regulamentos e demais normas aplicáveis à consecução 
+do objeto deste Contrato;  
+(e) 
+Fornecer à Lumx, sempre que ocorrerem quaisquer problemas ou erros com a 
+Plataforma, desde que possível, toda a documentação, relatórios e demais informações que 
+individualizem as circunstâncias em que os problemas ocorreram, objetivando facilitar e agilizar 
+os trabalhos de correção e aprimoramento dos mesmos; e 
+(f) 
+Comunicar à Lumx, por escrito, quaisquer mudanças na configuração de programas 
+(softwares), aplicativos ou periféricos (hardwares) já instalados com antecedência mínima de 15 
+(quinze) dias, para que a Lumx possa analisar eventuais interferências destes com a Plataforma, 
+verificando os ajustes necessários.  
+ 
+8.2. 
+Sem prejuízo das demais obrigações previstas neste Contrato, a Lumx deverá: 
+ 
+(a) 
+Manter a Plataforma em funcionamento, onde serão disponibilizados os Sello´s da 
+Contratante;  
+DocuSign Envelope ID: 53504FA4-5AA0-4CDD-8B45-47FA36CC05DC
+Página 7 de 12 
+ 
+(b) 
+Manter o sigilo das informações dos termos e condições estabelecidos neste Contrato; 
+(c) 
+Realizar prontamente a correção de eventuais erros ou falhas na Plataforma, de modo 
+a assegurar à Contratante o propósito da presente contratação;  
+(d) 
+Realizar a atualização da Plataforma, conforme aplicável, assim como o suporte técnico 
+para o acesso dos usuários da Contratante; e 
+(e) 
+Agir de acordo com a legislação, regulamentos e demais normas aplicáveis à consecução 
+do objeto deste Contrato. 
+ 
+9. 
+INFORMAÇÕES CONFIDENCIAIS 
+ 
+9.1. 
+Compreende-se, na definição de "Informações Confidenciais", qualquer dado, metodologia, 
+documentação e informação, quer sejam de natureza técnica, administrativa, comercial, jurídica, 
+estratégica, ou ainda de natureza diversa, incluindo, sem limitação, as referências, condições 
+comerciais, questões de ordem interna e/ou externa da Contratante, aspectos societários, 
+econômicos, de execução de trabalhos, de posição mercadológica, de estrutura organizacional e/ou 
+demais informações que forem reveladas a qualquer momento pela Contratante, de forma que serão 
+tratadas em caráter de mais absoluto sigilo e confidencialidade, abstendo-se a Lumx de promover a 
+terceiros qualquer divulgação e/ou uso dessas informações, por menores que sejam, obrigando-se a 
+não ceder, transferir, divulgar, fornecer, emprestar e/ou veicular, por quaisquer meios, todo o 
+conteúdo que lhe seja disponibilizado.  
+ 
+9.2. 
+A divulgação das Informações Confidenciais só é permitida mediante autorização expressa ou 
+por determinação judicial, ocasião em que a Parte notificada deverá comunicar a outra Parte em até 
+24 (vinte e quatro) horas após a ciência. 
+ 
+9.3. 
+A Lumx manterá sigilo absoluto sobre os dados, informações, documentos, ou qualquer outro 
+que eventualmente tenham conhecimento em razão do presente Contrato, não podendo ser 
+publicados, divulgados ou de outra forma, colocados à disposição, direta ou indiretamente a qualquer 
+pessoa, exceto àqueles empregados, agentes ou contratados das Partes, que dele necessitem para o 
+cumprimento deste Contrato. 
+ 
+9.4. 
+A divulgação de Informações Confidenciais somente será permitida quando: 
+ 
+(a) a Parte comprovar que a informação já era do seu conhecimento, antes de ser recebida da 
+outra Parte, não tendo por isso a obrigatoriedade de mantê-la confidencial; 
+ 
+(b) a informação tiver sido legalmente obtida por terceiros, sem infringência de qualquer das 
+disposições deste Contrato; ou 
+ 
+(c) a informação estiver ou tenha se tornado publicamente disponível de outra forma, que não 
+em decorrência de qualquer ato ou omissão das Partes ou seus prepostos. 
+ 
+9.5. 
+Quando solicitada, as Partes comprometem-se a devolver, imediatamente, todo e qualquer 
+tipo de material que lhe tenha sido entregue pela outra Parte e que contenha Informações 
+Confidenciais. 
+ 
+9.6. 
+As Partes deverão usar as Informações Confidenciais somente para os fins para os quais lhe 
+DocuSign Envelope ID: 53504FA4-5AA0-4CDD-8B45-47FA36CC05DC
+Página 8 de 12 
+ 
+foram reveladas e deverá, ainda, cumprir todas as leis, regulamentos e restrições aplicáveis. 
+ 
+9.7. 
+O dever de confidencialidade ora assumido pelas Partes vigorará por todo o Prazo e, ainda, 
+pelo prazo de 5 (cinco) anos, após o término deste Contrato. 
+ 
+10 
+RESCISÃO CONTRATUAL 
+ 
+10.1. 
+As Partes poderão rescindir o presente Contrato a qualquer tempo e de forma imotivada, 
+mediante o envio de notificação prévia e por escrito à outra Parte com prazo mínimo de 30 (trinta) 
+dias de antecedência, respeitados os acertos de contas pendentes e as obrigações assumidas. 
+ 
+10.1.1 
+Caso a rescisão imotivada prevista na Cláusula 10.1 ocorra por iniciativa da 
+Contratante antes de decorrido o prazo de 3 (três) meses contados do início da vigência deste 
+Contrato, esta pagará à Lumx multa compensatória no valor dos 3 (três) últimos faturamentos 
+apurados nos meses imediatamente anteriores ao pedido de rescisão. A multa compensatória 
+será paga em até 30 (trinta) dias da efetiva rescisão do Contrato.  
+ 
+10.2. 
+Durante o seu período de vigência, o presente Contrato poderá ser resolvido imediatamente, 
+nas hipóteses listadas abaixo, após o recebimento pela Parte infratora da competente notificação pela 
+Parte inocente: 
+ 
+(a) Descumprimento por qualquer das Partes, de qualquer obrigação contratual, desde que 
+não sanada no prazo de 15 (quinze) dias a contar do recebimento, pela Parte infratora, do 
+comunicado enviado pela Parte inocente; 
+(b) Não entrega dos prêmios e benefícios, por parte da Contratante, prevista na cláusula 1.4.1;  
+(c) Em caso de ser decretada falência, recuperação judicial ou recuperação extrajudicial, 
+dissolução ou liquidação da Contratante; 
+(d) Caso qualquer das Partes seja envolvida, por qualquer forma, em processo e/ou 
+procedimento que (i) possa prejudicar a imagem da outra Parte, ou (ii) envolva ilícito, fraude, 
+corrupção ou similar; 
+(e) Envolvimento da Contratante em qualquer ato, fato ou omissão que possa gerar risco de 
+dano reputacional à Plataforma ou à Lumx. 
+(f) Envolvimento da Lumx em qualquer ato, fato ou omissão que possa gerar risco de dano 
+reputacional à Contratante. 
+(g) Caso qualquer das Partes tenha sua idoneidade financeira notoriamente abalada, de forma 
+a prejudicar a fiel execução de suas obrigações; e 
+(h) Nos demais casos previstos na legislação aplicável. 
+ 
+10.3. 
+Na ocorrência da hipótese prevista no item (a) acima, caso a Parte infratora não sane a infração 
+no prazo estipulado, deverá a Parte infratora indenizar a Parte inocente de forma a reparar as perdas 
+e danos sofridos por esta última, sem prejuízo das demais penalidades previstas neste Contrato. 
+ 
+10.4. 
+Na ocorrência da hipótese prevista no item (e) acima, a Lumx notificará a Contratante para 
+que cesse a conduta potencialmente danosa à imagem da Lumx ou Plataforma, removendo 
+DocuSign Envelope ID: 53504FA4-5AA0-4CDD-8B45-47FA36CC05DC
+Página 9 de 12 
+ 
+imediatamente qualquer conteúdo da Plataforma que possa causar riscos reputacionais a estas. 
+ 
+11. 
+RESPONSABILIDADE DAS PARTES 
+ 
+11.1. 
+A Lumx não se responsabiliza por qualquer prejuízo direto, acidental ou por qualquer outra 
+espécie de dano oriundo de: (i) incapacidade de uso do website da Plataforma por problemas nos 
+dispositivos da Contratante; (ii) acesso não autorizado ou alterações na transmissão de dados de 
+usuários da Plataforma; (iii) encerramento, interrupção ou qualquer intercorrência nas redes 
+blockchain; e (iv) qualquer outro assunto referente à utilização da Plataforma cujo dano não tenha 
+sido causado pela Lumx, incluindo, mas não se limitando a danos oriundos da perda de conexão, 
+receptação de arquivos corrompidos e afins. 
+ 
+11.2. 
+A Lumx é responsável pelo funcionamento regular da Plataforma, devendo mantê-la 
+atualizada e livre de falhas e bugs, de forma a permitir a disponibilização dos Sello´s. 
+ 
+11.2.1. 
+Contudo, a Lumx não é responsável por ações e interações de usuários fora da 
+Plataforma, uma vez que a blockchain é uma rede aberta e não está sob controle ou ingerência 
+da Lumx ou de terceiros. 
+ 
+11.2.2. 
+A Lumx não será responsável ou terá qualquer controle sobre parcerias para 
+campanhas de marketing feitas entre a Contratante e terceiros, limitando-se a manter a 
+Plataforma em funcionamento regular. 
+ 
+11.3. 
+A Lumx não será responsável perante a Contratante por publicações, comentários e demais 
+manifestações feitas pelos Users em redes sociais que impactem de forma negativa a sua marca, 
+devendo a Contratante filtrar os seus Users através de Sello’s privados ou denunciá-los à Lumx, para 
+que promova seu banimento da Plataforma. 
+ 
+ 
+11.4. 
+A Contratante será única e exclusiva responsável pelo desenvolvimento dos Sello´s, incluindo 
+direitos de propriedade intelectual das artes, códigos e criptografias, originalidade e autenticidade, 
+bem como as utilidades vinculadas aos Sello´s, exceto se previsto na Proposta de forma diversa. 
+ 
+11.5. 
+As Partes  obrigam-se mutuamente a indenizar por quaisquer Perdas incorridas pela Parte 
+inocente decorrentes:  
+ 
+(i) 
+de qualquer falsidade, omissão, incorreção, violação, imprecisão ou descumprimento 
+das declarações e garantias prestadas neste Contrato; 
+ 
+(ii) 
+de todo e qualquer passivo contingente de qualquer natureza, incluindo trabalhista, 
+previdenciário, fiscal, cível, securitário, tributário, financeiro, consumerista, de 
+propriedade intelectual e/ou ambiental de qualquer uma das Partes que venha a recair 
+sobre a outra parte; e 
+ 
+(iii) 
+todo e qualquer passivo contingente de qualquer natureza, incluindo, mas não se 
+limitando a ações consumeristas, relacionados aos Sello´s disponibilizados na 
+DocuSign Envelope ID: 53504FA4-5AA0-4CDD-8B45-47FA36CC05DC
+Página 10 de 12 
+ 
+Plataforma, que gerem qualquer impacto ou prejuízo à Lumx e que não tenham sido 
+comprovadamente causados pela Lumx. 
+ 
+11.6. 
+Caso a quaisquer das Partes receba Demanda apresentada por Terceiros relativas a obrigações 
+e responsabilidades da outra Parte (“Demanda de Terceiros”) cujas Perdas, se houver, a Parte inocente 
+é obrigada a indenizar, devendo enviar à Parte responsável pela Demanda de Terceiros uma 
+notificação por escrito (“Notificação de Demanda de Terceiros”), antes de decorrido o número de dias 
+correspondente a 1/3 (um terço) do prazo disponível para defesa. 
+ 
+11.7. 
+Custos e despesas incorridos com a defesa de Demandas de Terceiros, incluindo custas 
+judiciais, honorários advocatícios, garantias e depósitos, bem como custos e valores que sejam de 
+responsabilidade da Parte responsável para cumprimento das obrigações de indenizar serão arcados 
+direta e exclusivamente por esta última e, se eventualmente arcados pela Parte inocente, por qualquer 
+motivo, serão tidos como uma Perda, e deverão ser pagos à Parte inocente no prazo máximo de 
+5 (cinco) dias, contado a partir de notificação nesse sentido. 
+ 
+12. 
+PENALIDADES  
+ 
+12.1. 
+A Parte que descumprir qualquer das obrigações previstas neste Contrato está sujeita ao 
+pagamento, em favor da Parte inocente, de multa no valor equivalente R$ 50.000,00 (cinquenta mil 
+reais), sem prejuízo de se sujeitar ao ajuizamento de ação própria para apuração das perdas e danos 
+incorridas, caso em que ficam desde já fixados os honorários de advogado em 20% (vinte por cento) 
+do valor apurado em liquidação de sentença.  
+ 
+12.2. 
+As multas ora previstas não serão aplicáveis quando ocorrer situações envolvendo casos 
+fortuitos ou de força maior, entendendo-se estes, para efeitos de Contrato, como fatos necessários, 
+cujos efeitos não era possível evitar ou impedir e que impossibilitam o adimplemento das obrigações 
+contratuais ora assumidas, vide artigo 393, parágrafo único do Código Civil Brasileiro, tais como, 
+guerras, greves, sabotagens, incêndios, inundações, catástrofes naturais, explosões, revoluções, 
+levantes populares e similares.  
+ 
+12.3. 
+Os casos fortuitos ou de força maior devem ser comunicados por escrito à outra parte no prazo 
+de até 3 (três) dias, contados a partir de sua ocorrência, informando a extensão do fato e do prazo 
+estimado durante o qual estará inabilitada a cumprir ou pelo qual será obrigada a atrasar o 
+cumprimento de suas obrigações. A não comunicação da ocorrência do fato neste prazo e nos termos 
+desta Cláusula acarretará a perda do direito de alegá-las. 
+ 
+12.4. 
+Cessados os efeitos de caso fortuito ou de força maior, a Parte afetada deverá, de imediato, 
+notificar a outra para conhecimento desse fato, restabelecendo a situação original e a execução do 
+Contrato. As Partes acordam que problemas de cunho econômico, como dificuldades financeiras e 
+crises, não constituem situação de caso fortuito ou força maior para os fins deste Contrato, nem 
+mesmo motivo justificado para qualquer atraso no cumprimento, pela parte contrária, de suas 
+obrigações contratuais. 
+ 
+13. 
+DISPOSIÇÕES GERAIS 
+ 
+DocuSign Envelope ID: 53504FA4-5AA0-4CDD-8B45-47FA36CC05DC
+Página 11 de 12 
+ 
+13.1. 
+Este Contrato constitui o inteiro entendimento entre as Partes em relação ao seu objeto, 
+substituindo todos os entendimentos anteriores entre elas, inclusive comunicações e acordos verbais. 
+ 
+13.2. 
+As Partes são independentes e nenhuma disposição no presente Contrato deverá ser 
+interpretada no sentido de criar qualquer outra modalidade de vínculo entre ambas, inclusive, sem 
+limitação, qualquer vínculo trabalhista com seus sócios e ou prepostos, bem como qualquer mandato, 
+sociedade, associação, parceria, consórcio, joint-venture ou representação comercial entre as Partes. 
+Cada Parte é totalmente responsável por seus atos e obrigações assumidos por meio deste Contrato.. 
+ 
+13.3. 
+A eventual tolerância, por qualquer das Partes, quanto ao inexato ou impontual cumprimento 
+das obrigações da outra Parte não constitui renúncia ou novação de qualquer espécie, equivalendo 
+tão somente à decisão de mera conveniência da Parte em questão. 
+ 
+13.4. 
+Qualquer das Partes não poderá ceder, transferir, ou alienar, a qualquer título, no todo ou em 
+parte, as obrigações e direitos decorrentes deste Contrato, sem o consentimento prévio, expresso e 
+por escrito da outra Parte. 
+ 
+13.5. 
+Os signatários abaixo identificados declaram não existir em vigor nenhum contrato, obrigação, 
+gravame ou ônus que impeça o cumprimento das obrigações assumidas neste Contrato. 
+ 
+13.6. 
+Todas as obrigações assumidas neste Contrato possuem caráter irrevogável e irretratável, 
+sendo que as Partes se obrigam por si e seus sucessores a cumprir, sem restrições, todos os termos e 
+condições do presente Contrato. 
+ 
+13.7. 
+A invalidade ou inaplicabilidade de quaisquer das Cláusulas e condições ora estabelecidas não 
+afetará as demais disposições deste Contrato. 
+ 
+13.8. 
+As Partes mutuamente se obrigam a fornecer toda e qualquer informação necessária para o 
+bom e fiel funcionamento deste Contrato. 
+ 
+13.9. 
+Sem prejuízo das obrigações ora estabelecidas e na legislação pertinente, cada Parte declara 
+e garante: não realizar, direta ou indiretamente, qualquer pagamento, donativo ou concessão a (i) 
+funcionário público, (ii) administrador, funcionário ou fornecedor da outra Parte, ou (iii) qualquer 
+terceiro, que possa constituir uma violação à legislação aplicável. 
+ 
+13.10. Todas as notificações e comunicações endereçadas à Lumx, decorrentes deste Contrato, 
+deverão ser efetuadas por escrito e entregues via correio eletrônico, nos endereços de 
+juridico@lumxstudios.com e financeiro@lumxstudios.com. 
+ 
+13.11 As Partes reconhecem a forma de contratação por meios eletrônicos como válida e eficaz, 
+mesmo que feita com assinatura eletrônica ou certificação fora dos padrões ICP-Brasil, nos termos do 
+art. 10, §2º, da Medida Provisória nº 2.200/2001. 
+ 
+14. 
+LEGISLAÇÃO E FORO 
+ 
+14.1. 
+O presente Contrato é regido pelas leis da República Federativa do Brasil. 
+ 
+DocuSign Envelope ID: 53504FA4-5AA0-4CDD-8B45-47FA36CC05DC
+Página 12 de 12 
+ 
+14.2. 
+As Partes se comprometem a envidar seus melhores esforços para resolverem eventuais 
+conflitos oriundos deste Contrato de forma amigável e extrajudicialmente antes de submeterem a 
+questão ao judiciário. Na impossibilidade de resolução amigável de conflitos, as Partes elegem o Foro 
+Central da Capital do Estado do Rio de Janeiro, com renúncia expressa a qualquer outro, por mais 
+privilegiado que seja ou venha ser, para dirimir as questões oriundas do presente instrumento. 
+ 
+E, por estarem assim justas e contratadas, as Partes assinam o presente instrumento, na presença de 
+2 (duas) testemunhas que também o subscrevem.  
+ 
+Rio de Janeiro, 27 de junho de 2023. 
+ 
+ 
+ 
+_________________________________ 
+MEUCHOPE LTDA 
+_________________________________ 
+LUMX STUDIOS S.A. 
+ 
+ 
+Testemunhas: 
+ 
+ 
+1._______________________________ 
+Nome: Luís Eduardo Soares Schymura 
+CPF/MF: 192.470.707-16 
+2.__________________________________ 
+Nome: Caio Diniz Bretas 
+CPF/MF: 150.712.927-00 
+ 
+DocuSign Envelope ID: 53504FA4-5AA0-4CDD-8B45-47FA36CC05DC

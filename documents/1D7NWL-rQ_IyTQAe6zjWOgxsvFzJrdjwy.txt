@@ -1,0 +1,626 @@
+Página 1 de 11 
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS  
+DE DESENVOLVIMENTO DE APLICATIVO WEB 
+ 
+Pelo presente instrumento particular, de um lado: 
+ 
+DUX DIGITAL S.A., pessoa jurídica de direito privado, inscrita no CNPJ/ME sob o nº 40.703.728/0001-
+02, com sede na Avenida Presidente Vargas, 3131, 8º Andar, Centro, Rio de Janeiro - RJ, CEP 20071-
+002, neste ato representada na forma de seus atos constitutivos, doravante denominada 
+“Contratante”;  
+ 
+E, de outro lado, 
+ 
+LUMX STUDIOS LTDA., pessoa jurídica de direito privado, inscrita no CNPJ/ME sob o nº 
+42.887.120/0001-00, com sede na Rua Marechal Mascarenhas de Morais, 143, apto. 503 – parte, 
+Copacabana, Rio de Janeiro/RJ, CEP 22.030-040, neste ato representada na forma de seus atos 
+constitutivos, doravante denominada “Contratada”. 
+ 
+Contratada, quando em conjunto com a Contratante, denominadas como “Partes” e, isoladamente, 
+como “Parte”. 
+ 
+CONSIDERANDO QUE:  
+ 
+(i) 
+A Contratante é empresa especializada na corretagem de títulos e valores mobiliários, 
+assim como no desenvolvimento de portais, provedores de conteúdo e outros serviços de 
+informação na internet; 
+ 
+(ii) A Contratada é empresa especializada no desenvolvimento de programas de computador 
+sob encomenda, reprodução de software, consultoria em tecnologia da informação, dentre 
+outras atividades correlatas; 
+ 
+(iii) A Contratante tem interesse no desenvolvimento de um aplicativo web capaz de 
+disponibilizar os seus produtos para compra, venda e uso pelos seus clientes; e  
+ 
+(iv) Como anexo permanente a este contrato, consta Documento de Viabilidade Técnica e 
+Especificações do aplicativo web, contendo as principais diretrizes e objetivos para a construção 
+e modulação do aplicativo, a metodologia/linguagem de trabalho, a equipe envolvida, a 
+eventual cessão de senhas e gestão, assim como os modos de integração. 
+ 
+Resolvem as Partes, de comum acordo, celebrar o presente Contrato de Prestação de Serviços de 
+Desenvolvimento de Aplicativo Web (“Contrato”), que será regido conforme os termos e condições 
+abaixo: 
+ 
+1. 
+OBJETO 
+ 
+1.1. 
+O presente Contrato tem como objeto regular a prestação de serviços, pela Contratada à 
+Contratante, de desenvolvimento de aplicativo web, que integrará o ecossistema DUX (“Serviços”). 
+ 
+DocuSign Envelope ID: DBB7908F-0826-4497-AF88-E4F0A8F2E234
+Página 2 de 11 
+1.2. 
+A Contratada será responsável por desenvolver o aplicativo web, nas linguagens React e 
+node.js, cujo objetivo será possibilitar a operabilidade para: (i) a compra e venda dos tokens “$DUX” 
+pelos clientes da Contratante; (ii) o acompanhamento de seu respectivo saldo; e (iii) a utilização dos 
+referidos tokens para participação em diversas atividades da Contratante (“Aplicativo”). 
+ 
+1.2.1. 
+A Contratada desenvolverá apenas a estrutura do Aplicativo nas linguagens React e 
+node.js., conforme descrito no Documento de Viabilidade Técnica e Especificações (“Anexo”).  
+ 
+1.2.2. 
+A Contratante se responsabiliza pelas artes visuais vinculadas ao Aplicativo, 
+obrigando-se a criá-las por si ou por terceiros, respeitando o mais absoluto caráter de 
+originalidade, respondendo exclusivamente por eventuais questões relacionadas à propriedade 
+intelectual perante terceiros, não podendo a Contratada ser demandada por qualquer 
+responsabilidade nesse aspecto. 
+ 
+2. 
+FUNCIONAMENTO DO APLICATIVO 
+ 
+2.1. 
+O funcionamento do Aplicativo dependerá de acesso à internet e instalação do API Lumx 
+Protocol, não havendo qualquer necessidade de instalação de hardware para sua utilização.  
+ 
+2.2. 
+O acesso ao Aplicativo ocorrerá por meio de integração com a carteira digital do usuário 
+(“Wallet”), que servirá como chave de acesso. 
+ 
+2.3. 
+A Contratada se obriga a envidar todos os esforços para que o Aplicativo esteja sempre 
+atualizado, seguro e livre de erros e falhas que possam acarretar a perda de conteúdo durante o 
+período de utilização. Contudo, os sistemas poderão sofrer interrupções ou paradas ocasionais, 
+programadas ou não, mas que não poderão ultrapassar 72 (setenta e duas) horas ininterruptas, sob 
+pena de abatimento correspondente no pagamento mensal ou, no caso de reincidência de tempo ou 
+dias, ainda que não sequenciais, o reconhecimento de inadimplência. 
+ 
+2.3.1. 
+A Contratada se compromete a comunicar por escrito as paradas programadas com, 
+ao menos, 24 (vinte e quatro) horas de antecedência, sob pena de abatimento correspondente 
+no pagamento mensal ou, no caso de reincidência de tempo ou dias, ainda que não sequenciais, 
+o reconhecimento de inadimplência. 
+ 
+2.3.2. 
+No caso de paradas não programadas, a Contratada envidará todos os esforços para 
+estabelecer a operacionalidade do Aplicativo no prazo de até 48 (quarenta e oito) horas 
+contados do início da inatividade e/ou falha, desde que decorrentes do funcionamento do 
+próprio Aplicativo e que não estejam relacionadas a falha de terceiros, tais como provedores de 
+serviço de internet, sob pena de abatimento correspondente no pagamento mensal ou, no caso 
+de reincidência de tempo ou dias, ainda que não sequenciais, o reconhecimento de 
+inadimplência. 
+ 
+2.3.3. 
+A Contratada poderá realizar atualizações, updates, upgrades ou aprimoramentos do 
+Aplicativo, devendo a Contratante aceitá-las em caso de continuidade do uso. 
+ 
+2.4. 
+O serviço de atualização do Aplicativo compreende a implementação de melhorias, 
+atualizações, adaptações e novas versões do software, para manter o Aplicativo tecnicamente seguro 
+DocuSign Envelope ID: DBB7908F-0826-4497-AF88-E4F0A8F2E234
+Página 3 de 11 
+e funcional, incluindo a correção de falhas sistêmicas, erros e bugs da versão, melhorias de 
+performance, melhorias relacionadas a problemas identificados pelos usuários, atualização de licenças 
+de terceiros e bibliotecas necessárias para o funcionamento do software e do Aplicativo. 
+ 
+2.5. 
+O Aplicativo tem funcionalidades relacionadas a preço e disponibilidade de tokens, mas não 
+constitui recomendação de investimento, não se responsabilizando a Contratada por qualquer 
+operação de compra e venda de tokens feita pela Contratante, seus colaboradores e/ou seus clientes. 
+ 
+2.6. 
+A Contratada não se responsabiliza por qualquer inaptidão da Contratante, seus colaboradores 
+e/ou seus clientes em se conectar à internet e/ou ao Aplicativo, em operar o Aplicativo e suas 
+funcionalidades, bem como por eventuais programas que a Contratante, seus colaboradores e/ou seus 
+clientes utilizem e que sejam incompatíveis com o Aplicativo. 
+ 
+3. 
+FORMA E PRAZO DE PAGAMENTO 
+ 
+3.1. 
+As Partes estabelecem que, a título de remuneração pelo presente Contrato, a Contratante 
+deverá pagar à Contratada a quantia fixa e mensal de R$60.000,00 (sessenta mil reais), durante os 5 
+(cinco) meses de vigência do Contrato (“Preço”). 
+ 
+3.1.1. 
+Havendo interesse e/ou necessidade das Partes, poderão ser negociados serviços 
+extraordinários, sem prejuízo dos originalmente contratados, podendo as Partes 
+convencionarem os ajustes adicionais por meio de aditivo, mantendo-se a previsão da quantia 
+do item 3.1.1.  
+ 
+3.2. 
+O pagamento do Preço deverá ser feito pela Contratante até o 5º dia útil de cada mês, 
+mediante depósito bancário diretamente na conta bancária de titularidade da Contratada indicada 
+oportunamente, servindo o comprovante bancário como recibo e quitação. 
+ 
+3.2.1. 
+A nota fiscal relativa aos serviços prestados será encaminhada pela Contratada à 
+Contratante com no mínimo 5 (cinco) dias úteis até seu vencimento. Caso seja constatado algum 
+erro nas notas fiscais, serão as mesmas devolvidas e os respectivos pagamentos serão sustados 
+até sua efetiva correção, sem que isso implique em qualquer reajuste ou multa à Contratante 
+se o pagamento, em virtude do erro constatado, ocorrer após a data de seu vencimento. 
+ 
+3.2.2. 
+Na hipótese de atraso no pagamento por culpa exclusiva da Contratante, será devida 
+multa moratória equivalente a 2% (dois por cento), acrescida de correção monetária com base 
+na variação do IPCA/IBGE e juros de 1% (um por cento) ao mês, sobre o valor em atraso. 
+ 
+3.2.3. 
+Caso a fatura/nota fiscal seja apresentada com atraso, o pagamento poderá ser 
+postergado por prazo equivalente ao do atraso. 
+ 
+3.3. 
+Na hipótese de atraso no pagamento do Preço por período superior a 30 (trinta) dias, por culpa 
+exclusiva da Contratante, a Contratada poderá, a seu único e exclusivo critério, livre de multas, 
+indenizações e/ou reparações de qualquer natureza:  
+(i) 
+suspender o desenvolvimento do Aplicativo;  
+(ii) 
+suspender o acesso à API Lumx Protocol; e/ou  
+DocuSign Envelope ID: DBB7908F-0826-4497-AF88-E4F0A8F2E234
+Página 4 de 11 
+(iii) 
+rescindir o presente Contrato de pleno direito.  
+ 
+3.3.1. 
+Na ocorrência de qualquer das hipóteses previstas na cláusula 4.3 acima, a 
+Contratante deverá permanecer responsável por pagar à Contratada os valores do Preço pelos 
+Serviços prestados e não inadimplidos, observadas as regras de correção e atualização 
+monetária previstas na cláusula 4.2.2. acima, bem como pelas demais obrigações previstas neste 
+Contrato. 
+ 
+3.4. 
+O Preço é fechado, incluindo as despesas regulares necessárias à realização do objeto do 
+presente Contrato, e inclui a remuneração total devida à Contratada pelo cumprimento de todas as 
+obrigações por esta assumidas, bem como todos os custos diretos e indiretos, além dos tributos 
+incidentes no desenvolvimento do Aplicativo. 
+ 
+3.5. 
+Para que seja reembolsado, qualquer custo/despesa extraordinário que a Contratada venha a 
+incorrer em decorrência da execução do objeto do presente Contrato deverá ser prévia e 
+expressamente autorizado pela Contratante e devidamente comprovado pela Contratada. 
+ 
+4. 
+PRAZO DE VIGÊNCIA  
+ 
+4.1. 
+O presente Contrato terá início de vigência a partir do dia 1º de novembro de 2022, 
+encerrando-se no dia 31 de março de 2023 (“Prazo”).  
+ 
+4.1.1. 
+As Partes podem resilir o presente Contrato, de maneira imotivada, mediante 
+notificação escrita a outra Parte, com antecedência mínima de 30 (trinta) dias.  
+ 
+4.1.2. 
+Caso a Contratante opte por resilir o presente Contrato nos moldes da cláusula 4.1.1. 
+acima, deverá pagar à Contratada o Preço correspondente aos serviços prestados por esta, no 
+âmbito do presente Contrato, até a data do recebimento da notificação de resilição 
+encaminhada pela Contratante. 
+ 
+4.1.3. 
+Independentemente da forma de resolução, caberá à Contratada emitir relatório 
+técnico do período em que o contrato vigeu, devendo o relatório conter informações sobre 
+eventuais modificações ou implementações diversas daquelas contidas no Documento de 
+Viabilidade Técnica e Especificações do Aplicativo. 
+ 
+5. 
+OBRIGAÇÕES DAS PARTES 
+ 
+5.1. 
+Sem prejuízo das demais obrigações previstas neste Contrato, a Contratante deverá: 
+ 
+a. 
+Enviar todas as informações necessárias para que a Contratada possa prestar os 
+Serviços abarcados por este Contrato; 
+ 
+b. 
+Manter o sigilo das informações dos termos e condições estabelecidos neste Contrato; 
+ 
+c.   
+Realizar o pagamento do Preço em dia; 
+ 
+DocuSign Envelope ID: DBB7908F-0826-4497-AF88-E4F0A8F2E234
+Página 5 de 11 
+d. 
+Agir de acordo com a legislação, regulamentos e demais normas aplicáveis à 
+consecução do objeto deste Contrato;  
+ 
+e. 
+Responsabilizar-se integralmente pelos dados inseridos no Aplicativo, mantendo a 
+Contratada indene e a salvo de quaisquer reclamações referentes a veracidade, validade e 
+adequação de dados; e 
+ 
+f. 
+Fornecer à Contratada, sempre que ocorrerem quaisquer problemas ou erros com o 
+Aplicativo, desde que possível, toda a documentação, relatórios e demais informações que 
+individualizem as circunstâncias em que os problemas ocorreram, objetivando facilitar e agilizar 
+os trabalhos de correção e aprimoramento dos mesmos. 
+ 
+5.2. 
+Sem prejuízo das demais obrigações previstas neste Contrato, a Contratada deverá: 
+ 
+a. 
+Desenvolver e manter em funcionamento o Aplicativo; 
+ 
+b. 
+Manter o sigilo das informações dos termos e condições estabelecidos neste Contrato; 
+ 
+c.   
+Realizar prontamente a correção de eventuais erros ou falhas do Aplicativo nos termos 
+deste Contrato; 
+ 
+d. 
+Realizar a atualização, conforme aplicável, do Aplicativo; e 
+ 
+e. 
+Agir de acordo com a legislação, regulamentos e demais normas aplicáveis à 
+consecução do objeto deste Contrato. 
+ 
+5.3. 
+A Contratada não se responsabiliza por qualquer prejuízo direto, indireto, punitivo, acidental 
+ou por qualquer outra espécie de dano oriundo de: (i) incapacidade e/ou inaptidão de uso do Aplicativo 
+e de seus serviços por seus colaboradores ou clientes; (ii) acesso não autorizado ou alterações na 
+transmissão de dados de usuários da Contratante; e (iii) qualquer outro assunto referente à utilização 
+do Aplicativo, incluindo, mas não se limitando a danos oriundos da perda de conexão, operações de 
+compra e venda de tokens, receptação de arquivos corrompidos ou quaisquer danos pertinentes ao 
+desempenho do Aplicativo. 
+ 
+5.4. 
+Na hipótese de uma das Partes ser demandada judicialmente em razão do descumprimento 
+de obrigações oriundas da lei e/ou deste Contrato por culpa ou dolo da Parte infratora, seus 
+colaboradores e/ou seus clientes, a Parte infratora, desde já concorda: 
+ 
+a. 
+em adotar as providências para manter a Parte inocente e seus representantes legais 
+indenes, incluindo-se o requerimento de sua exclusão e de seus representantes legais do evento 
+de responsabilidade extrajudicial, judicial ou arbitral; 
+ 
+b. 
+com eventual denunciação da lide, nos termos do Art. 125, II, do Código de Processo 
+Civil; e 
+ 
+c. 
+com o direito de regresso da Parte prejudicada contra a Parte infratora por todas 
+perdas e danos, custas, honorários advocatícios e demais despesas que desembolsarem 
+DocuSign Envelope ID: DBB7908F-0826-4497-AF88-E4F0A8F2E234
+Página 6 de 11 
+comprovadamente em razão do descumprimento de obrigações oriundas da lei e/ou deste 
+Contrato por culpa ou dolo da Parte infratora, seus colaboradores e/ou seus clientes. 
+ 
+6. 
+PROPRIEDADE INTELECTUAL 
+ 
+6.1. 
+A Contratante reconhece que toda e qualquer Propriedade Intelectual direta ou indiretamente 
+relacionadas ao desenvolvimento do Aplicativo, no todo ou em parte, atual ou futura, pertencem 
+exclusivamente à Contratada, independente de terem sido registradas ou não, incluindo, mas não se 
+limitando a conhecimentos técnicos, know-how, patente, marcas, direitos autorais, códigos fontes, 
+softwares, aplicativos, modelagem de dados, tecnologia, segredo do negócio, invenções, desenhos 
+industriais, layouts, interfaces, materiais, conteúdos e qualquer outro dado e/ou informação utilizada 
+na execução do objeto deste Contrato, ou à Contratada devidamente licenciados por terceiros 
+(“Propriedade Intelectual”), não podendo ser utilizadas para qualquer outro fim que não o 
+expressamente previsto neste Contrato, sob pena de responsabilização direta da Contratante por 
+todos os danos causados à Contratada, seja diretamente pela Contratante ou por terceiros a ela 
+relacionados.   
+ 
+6.2. 
+A Contratante expressamente declara estar ciente de que o presente Contrato não importa 
+qualquer transferência, cessão, direito de uso e exploração, total ou parcial de qualquer Propriedade 
+Intelectual não expressamente previstos neste instrumento, sendo absolutamente vedado qualquer 
+outro uso ou acesso à Propriedade Intelectual, bem como a condução de qualquer ato ou omissão que 
+possam ser considerados violação deste instrumento, da Propriedade Intelectual e das normas de 
+concorrência, incluindo, mas não se limitando ao acesso indevido aos códigos, repositórios e 
+infraestrutura do Aplicativo, engenharia reversa, cópia, imitação, reprodução ou comercialização, 
+sublicenciamento do Aplicativo fora dos contextos deste Contrato, como perante terceiros e/ou para 
+ambientes externos ao uso do Aplicativo; cópia, reprodução ou imitação das marcas, identidade visual, 
+trade dress, look and feel, do Aplicativo e da Contratada; divulgação, permissão de acesso e 
+transmissão de informações confidenciais e sensíveis acerca do modelo de negócio e know-how da 
+Contratada; dentre outros. 
+ 
+6.3. 
+Caso a Contratante identifique uma infração aos direitos de Propriedade Intelectual descritos 
+neste Contrato, de qualquer natureza e por qualquer ente ou pessoa, deverá reportar a situação para 
+a Contratada, para que possa obter autorização de prosseguimento para as medidas de proteção 
+aplicáveis, bem como para alinhamento de estratégias. 
+ 
+6.4. 
+A Contratante deverá envidar os melhores esforços para manter a integridade material da 
+Propriedade Intelectual e a reputação da Contratada. Para tanto, deve validar previamente a utilização 
+de marca em seus materiais de divulgação e marketing. 
+ 
+7. 
+PRIVACIDADE E PROTEÇÃO DE DADOS PESSOAIS 
+ 
+7.1. 
+As Partes se declaram cientes e de acordo que, em razão deste Contrato e para fins de 
+cumprimento de suas obrigações, terão acesso a dados pessoais relativos a pessoas naturais 
+identificadas ou identificáveis, devendo agir em conformidade com as instruções contidas neste 
+Contrato, seus aditivos e anexo, bem como observando a legislação vigente relativa à privacidade e 
+proteção de dados pessoais, sobretudo a Lei Geral de Proteção de Dados (Lei nº 13.709/2018 ou 
+“LGPD”). 
+DocuSign Envelope ID: DBB7908F-0826-4497-AF88-E4F0A8F2E234
+Página 7 de 11 
+ 
+7.2. 
+As Partes afirmam que cumprirão as seguintes obrigações: (i) manterão Registro das 
+Operações de Tratamento de Dados Pessoais, com indicação da base legal que legitima a realização do 
+tratamento, nos moldes previstos pelos arts. 7º e 11 da LGPD; (ii) adotarão todas as medidas de 
+segurança de natureza técnica e administrativa necessárias para proteção de dados pessoais contra 
+acessos não autorizados e situações acidentais, tais como destruição, perda, alteração, comunicação 
+ou qualquer forma de tratamento ilícito; (iii) apresentarão, quando solicitado por uma das Partes ou 
+por autoridades competentes, as informações necessárias para comprovação do cumprimento das 
+obrigações previstas na LGPD e no Contrato; (iv) tomarão medidas de segurança adicionais para 
+transferência internacional de dados, se aplicável; (v) em caso de violação ou suspeita de violação das 
+obrigações, controles ou medidas de segurança e vazamento de dados, que possam gerar dano, 
+informarão à outra Parte em prazo a ser determinado pela ANPD ou, na sua ausência, em até 24 (vinte 
+e quatro) horas da ciência do fato e indicarão, ao menos, a natureza e categoria dos dados pessoais 
+afetados, informações sobre os titulares atingidos, riscos identificados e medidas que foram ou que 
+serão adotadas para reverter ou mitigar os efeitos do dano. Caso não seja possível fornecer 
+informações detalhadas no prazo assinalado, deverá ser feita comunicação simplificada, acompanhada 
+de justificativa da impossibilidade. 
+ 
+7.3. 
+As Partes assegurarão que os dados pessoais não sejam acessados, compartilhados ou 
+transferidos para terceiros - incluindo subcontratados, agentes autorizados e afiliados - sem 
+autorização prévia e por escrito da outra Parte. 
+ 
+7.4. 
+A Parte que der causa a evento danoso se obriga a indenizar a Parte inocente por perdas e 
+danos, incluindo, sem se limitar, qualquer sanção que tenha recebido de qualquer autoridade, sem 
+prejuízo das demais ações judiciais cabíveis. Além disso, a Parte que der causa deve tornar indene a 
+Parte inocente em qualquer demanda, denúncia, reclamação e/ou procedimento interposto pelo 
+titular de dados pessoais e/ou por qualquer autoridade administrativa ou judicial, em decorrência do 
+descumprimento de suas obrigações, inclusive quando pela falta da adoção de medidas de segurança 
+satisfatórias e adequadas ao atendimento das disposições legais, normativas e contratuais aplicáveis. 
+ 
+8. 
+INFORMAÇÕES CONFIDENCIAIS 
+ 
+8.1. 
+Compreende-se, na definição de "Informações Confidenciais", qualquer dado, metodologia, 
+documentação e informação, quer sejam de natureza técnica, administrativa, comercial, jurídica, 
+estratégica, ou ainda de natureza diversa, incluindo, sem limitação, as referências, condições 
+comerciais, questões de ordem interna e/ou externa da Contratante, aspectos societários, 
+econômicos, de execução de trabalhos, de posição mercadológica, de estrutura organizacional e/ou 
+demais informações que forem reveladas a qualquer momento pela Contratante, de forma que serão 
+tratadas em caráter de mais absoluto sigilo e confidencialidade, abstendo-se a Contratada de 
+promover a terceiros qualquer divulgação e/ou uso dessas informações, por menores que sejam, 
+obrigando-se a não ceder, transferir, divulgar, fornecer, emprestar e/ou veicular, por quaisquer meios, 
+todo o conteúdo que lhe seja disponibilizado.  
+ 
+8.2. 
+A divulgação das Informações Confidenciais só é permitida mediante autorização expressa ou 
+por determinação judicial, ocasião em que a Parte notificada deverá comunicar a outra Parte em até 
+24 (vinte e quatro) horas após a ciência. 
+ 
+DocuSign Envelope ID: DBB7908F-0826-4497-AF88-E4F0A8F2E234
+Página 8 de 11 
+8.3. 
+A Contratada manterá sigilo absoluto sobre os dados, informações, documentos, ou qualquer 
+outro que eventualmente tenham conhecimento em razão do presente Contrato, não podendo ser 
+publicados, divulgados ou de outra forma, colocados à disposição, direta ou indiretamente a qualquer 
+pessoa, exceto àqueles empregados, agentes ou contratados das Partes, que dele necessitem para o 
+cumprimento deste Contrato. 
+ 
+8.4. 
+A divulgação de Informações Confidenciais somente será permitida quando: 
+ 
+(a) a Parte comprovar que a informação já era do seu conhecimento, antes de ser recebida da 
+outra Parte, não tendo por isso a obrigatoriedade de mantê-la confidencial; 
+ 
+(b) a informação tiver sido legalmente obtida por terceiros, sem infringência de qualquer das 
+disposições deste Contrato; ou 
+ 
+(c) a informação estiver ou tenha se tornado publicamente disponível de outra forma, que não 
+em decorrência de qualquer ato ou omissão das Partes ou seus prepostos. 
+ 
+8.5. 
+Quando solicitada, as Partes comprometem-se a devolver, imediatamente, todo e qualquer 
+tipo de material que lhe tenha sido entregue pela outra Parte e que contenha Informações 
+Confidenciais. 
+ 
+8.6. 
+As Partes deverão usar as Informações Confidenciais somente para os fins para os quais lhe 
+foram reveladas e deverá, ainda, cumprir todas as leis, regulamentos e restrições aplicáveis. 
+ 
+8.7. 
+O dever de confidencialidade ora assumido pelas Partes vigorará por todo o Prazo e, ainda, 
+pelo prazo de 5 (cinco) anos, após o término deste Contrato. 
+ 
+9. 
+RESCISÃO CONTRATUAL 
+ 
+9.1. 
+As Partes poderão resilir o presente Contrato mediante o envio de notificação prévia e por 
+escrito à outra Parte com prazo mínimo de 30 (trinta) dias de antecedência, respeitados os acertos de 
+contas pendentes e as obrigações assumidas. 
+ 
+9.2. 
+Durante o seu período de vigência, o presente Contrato poderá ser resolvido imediatamente, 
+nas hipóteses listadas abaixo, após o recebimento pela Parte infratora da competente notificação pela 
+Parte inocente: 
+ 
+(a) Descumprimento por qualquer das Partes, de qualquer obrigação contratual, desde que 
+não sanada no prazo de 15 (quinze) dias a contar do recebimento, pela Parte infratora, do 
+comunicado enviado pela Parte inocente; 
+(b) Em caso de ser decretada falência, recuperação judicial ou recuperação extrajudicial, 
+dissolução ou liquidação da Contratada; 
+(c) Caso qualquer das Partes tenha sua idoneidade financeira notoriamente abalada, de forma 
+a prejudicar a fiel execução de suas obrigações; e 
+(d) Nos demais casos previstos na legislação aplicável. 
+ 
+DocuSign Envelope ID: DBB7908F-0826-4497-AF88-E4F0A8F2E234
+Página 9 de 11 
+9.3. 
+Na ocorrência da hipótese prevista no item (a) acima, caso a Parte infratora não sane a infração 
+no prazo estipulado, deverá a Parte infratora indenizar a Parte inocente de forma a reparar as perdas 
+e danos sofridos por esta última, sem prejuízo das demais penalidades previstas neste Contrato. 
+ 
+9.4. 
+A Contratada poderá, a qualquer momento, rescindir o Contrato unilateralmente, sem que 
+nada seja devido à Contratante, sem prejuízo de quaisquer multas, indenizações ou reparações que 
+sejam devidos à Contratada, em casos de atraso no pagamento do Preço por período superior a 30 
+(trinta) dias, por culpa exclusiva da Contratante. 
+ 
+9.5. 
+A rescisão do presente Contrato suspenderá o licenciamento de uso e o acesso à API Lumx 
+Protocol, que é parte integrante do desenvolvimento do Aplicativo, em qualquer hipótese. 
+ 
+10. 
+PENALIDADES 
+ 
+10.1. 
+A Parte que descumprir qualquer das obrigações previstas neste Contrato está sujeita ao 
+pagamento, em favor da Parte inocente, de multa no valor equivalente R$50.000,00 (cinquenta mil 
+reais), sem prejuízo de se sujeitar ao ajuizamento de ação própria para apuração das perdas e danos 
+incorridos, caso em que ficam desde já fixados os honorários de advogado em 20% (vinte por cento) 
+do valor apurado em liquidação de sentença. 
+ 
+10.2. 
+As multas ora previstas não serão aplicáveis quando ocorrer situações envolvendo casos 
+fortuitos ou de força maior, entendendo-se estes, para efeitos de Contrato, como fatos necessários, 
+cujos efeitos não era possível evitar ou impedir e que impossibilitam o adimplemento das obrigações 
+contratuais ora assumidas, vide artigo 393, parágrafo único do Código Civil Brasileiro, tais como, 
+guerras, greves, sabotagens, incêndios, inundações, catástrofes naturais, explosões, revoluções, 
+levantes populares e similares.  
+ 
+10.3. 
+Os casos fortuitos ou de força maior devem ser comunicados por escrito à outra parte no prazo 
+de até 3 (três) dias, contados a partir de sua ocorrência, informando a extensão do fato e do prazo 
+estimado durante o qual estará inabilitada a cumprir ou pelo qual será obrigada a atrasar o 
+cumprimento de suas obrigações. A não comunicação da ocorrência do fato neste prazo e nos termos 
+desta Cláusula acarretará a perda do direito de alegá-las. 
+ 
+10.4. 
+Cessados os efeitos de caso fortuito ou de força maior, a Parte afetada deverá, de imediato, 
+notificar a outra para conhecimento desse fato, restabelecendo a situação original e a execução do 
+Contrato. As Partes acordam que problemas de cunho econômico, como dificuldades financeiras e 
+crises, não constituem situação de caso fortuito ou força maior para os fins deste Contrato, nem 
+mesmo motivo justificado para qualquer atraso no cumprimento, pela parte contrária, de suas 
+obrigações contratuais. 
+ 
+11. 
+DISPOSIÇÕES GERAIS 
+ 
+11.1. 
+Este Contrato constitui o inteiro entendimento entre as Partes em relação ao seu objeto, 
+substituindo todos os entendimentos anteriores entre elas, inclusive comunicações e acordos verbais. 
+ 
+11.2. 
+As Partes são independentes e nenhuma disposição no presente Contrato deverá ser 
+interpretada no sentido de sugerir a existência de uma joint venture, ou qualquer tipo de participação 
+DocuSign Envelope ID: DBB7908F-0826-4497-AF88-E4F0A8F2E234
+Página 10 de 11 
+societária, relação de emprego ou sociedade entre as Partes ou em nome destas. 
+ 
+11.3. 
+O objeto deste Contrato configura trabalho autônomo de prestação de serviços, não gerando 
+qualquer vínculo trabalhista, inexistindo subordinação hierárquica ou pessoalidade em sua execução. 
+ 
+11.4. 
+As Partes reconhecem expressamente e concordam que a presente contratação não 
+caracteriza compromisso de exclusividade de uma à outra salvo em razão dos termos já descritos neste 
+Contrato. 
+ 
+11.5. 
+A eventual tolerância, por qualquer das Partes, quanto ao inexato ou impontual cumprimento 
+das obrigações da outra Parte não constitui renúncia ou novação de qualquer espécie, equivalendo 
+tão somente à decisão de mera conveniência da Parte em questão. 
+ 
+11.6. 
+Toda e qualquer renúncia, alteração, dispensa ou modificação de qualquer direito, obrigação, 
+termo ou condição da contratação só será válida e vinculante se efetuada por escrito e assinada pelas 
+Partes. 
+ 
+11.7. 
+Qualquer das Partes não poderá ceder, transferir, ou alienar, a qualquer título, no todo ou em 
+parte, as obrigações e direitos decorrentes deste Contrato, sem o consentimento prévio, expresso e 
+por escrito da outra Parte. 
+ 
+11.8. 
+Os signatários abaixo identificados declaram não existir em vigor nenhum contrato, obrigação, 
+gravame ou ônus que impeça o cumprimento das obrigações assumidas neste Contrato. 
+ 
+11.9. 
+Todas as obrigações assumidas neste Contrato possuem caráter irrevogável e irretratável, 
+sendo que as Partes se obrigam por si e seus sucessores a cumprir, sem restrições, todos os termos e 
+condições do presente Contrato. 
+ 
+11.10. A invalidade ou inaplicabilidade de quaisquer das Cláusulas e condições ora estabelecidas não 
+afetará as demais disposições deste Contrato. 
+ 
+11.11. As Partes mutuamente se obrigam a fornecer toda e qualquer informação necessária para o 
+bom e fiel funcionamento deste Contrato. 
+ 
+11.12. Sem prejuízo das obrigações ora estabelecidas e na legislação pertinente, cada Parte declara 
+e garante: não realizar, direta ou indiretamente, qualquer pagamento, donativo ou concessão a (i) 
+funcionário público, (ii) administrador, funcionário ou fornecedor da outra Parte, ou (iii) qualquer 
+terceiro, que possa constituir uma violação à legislação aplicável. 
+ 
+11.13. Todas as notificações e comunicações a serem realizadas entre as Partes, decorrentes deste 
+Contrato, deverão ser efetuadas por escrito e entregues (i) pessoalmente, (ii) via carta registrada, (iii) 
+por meio de cartório de registro de títulos e documentos, ou (iv) via correio eletrônico, no endereço 
+de e-mail juridico@lumxstudios.com, se para a Contratada, e no endereço de e-mail 
+financeiro@duxcripto.com se para a Contratante. 
+ 
+11.13.1. 
+Qualquer alteração nos endereços e informações mencionados no item acima 
+deverá ser prontamente informada, sob pena de a notificação ou a comunicação encaminhada 
+DocuSign Envelope ID: DBB7908F-0826-4497-AF88-E4F0A8F2E234
+Página 11 de 11 
+para os dados não atualizados ser considerada recebida e válida. 
+ 
+11.14. As Partes reconhecem a forma de contratação por meios eletrônicos como válida e eficaz, 
+mesmo que feita com assinatura eletrônica ou certificação fora dos padrões ICP-Brasil, nos termos do 
+art. 10, §2º, da Medida Provisória nº 2.200/2001. 
+ 
+12. 
+LEGISLAÇÃO E FORO 
+ 
+12.1. 
+O presente Contrato é regido pelas leis da República Federativa do Brasil. 
+ 
+12.2. 
+Sem prejuízo do acesso ao Poder Judiciário, surgindo qualquer conflito referente ao presente 
+Contrato, as Partes comprometem-se, de acordo com os artigos. 2º § 1º, art. 22, IV da Lei 13.140/2015, 
+a comparecer primeiramente a uma sessão de mediação/conciliação extrajudicial no prazo máximo de 
+10 (dez) dias a partir do convite, que poderá ser feito através dos e-mails fornecidos, carta registrada 
+ou notificação por cartório de Títulos e Documentos. Na impossibilidade de resolução amigável de 
+conflitos, as Partes elegem o Foro Central da Capital do Estado do Rio de Janeiro, com renúncia 
+expressa a qualquer outro, por mais privilegiado que seja ou venha ser, para dirimir as questões 
+oriundas do presente instrumento. 
+ 
+E, por estarem assim justas e contratadas, as Partes assinam o presente instrumento, na presença de 
+2 (duas) testemunhas que também o subscrevem.  
+ 
+Rio de Janeiro, 1º novembro de 2022. 
+ 
+ 
+_________________________________ 
+DUX DIGITAL S.A. 
+_________________________________ 
+LUMX STUDIOS LTDA. 
+ 
+ 
+Testemunhas: 
+ 
+1._______________________________ 
+Nome:  
+CPF/ME:  
+2.__________________________________ 
+Nome:  
+CPF/ME:  
+ 
+DocuSign Envelope ID: DBB7908F-0826-4497-AF88-E4F0A8F2E234

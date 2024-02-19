@@ -1,0 +1,485 @@
+MEMORANDUM OF UNDERSTANDING (MOU)  
+ 
+De um lado: 
+ 
+VEX pessoa jurídica de direito privado, inscrita no CNPJ/ME sob o nº 47.340.455/0001-10, 
+com sede na Rua voluntários da Pátria nº 89, sala 804, Botafogo, Rio de Janeiro/RJ - CEP 
+22270-000, neste ato representada na forma de seus atos constitutivos, doravante 
+denominada simplesmente VEX;  
+e  
+LUMX STUDIOS LTDA., pessoa jurídica de direito privado, inscrita no CNPJ/ME sob o nº 
+42.887.120/0001-00, com sede na Rua Marechal Mascarenhas de Morais, nº 43, apto. 503 
+– parte, Copacabana, Rio de Janeiro/RJ, CEP 22.030-040, neste ato representada na forma 
+de seus atos constitutivos, doravante denominada simplesmente LUMX;  
+ 
+De outro lado: 
+ 
+PIXHUMAN LAB DESENVOLVIMENTO DE NEGOCIOS LTDA, pessoa jurídica de direito 
+privado, inscrita no CNPJ/ME sob o nº 43.299.300/0001-26, com sede na Rua Haddock 
+Lobo, nº 1327, conj. 111, Cerqueira César, São Paulo/SP, CEP 01414-907, neste ato 
+representada na forma de seus atos constitutivos, doravante denominada simplesmente 
+BIOBOTS ou INTERVENIENTE. 
+e 
+SATO RAHAL EMPREENDIMENTOS ARTÍSTICOS, pessoa jurídica de direito privado, 
+inscrita no CNPJ/ME sob o nº 05.670.895/0001-95, com sede na Rua Haddock Lobo, nº 
+1327, andar 11, Cerqueira César, São Paulo/SP, CEP 01414-907, neste ato representada 
+na forma de seus atos constitutivos, doravante denominada simplesmente SATO ou 
+CONTRATANTE. 
+ 
+Considerandos: 
+ 
+Considerando que a VEX é empresa especializada em moda tokenizada, produzindo peças 
+digitais de alta qualidade para posterior comercialização na forma de token não-fungível 
+(NFT’S) 
+ 
+D4Sign 29382dd3-08de-40d9-81ﬀ-ce8c4ﬀ7056b - Para conﬁrmar as assinaturas acesse https://secure.d4sign.com.br/veriﬁcar
+Documento assinado eletronicamente, conforme MP 2.200-2/01, Art. 10º, §2.
+Considerando que LUMX é empresa especializada no desenvolvimento de programas de 
+computador sob encomenda, reprodução de software, consultoria em tecnologia da 
+informação, dentre outras atividades correlatas;  
+ 
+Considerando que VEX e LUMX em conjunto, poderão ser denominadas no presente 
+acordo como CONTRATADAS. 
+ 
+Considerando que Biobots é uma startup de criação, produção e desenvolvimento de 
+produtos digitais, que aposta na tendência de metaverso, NFTs e avatares no Brasil. Com 
+sede no Brasil, a companhia oferece estratégia completa de gestão da vida digital dessas 
+personalidades virtuais, com animação, consultoria comercial, conteúdo digital e 
+gerenciamento de redes dessas personalidades. A empresa foi a responsável pela criação 
+da Sakito, influenciadora virtual da Sabrina Sato. 
+ 
+Considerando que SATO é empresa nacional especializada em  agenciamento artístico, 
+detentora dos direitos que permeiam a avatar Satiko, representação digital da influenciadora 
+Sabrina Sato.  
+ 
+Considerando que as empresas buscam se unir em parceria comercial para desenvolver e 
+lançar o projeto Carnaval 20 anos da Sabrina, que consistirá na produção de peças digitais, 
+tokenização de ativos, desenvolvimento de dcommerce para a venda dos NFTs.  
+ 
+Considerando que as Partes estão negociando em boa-fé um Contrato específico para 
+reger a presente relação comercial. 
+ 
+Resolvem as Partes, de comum acordo, celebrar o presente Memorandum of Understanding 
+(“MOU” ou “Acordo”), que será regido conforme os termos e condições abaixo: 
+ 
+1. 
+OBJETO 
+ 
+1.1. 
+O presente MOU tem por objeto regular e organizar o acordo inicial entre as Partes 
+para que o projeto Carnaval 20 anos da Sabrina possa ser iniciado com segurança 
+e boa-fé comercial. 
+ 
+1.2. 
+As Partes compreendem e acordam que farão o possível para que o Contrato que 
+regerá a presente relação seja assinado com brevidade.  
+ 
+2. 
+DAS OBRIGAÇÕES: 
+ 
+D4Sign 29382dd3-08de-40d9-81ﬀ-ce8c4ﬀ7056b - Para conﬁrmar as assinaturas acesse https://secure.d4sign.com.br/veriﬁcar
+Documento assinado eletronicamente, conforme MP 2.200-2/01, Art. 10º, §2.
+2.1. 
+Para o presente projeto, serão obrigações iniciais da VEX:  
+ 
+● 
+Reprodução fiel de três fantasias utilizadas pela Sabrina Sato nos carnavais 
+anteriores;  
+● 
+Modelagem, escultura, texturização e otimização de fantasias enviadas pela 
+BIOBOTS; 
+● 
+Envio de arquivo 3D final sem renderização; 
+● 
+Aplicação do arquivo 3D no avatar Satiko, sem renderização. 
+ 
+2.2. 
+Para o presente projeto, serão obrigações iniciais da LUMX:  
+ 
+● Criação de dcommerce com o Lumx Protocol; 
+● Utilização do Lumx Protocol para integração de formas de pagamento 
+convencionais como PIX e Cartão de crédito; 
+● Organização de mercado primário e secundário com possibilidades para 
+leilão e bid; 
+● Produção e integração dos smart contracts dos NFTs para o acesso aos 
+benefícios; 
+● Desligamento do dcommerce após um mês e meio do lançamento; 
+● Gerenciamento e entrega dos benefícios aos holders dos NFTs.  
+ 
+2.2.1. 
+Fica acordado que a Blockchain utilizada para o presente projeto será a 
+Polygon.  
+ 
+2.2.2. 
+Conforme acordado pelas partes os benefícios que serão inseridos no 
+projeto e consequentemente entregues aos holders serão: 
+ 
+● Nível 1: Serão apenas 5 NFTs com os benefícios (i) Acesso ao Bloco da 
+Sabrina diretamente do Trio (Todos), (ii) Press Kit com produtos de marcas 
+que apoiam a artista (Todos), (iii) 1 Acesso ao Baile da Vogue c/ 
+acompanhante (via sorteio), (iv) 1 Acesso ao camarote N1 c/ acompanhante 
+(via sorteio), (v) 1 Acesso ao Baile do Copa c/ acompanhante (via sorteio), 1 
+(vi) Acesso a área vip de convidados da Feijoada da Sabrina em SP c/ 
+acompanhante (via sorteio), (vii) 1 Acesso ao ensaio técnico da Gaviões (via 
+sorteio), a serem sorteados entre os holders destes NFTs.  
+ 
+● Nível 2: Serão 100 NFTs com os benefícios (i) Descontos exclusivos em 
+produtos de marcas parceiras da Sabrina, (ii) Live via zoom com a Sabrina 
+para bater um papo com sua comunidade, (iii) Resgate de um item físico com 
+estampa exclusiva desenvolvida por ela simbolizando 20 anos de carreira 
+(casaco ou blusa) a serem entregues aos holdes destes NFTs. 
+ 
+● Nível 3: Freemint de 20 NFTs aos patrocinadores da Sabrina Sato com os 
+benefícios: (i) Press Kit mais de 20 ítens exclusivos e marcas parceiras. (ii) 
+D4Sign 29382dd3-08de-40d9-81ﬀ-ce8c4ﬀ7056b - Para conﬁrmar as assinaturas acesse https://secure.d4sign.com.br/veriﬁcar
+Documento assinado eletronicamente, conforme MP 2.200-2/01, Art. 10º, §2.
+Camisa Exclusiva Sabrina Carnaval. (iii) O certificado Greener de emissão de 
+CO2 
+ 
+ 
+2.2.3. 
+As partes acordam que os benefícios acima descritos, ainda estão sendo 
+definidos pelas partes e podem sofrer alterações até que o Contrato 
+efetivo seja assinado.  
+ 
+2.3. 
+Para o presente projeto, serão obrigações iniciais da BIOBOTS: 
+ 
+● Realizar a renderização do arquivo enviado pela VEX; 
+● Intermediar a relação entre as empresas do projeto; 
+● Ações necessárias para o lançamento do projeto com relação ao avatar 
+Satiko; 
+● Elaborar estratégias de marketing para a divulgação do projeto e das ações 
+necessárias para o lançamento e movimentação da comunidade. 
+ 
+2.4. 
+Para o presente projeto, serão obrigações iniciais da SATO: 
+ 
+● Apresentar todas as informações necessárias para a execução do projeto; 
+● Realizar os pagamentos do projeto nas formas previstas neste Acordo;  
+● Garantir que possui todos as autorizações necessárias para a reprodução 
+das fantasias utilizadas no projeto; 
+● Elaborar estratégia de marketing para a divulgação do projeto e das ações 
+necessárias para o lançamento e movimentação da comunidade; 
+● Coordenação geral do projeto incluindo a responsabilidade de todas as 
+aprovações. 
+ 
+ 
+3. 
+DO PAGAMENTO 
+ 
+3.1. 
+Fica convencionado entre as Partes que para o presente projeto, os valores abaixo 
+serão devidos pela CONTRATANTE às CONTRATADAS:  
+ 
+3.1.1. 
+Será devido o montante de R$9.000,00 (nove mil reais) para a VEX 
+pela execução de seus serviços, os quais serão pagos em duas 
+parcelas de R$4.500,00 (quatro mil e quinhentos reais), sendo uma 
+delas no momento da assinatura deste Acordo e a segunda quando 
+da entrega das peças. 
+ 
+3.1.2. 
+Serão devidos para a LUMX os seguintes valores: 
+ 
+● Upfront: R$10.000 quando da assinatura do presente Acordo; 
+● Mensalidade: R$6.000, os quais devem ser pagos até o quinto dia útil do mês 
+D4Sign 29382dd3-08de-40d9-81ﬀ-ce8c4ﬀ7056b - Para conﬁrmar as assinaturas acesse https://secure.d4sign.com.br/veriﬁcar
+Documento assinado eletronicamente, conforme MP 2.200-2/01, Art. 10º, §2.
+em que a plataforma irá operar. 
+● Repasse de 2% (dois por cento)   
+● Preço mensal por Wallet:   
+○ 
+até 10.000  - bonificado 
+○ 
+entre 10.000 e 50.000 wallets - R$0.66 (por usuário extra) 
+○ 
+entre 50.001 e 100.000 wallets - R$0.50 (por usuário extra) 
+○ 
+entre 100.001 e 250.000 wallets - R$0.41 (por usuário extra) 
+ 
+3.2. O pagamento do Preço deverá ser feito pela CONTRATANTE mediante depósito 
+bancário diretamente nas contas bancárias de titularidade das CONTRATADAS 
+indicadas oportunamente, servindo o comprovante bancário como recibo. 
+ 
+3.3. 
+As notas fiscais relativas aos Serviços prestados serão encaminhadas à 
+CONTRATANTE com no mínimo 5 (cinco) dias úteis até seu vencimento. Caso 
+seja constatado algum erro nas notas fiscais, serão as mesmas devolvidas e os 
+respectivos pagamentos serão sustados até sua efetiva correção, sem que isso 
+implique em qualquer reajuste ou multa à CONTRATANTE se o pagamento, em 
+virtude do erro constatado, ocorrer após a data de seu vencimento. 
+ 
+3.4. 
+Na hipótese de atraso no pagamento por culpa exclusiva da Contratante, será 
+devida multa moratória equivalente a 2% (dois por cento), acrescida de correção 
+monetária com base na variação do IPCA/IBGE e juros de 1% (um por cento) ao 
+mês, sobre o valor em atraso.  
+ 
+4. 
+VIGÊNCIA 
+ 
+4.1. Levando-se em consideração o objeto do presente Acordo, sua vigência se iniciará 
+com sua assinatura e se encerrará, automaticamente e sem a necessidade de 
+quaisquer distratos, com a assinatura do Contrato pelas Partes. 
+ 
+5. 
+PROPRIEDADE INTELECTUAL 
+ 
+5.1. 
+O presente Acordo não significa nenhum tipo de cessão, transferência, licença ou 
+autorização de uso dos ativos intangíveis (Propriedade Intelectual) como marcas, 
+patentes, desenhos industriais, direitos autorais e quaisquer outros ativos 
+intangíveis que venham a ser protegidos por lei, estando estes registrados ou não, 
+sob todas as possíveis formas, de uma Parte à outra, permanecendo os ativos 
+intangíveis na plena titularidade de quem os detenha inicialmente. 
+ 
+5.2. 
+Estão autorizadas as Contratadas a utilizar a imagem, voz e nome da avatar Satiko 
+para mídias e divulgação do projeto em suas redes sociais e de acordo com o 
+projeto de mídias formulado pela junção de suas equipes de comunicação com as 
+da Contratante.   
+ 
+D4Sign 29382dd3-08de-40d9-81ﬀ-ce8c4ﬀ7056b - Para conﬁrmar as assinaturas acesse https://secure.d4sign.com.br/veriﬁcar
+Documento assinado eletronicamente, conforme MP 2.200-2/01, Art. 10º, §2.
+5.3. As demais disposições sobre o presente tema estarão dispostas no Contrato a ser 
+assinado.  
+ 
+6. 
+CONFIDENCIALIDADE 
+ 
+6.1. 
+Compreende-se, na definição de "Informações Confidenciais", qualquer dado, 
+metodologia, documentação e informação, quer sejam de natureza técnica, 
+administrativa, comercial, jurídica, estratégica, ou ainda de natureza diversa, 
+incluindo, sem limitação, as referências, condições comerciais, questões de ordem 
+interna e/ou externa da Contratante, aspectos societários, econômicos, de 
+execução de trabalhos, de posição mercadológica, de estrutura organizacional e/ou 
+demais informações que forem reveladas a qualquer momento pela Contratante, de 
+forma que serão tratadas em caráter de mais absoluto sigilo e confidencialidade, 
+abstendo-se a Contratada de promover a terceiros qualquer divulgação e/ou uso 
+dessas informações, por menores que sejam, obrigando-se a não ceder, transferir, 
+divulgar, fornecer, emprestar e/ou veicular, por quaisquer meios, todo o conteúdo 
+que lhe seja disponibilizado.  
+6.2. 
+A divulgação das Informações Confidenciais só é permitida mediante autorização 
+expressa ou por determinação judicial, ocasião em que a Parte notificada deverá 
+comunicar a outra Parte em até 24 (vinte e quatro) horas após a ciência. 
+ 
+6.3. 
+A divulgação de Informações Confidenciais somente será permitida quando: 
+ 
+● a Parte comprovar que a informação já era do seu conhecimento, antes de ser 
+recebida da outra Parte, não tendo por isso a obrigatoriedade de mantê-la 
+confidencial; 
+ 
+● a informação tiver sido legalmente obtida por terceiros, sem infringência de 
+qualquer das disposições deste Contrato; ou 
+ 
+● a informação estiver ou tenha se tornado publicamente disponível de outra 
+forma, que não em decorrência de qualquer ato ou omissão das Partes ou seus 
+prepostos. 
+ 
+6.4. 
+O dever de confidencialidade ora assumido pelas Partes vigorará por todo o Prazo 
+e, ainda, pelo prazo de 5 (cinco) anos, após o término deste Acordo e de seu 
+posterior Contrato. 
+ 
+7. 
+MULTA E RESCISÃO 
+ 
+7.1. A Parte que descumprir qualquer das obrigações previstas neste Contrato está 
+sujeita ao pagamento, em favor das Partes inocentes, de multa no valor 
+equivalente a 20% (vinte por cento) do valor total do Acordo, sem prejuízo de se 
+sujeitar ao ajuizamento de ação própria para apuração das perdas e danos 
+D4Sign 29382dd3-08de-40d9-81ﬀ-ce8c4ﬀ7056b - Para conﬁrmar as assinaturas acesse https://secure.d4sign.com.br/veriﬁcar
+Documento assinado eletronicamente, conforme MP 2.200-2/01, Art. 10º, §2.
+incorridos, caso em que ficam desde já fixados os honorários de advogado em 20% 
+(vinte por cento) do valor apurado em liquidação de sentença.  
+ 
+7.2. 
+No que tange à rescisão do presente Acordo, esta poderá ser realizada pela 
+CONTRATANTE com aviso prévio de 15 dias, devendo ser pagos às 
+CONTRATADAS todos os valores referentes aos serviços já executados até o 
+encerramento, os quais serão devidamente informados no momento da rescisão. 
+ 
+7.3. 
+Caso a CONTRATANTE opte por encerrar o Acordo sem cumprir com o prazo 
+acima previsto, está estará sujeita, além do pagamento dos valores devidos, à 
+multa da Cláusula 7.1.  
+ 
+8. 
+DISPOSIÇÕES GERAIS 
+ 
+8.1. 
+As Partes se comprometem a assinar com a maior brevidade possível o Contrato 
+que regerá de forma completa e final a relação entre estas, visando a execução e 
+lançamento do projeto.  
+8.2. 
+As Partes entendem que o presente Acordo é assinado em boa-fé comercial 
+apenas para que o projeto possa ser iniciado, de forma que é imprescindível a 
+assinatura do Contrato para que o projeto continue. 
+ 
+8.3. 
+Até que o Contrato seja assinado, o presente Acordo vigorará, sendo considerado 
+como o inteiro entendimento entre as Partes em relação ao seu objeto, substituindo 
+todos os entendimentos anteriores entre elas, inclusive comunicações e acordos 
+verbais. 
+ 
+8.4. As Partes são independentes e nenhuma disposição no presente Acordo deverá ser 
+interpretada no sentido de sugerir a existência de uma joint venture, ou qualquer 
+tipo de participação societária, relação de emprego ou sociedade entre as Partes 
+ou em nome destas. 
+ 
+8.5. A eventual tolerância, por qualquer das Partes, quanto ao inexato ou impontual 
+cumprimento das obrigações da outra Parte não constitui renúncia ou novação de 
+qualquer espécie, equivalendo tão somente à decisão de mera conveniência da 
+Parte em questão. 
+ 
+8.6. Os signatários abaixo identificados declaram não existir em vigor nenhum contrato, 
+obrigação, gravame ou ônus que impeça o cumprimento das obrigações assumidas 
+neste Contrato 
+ 
+8.7. Todas as obrigações assumidas neste Acordo possuem caráter irrevogável e 
+irretratável, sendo que as Partes se obrigam por si e seus sucessores a cumprir, 
+sem restrições, todos os termos e condições do presente Acordo. 
+ 
+D4Sign 29382dd3-08de-40d9-81ﬀ-ce8c4ﬀ7056b - Para conﬁrmar as assinaturas acesse https://secure.d4sign.com.br/veriﬁcar
+Documento assinado eletronicamente, conforme MP 2.200-2/01, Art. 10º, §2.
+8.8. A invalidade ou inaplicabilidade de quaisquer das Cláusulas e condições ora 
+estabelecidas não afetará as demais disposições deste Acordo. 
+ 
+8.9. Sem prejuízo das obrigações ora estabelecidas e na legislação pertinente, cada 
+Parte declara e garante: não realizar, direta ou indiretamente, qualquer pagamento, 
+donativo ou concessão a (i) funcionário público, (ii) administrador, funcionário ou 
+fornecedor da outra Parte, ou (iii) qualquer terceiro, que possa constituir uma 
+violação à legislação aplicável. 
+ 
+8.10. As Partes reconhecem a forma de contratação por meios eletrônicos como válida e 
+eficaz, mesmo que feita com assinatura eletrônica ou certificação fora dos padrões 
+ICP-Brasil, nos termos do art. 10, §2º, da Medida Provisória nº 2.200/2001. 
+ 
+9. 
+LEGISLAÇÃO E FORO 
+ 
+9.1. 
+As Partes se comprometem a envidar seus melhores esforços para resolverem 
+eventuais conflitos oriundos deste Acordo de forma amigável e extrajudicialmente 
+antes de submeterem a questão ao judiciário. Na impossibilidade de resolução 
+amigável de conflitos, as Partes elegem o Foro Central da Capital do Estado do Rio 
+de Janeiro, com renúncia expressa a qualquer outro, por mais privilegiado que seja 
+ou venha ser, para dirimir as questões oriundas do presente instrumento. 
+ 
+9.2. 
+O presente Contrato é regido pelas leis da República Federativa do Brasil. 
+ 
+E, por estarem assim justas e contratadas, as Partes assinam o presente instrumento, na 
+presença de 2 (duas) testemunhas que também o subscrevem.  
+ 
+Rio de Janeiro, 11 de janeiro de 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________ 
+VEX 
+_______________________________ 
+LUMX  
+ 
+ 
+ 
+_______________________________ 
+BIOBOTS 
+ 
+ 
+_______________________________ 
+SATO 
+ 
+ 
+ 
+ 
+D4Sign 29382dd3-08de-40d9-81ﬀ-ce8c4ﬀ7056b - Para conﬁrmar as assinaturas acesse https://secure.d4sign.com.br/veriﬁcar
+Documento assinado eletronicamente, conforme MP 2.200-2/01, Art. 10º, §2.
+ 
+Testemunhas: 
+ 
+ 
+ 
+ 
+1._______________________________ 
+Nome: Lorenza Negrão Sabatini da Mata 
+CPF/ME: 457.086.958-03 
+2._______________________________ 
+Nome: Caio Diniz Bretas 
+CPF/ME: 150.712.927-00 
+ 
+ 
+ 
+D4Sign 29382dd3-08de-40d9-81ﬀ-ce8c4ﬀ7056b - Para conﬁrmar as assinaturas acesse https://secure.d4sign.com.br/veriﬁcar
+Documento assinado eletronicamente, conforme MP 2.200-2/01, Art. 10º, §2.
+11 páginas - Datas e horários baseados em Brasília, Brasil
+Sincronizado com o NTP.br e Observatório Nacional (ON)
+Certiﬁcado de assinaturas gerado em 20 de January de 2023, 12:19:56
+MOU pdf
+Código do documento 29382dd3-08de-40d9-81ﬀ-ce8c4ﬀ7056b
+Assinaturas
+Karin sato rahal
+karin@satorahal.com.br
+Assinou
+Roberta Junqueira Moura
+roberta.junqueira@biobots.tec.br
+Assinou
+Bianca Torquato Dias
+bianca@vexauthentics.com
+Assinou
+Lorenza Sabatini
+lorenza@vexauthentics.com
+Assinou
+Michel Goldberg
+michel@lumxstudios.com
+Assinou
+Caio Diniz Bretas
+caio.bretas@lumxstudios.com
+Assinou
+Eventos do documento
+17 Jan 2023, 14:15:35
+Documento 29382dd3-08de-40d9-81ﬀ-ce8c4ﬀ7056b criado por SARAH ALVES DA SILVEIRA ROMERO
+(ecc38233-4cab-4a4a-8c76-30969af22593). Email:sarah@contabilasr.com.br. - DATE_ATOM:
+2023-01-17T14:15:35-03:00
+17 Jan 2023, 14:48:19
+Assinaturas iniciadas por SARAH ALVES DA SILVEIRA ROMERO (ecc38233-4cab-4a4a-8c76-30969af22593). Email:
+sarah@contabilasr.com.br. - DATE_ATOM: 2023-01-17T14:48:19-03:00
+17 Jan 2023, 15:06:38
+CAIO DINIZ BRETAS Assinou - Email: caio.bretas@lumxstudios.com - IP: 201.17.85.82 (c9115552.virtua.com.br
+porta: 45890) - Documento de identiﬁcação informado: 150.712.927-00 - DATE_ATOM: 2023-01-17T15:06:38-03:00
+17 Jan 2023, 17:17:10
+11 páginas - Datas e horários baseados em Brasília, Brasil
+Sincronizado com o NTP.br e Observatório Nacional (ON)
+Certiﬁcado de assinaturas gerado em 20 de January de 2023, 12:19:56
+BIANCA TORQUATO DIAS Assinou - Email: bianca@vexauthentics.com - IP: 186.214.54.244
+(186.214.54.244.static.host.gvt.net.br porta: 15534) - Geolocalização: -23.02130273803382 -43.46410751639658
+- Documento de identiﬁcação informado: 163.227.337-37 - DATE_ATOM: 2023-01-17T17:17:10-03:00
+19 Jan 2023, 10:13:40
+LORENZA SABATINI Assinou - Email: lorenza@vexauthentics.com - IP: 179.154.108.47 (b39a6c2f.virtua.com.br
+porta: 13756) - Documento de identiﬁcação informado: 457.086.958-03 - DATE_ATOM: 2023-01-19T10:13:40-03:00
+19 Jan 2023, 12:46:06
+ROBERTA JUNQUEIRA MOURA Assinou (79b94235-eabd-4aa7-bc72-8573d5b27a23) - Email:
+roberta.junqueira@biobots.tec.br - IP: 168.205.203.2 (168.205.203.2 porta: 25892) - Documento de identiﬁcação
+informado: 255.163.128-92 - DATE_ATOM: 2023-01-19T12:46:06-03:00
+19 Jan 2023, 15:22:09
+KARIN SATO RAHAL Assinou (6aae6de8-9614-4b12-afd4-8b071fceab73) - Email: karin@satorahal.com.br - IP:
+152.249.57.202 (152-249-57-202.user.vivozap.com.br porta: 12130) - Geolocalização: -23.56261295652298
+-46.6667268677565 - Documento de identiﬁcação informado: 309.488.418-00 - DATE_ATOM:
+2023-01-19T15:22:09-03:00
+20 Jan 2023, 10:09:02
+MICHEL GOLDBERG Assinou - Email: michel@lumxstudios.com - IP: 187.90.216.155
+(ip-187-90-216-155.user.vivozap.com.br porta: 9270) - Geolocalização: -23.585562370710417
+-46.676229240007686 - Documento de identiﬁcação informado: 160.306.787-60 - DATE_ATOM:
+2023-01-20T10:09:02-03:00
+Hash do documento original
+(SHA256):0845d254fcd011bb81b0cb86f722c31ad3fc26df14c5fee9375f863f0671d85a
+(SHA512):fd13a9105ba751e1274c5093ae337fac90bf32d6751fb8274539b89391103780c3bc021fab5d73f9af2f949ﬀea4ca0d8358dc0538076ac47c0916405edf78a3
+Esse log pertence única e exclusivamente aos documentos de HASH acima
+Esse documento está assinado e certiﬁcado pela D4Sign

@@ -1,0 +1,224 @@
+CONTRATO DE CONFIDENCIALIDADE E DE SIGILO 
+ 
+Pelo presente Contrato de Confidencialidade e de Sigilo de Informações e na melhor forma de 
+direito, de um lado, (doravante denominada simplesmente “EMPRESA”) pessoa jurídica sediada 
+em 
+..........................................................., 
+inscrita 
+no 
+CNPJ 
+sob 
+o 
+n.º  
+........................................................... e de outro lado,  CAPGEMINI BRASIL S.A. 
+(doravante denominada simplesmente “CAPGEMINI”), sociedade anônima devidamente 
+constituída sob a legislação brasileira, com sede na Alameda Araguaia, 1930 – Alphaville, CEP 
+06455-000– Barueri / SP, Brasil, inscrita no  CNPJ/MF sob o n.º 65.599.953/0001-63, sendo que 
+a “EMPRESA” e a “CAPGEMINI” serão doravante mencionados algumas vezes individualmente 
+como uma “Parte“ e conjuntamente como as “Partes“.  
+ 
+INTRODUÇÃO 
+ 
+A. As Partes possuem Informações Confidenciais conforme definido na Cláusula 1, abaixo. 
+ 
+B. Para que cada Parte possa avaliar seu interesse em participar em um futuro relacionamento 
+empresarial, torna-se necessário que as Partes revelem uma à outra, certas Informações 
+Confidenciais.  
+ 
+C. As Partes desejam assim revelar e receber tais informações de acordo com os termos e 
+condições deste Contrato. 
+ 
+Assim, visando regular e proteger a troca de Informações Confidenciais entre as partes, 
+resolvem elas assinar o presente Contrato, mediantes as cláusulas e condições a seguir 
+estabelecidas: 
+ 
+ 
+1. ”Informações Confidenciais”, nos termos deste contrato, representam as informações 
+confidenciais que são de propriedade ou controladas por uma Parte, incluindo, sem limitações, 
+(a) o software das partes, em forma de fonte ou de objeto, e quaisquer tecnologias, idéias, 
+algoritmos relacionados ou informações contidas com respeito a eles, incluindo, sem limitações, 
+quaisquer segredos empresariais relacionados a qualquer um dos itens precedentes; (b) Planos 
+de produtos de uma das Partes, seus projetos, custos, preços e nomes; informações financeiras 
+não publicadas na mídia, planos de marketing, oportunidades de negócios, recursos humanos, 
+pesquisa, desenvolvimento ou know-how; (c) qualquer informação que deva, por boa razão, ser 
+reconhecida pela Parte Receptora como sendo confidencial ou de propriedade privada; ou (d) 
+qualquer informação designada ou assinalada pela Parte emissora por escrito, como sendo 
+confidencial, ou de forma verbal, quando de sua emissão, porém devidamente confirmada por 
+escrito à Parte Receptora dentro de 10 (dez) dias após sua emissão. 
+ 
+2. As partes declaram que possuem direito de revelar suas Informações Confidenciais, uma à 
+outra, sem conflitos ou violações de direitos de terceiros. 
+ 
+3. As Informações Confidenciais reveladas a uma Parte receptora deverão ser guardadas em 
+segredo pela Parte receptora, não devendo ser reveladas a terceiros ou utilizadas para fins 
+diversos dos definidos acima, sem a devida autorização da Parte emissora.  
+ 
+4. As obrigações e deveres especificados pela cláusula 3 deste instrumento não se aplicam às 
+informações que: 
+ 
+(a) Sejam de domínio público, ou estejam disponíveis para o público de maneira geral antes 
+de serem recebidas pela Parte receptora da Parte emissora, ou que venham 
+posteriormente a tornarem-se de domínio público ou disponíveis de maneira geral para o 
+público, antes de qualquer ação violadora da Parte receptora ou de um empregado ou 
+agente da Parte receptora;  
+ 
+DocuSign Envelope ID: 2CAB80E0-1851-42D4-8FAF-2AB7D5205859
+DocuSign Envelope ID: 6312CE26-B44C-4A03-93BC-868108CDDECE
+Rua Voluntários da Patria, 89, Sala 804
+42.887.120/0001-00
+(b) Estejam de posse da Parte receptora, sem quebra de quaisquer obrigações aqui 
+discriminadas perante a Parte emissora, antes do seu recebimento da Parte emissora; 
+ 
+(c) Sejam recebidas pela Parte receptora posteriormente através de terceiros, exceto se a 
+Parte receptora tiver conhecimento ou tenha razões para tornar-se ciente de uma 
+obrigação estabelecida entre terceiros e a Parte emissora, para manter segredo com 
+respeito a tais informações;  
+ 
+(d) Sejam desenvolvidas pela Parte receptora, independentemente das informações recebidas 
+da Parte emissora; 
+ 
+(e) Tenham sido previamente emitidas pela Parte emissora a terceiros sem obrigação de 
+manter segredo. 
+ 
+5. Não obstante o disposto na cláusula 3 deste instrumento, as Informações Confidenciais 
+poderão ser reveladas por uma Parte receptora: 
+ 
+(a) 
+Para aqueles empregados, agentes e consultores que necessitem do conhecimento 
+dessas informações relacionadas com suas funções profissionais, na forma e 
+condições deste instrumento, e que estejam obrigados a guardar tais Informações 
+Confidenciais em confiança, restringindo sua utilização em concordância com as 
+obrigações da Parte receptora conforme os termos deste Contrato; 
+ 
+(b) 
+Na forma da lei, mediante solicitação judicial ou em processo administrativo, contanto 
+que a Parte receptora notifique a Parte emissora antes de tal revelação de modo a 
+permitir que a Parte emissora apresente objeções ou procure amparo legal para 
+impedir ou limitar o âmbito de tal revelação; 
+ 
+6. Mediante solicitação por escrito emitida pela Parte que transmitiu Informações Confidenciais 
+à Parte receptora, a Parte receptora deverá prontamente restituir todas as Informações 
+Confidenciais, bem como destruir quaisquer anotações, memorandos ou outros documentos 
+referentes às Informações Confidenciais, e fornecer uma declaração à Parte Reveladora, 
+assinada por seu representante legal, certificando ao mesmo que tais documentos foram 
+destruídos. 
+ 
+7. Este Contrato não deverá ser interpretado como sendo uma garantia de fornecimento a 
+qualquer uma das Partes de qualquer patente, licenciamento de know-how, propriedade 
+intelectual ou qualquer outro direito. 
+ 
+8. Este Contrato entrará em vigor na data de sua assinatura e vigerá por um prazo de 02 (dois) 
+anos, podendo ser rescindido a qualquer momento, por qualquer das partes, mediante 
+notificação escrita à outra parte, com antecedência mínima de 30 (trinta) dias. Não obstante, as 
+obrigações de confidencialidade e sigilo, previstas pela cláusula 3 supra, permanecerão em 
+vigor pelo prazo de 2 (dois) anos após a rescisão ou término deste contrato. 
+ 
+9. Pelo presente, nenhuma das partes apresenta qualquer garantia, expressa ou implícita, com 
+respeito às informações fornecidas, aqui discriminadas, especialmente quanto a sua precisão, 
+performance e totalidade. A Parte Reveladora não assume, ainda, qualquer responsabilidade 
+perante a Receptora ou qualquer outra pessoa pelo resultado do uso das Informações 
+Confidenciais. 
+ 
+10. As Partes não poderão ceder ou de qualquer forma transferir os direitos e obrigações 
+decorrentes do presente contrato sem a prévia autorização, por escrito, da outra Parte. 
+ 
+11. A tolerância, por uma das partes, no que tange ao descumprimento, pela outra parte, de 
+qualquer obrigação inserida neste Contrato, em especial, mas não se limitando a não aplicação 
+de penalidades, não caracterizará novação, renúncia, precedente ou alteração do pacto. 
+ 
+DocuSign Envelope ID: 2CAB80E0-1851-42D4-8FAF-2AB7D5205859
+DocuSign Envelope ID: 6312CE26-B44C-4A03-93BC-868108CDDECE
+12. Este contrato não cria qualquer tipo de joint-venture, franquia, associação, filial ou relação 
+de emprego entre as partes. Nenhuma das partes deverá agir de modo a sugerir, implícita ou 
+expressamente, que existe qualquer outro tipo de relação entre elas senão aquela mútua a 
+independentemente estabelecida entre elas por força contratual. 
+ 
+13. Este Contrato será regido pelas leis brasileiras. 
+ 
+14. As Partes elegem o Foro Central da Comarca de São Paulo, Estado de São Paulo, para 
+dirimir quaisquer dúvidas e/ou questões oriundas do presente instrumento, renunciando a 
+qualquer outro por mais privilegiado que seja. 
+ 
+15. Este Contrato expressa o entendimento amplo e completo de ambas as Partes com respeito 
+ao tema deste instrumento, substituindo todas as representações e entendimentos anteriores, 
+tanto verbais quanto por escritos.  Nenhuma modificação poderá ser feita neste Contrato, 
+exceto por meio de aditamento por escrito, por mútuo acordo de ambas as Partes.  
+ 
+E por estarem justas e acordadas, celebram as partes o presente Contrato, em duas vias de 
+igual teor e forma, na presença das testemunhas abaixo.  
+ 
+São Paulo, ../../.... 
+ 
+ 
+Pela CAPGEMINI BRASIL S/A: 
+ 
+ 
+ 
+____________________________________ 
+Nome:   
+ 
+ 
+ 
+  
+Cargo:   
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+Pela ...........................................................: 
+ 
+ 
+ 
+____________________________________ 
+Nome:   
+ 
+ 
+ 
+  
+Cargo:   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Testemunhas: 
+ 
+ 
+_________________________________  
+ 
+________________________________ 
+Nome:  
+ 
+ 
+ 
+ 
+ 
+Nome: 
+RG: 
+ 
+ 
+ 
+ 
+ 
+ 
+RG: 
+DocuSign Envelope ID: 2CAB80E0-1851-42D4-8FAF-2AB7D5205859
+Deise Regina Gallo da Silva
+Gerente de Contabilidade, Fiscal e Folha de Pagamento
+Victor Luiz Ikeda Collino
+Gerente de Compras
+Rebecca B. M. Boyadjian
+50445687-8
+DocuSign Envelope ID: 6312CE26-B44C-4A03-93BC-868108CDDECE
+LUMX STUDIOS LTDA
+Caio Barbosa Zacarias
+Co-CEO
+267842763
+Michel Ruthenberg Goldberg

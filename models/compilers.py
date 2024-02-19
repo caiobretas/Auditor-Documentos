@@ -102,14 +102,14 @@ class DateCompiler:
                 continue
 
             if len(found_dates) > 1:
-                return None, 'more than one date'
+                return found_dates, 'more than one date'
 
             comp_date = found_dates[0]
 
             try:
 
                 if not len(comp_date) == 3:  # Formato DD/MM/YYYY e DD/mês/YYYY
-                    return None, 'unknown date format'
+                    return comp_date, 'unknown date format'
 
                 day, month, year = comp_date
 

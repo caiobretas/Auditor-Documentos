@@ -1,0 +1,196 @@
+Mutual Non Disclosure and 
+Non-Circumvention 
+Agreement (MNDA-NC)
+Prepared by:
+Victor Silveira
+Business Development Manager
+Laava ID (Aust) Pty Ltd ('Laava')
+Prepared for:
+Michel Goldberg 
+CFO
+Lumx Studios Ltda. ('Company')
+Copyright Laava ID Pty Ltd 2021                                                                                                                                            Strictly Commercial-in-Confidence
+Document Ref: RE3XD-R7E2G-Q7TJP-UQWOD
+Page 1 of 7
+Copyright Laava ID Pty Ltd 2021                                                                                                                                              Strictly Commercial-in-Confidence
+Mutual Non-Disclosure and Non-Circumvention Agreement
+Duly made and executed (the “Agreement”) by and between Laava ID (Aust) Pty Ltd ('Laava'), 
+including its subsidiaries, affiliates and parent company(s), with its principle place of business 
+located at Suite 503, Level 5, 147 King Street, Sydney NSW 2000, Australia, and Michel Goldberg 
+of Lumx Studios Ltda. including its subsidiaries, affiliates and parent company(s), with its 
+principal place of business located at Rua Voluntários da Pátria, nº 89, sala. 804, Ed. Empresarial 
+Estação Botafogo, Rio de Janeiro Rio de Janeiro 22270-000, Brazil.
+WHEREAS the parties hereto desire to exchange certain Confidential Information (hereinafter referred 
+to as the "Confidential Information") solely for the purpose of evaluating whether to enter into a business 
+agreement (the “Permitted Use”), and wish to ensure that proper mechanisms are in place for the use 
+and protection thereof; 
+Now, therefore, the parties agree as follows:
+1.  CONFIDENTIAL INFORMATION
+As used in this Agreement, "Confidential Information" shall mean any information disclosed by either 
+party to the other party, directly or indirectly, in writing, orally, or by inspection of  tangible objects 
+(including documents, prototypes, samples, plant, and equipment), which by its nature or the 
+circumstances of its disclosure should be reasonably  construed as being confidential, including, but not 
+be limited to any and all scientific, commercial and technical data or statistical information, as well as 
+any information concerning the current or proposed business of the  disclosing party including, without 
+limitation, trade secrets and trade marks, information regarding the operations, future plans, projected 
+sales, marketing, economical and financial information, costs, production, growth and distribution, 
+technical information, consultants, management,  employees and other related parties, patents, 
+intellectual property and information relating to the products and/or services, whether patentable, or able 
+to be copyrighted, or not, and all products and technology in research and development by the 
+disclosing party, received directly or indirectly, by the receiving party from the disclosing party verbally or 
+in all documents, writings, charts, drawings, computer generated data and any other form of data, no 
+matter how acquired, deduced or delivered.
+   
+Notes, correspondence, analyses, documents, or other written or computer generated records 
+containing Confidential Information shall also be considered  as Confidential Information for the 
+purposes of this Agreement. 
+For the avoidance of doubt, the term Confidential Information shall not include:
+I. 
+specific information which is in, or enters into, the public domain other than by reason of a breach 
+of this Agreement; 
+II. is already in the possession of the receiving party at the time  of disclosure by the disclosing 
+party, as demonstrated by documentary evidence;  
+Page 2 of 7
+Document Ref: RE3XD-R7E2G-Q7TJP-UQWOD
+Page 2 of 7
+Copyright Laava ID Pty Ltd 2021                                                                                                                                              Strictly Commercial-in-Confidence
+III. is obtained by the receiving party from a third party without a breach of such third party’s 
+obligations of confidentiality; or 
+IV. is independently developed by the receiving party without use of or reference to the disclosing 
+ party’s Confidential Information, as demonstrated by documentary evidence.
+2.  OBLIGATION OF CONFIDENTIALITY
+  Each party undertakes in relation to the Confidential Information of the other party, as follows:   
+I. 
+To treat Confidential Information as strictly confidential;
+II. Not to disclose any part of the Confidential Information to any third party;
+III. Not to use any Confidential Information for any purpose (including  any technical or commercial 
+purpose) other than for the Permitted Use.
+Each party shall not disclose any part of the other party's Confidential Information to any third parties or 
+to such party’s employees or professional advisors, except to those employees or professional advisors 
+of the receiving party who are required to have the information in order to fulfill the Permitted Use.  
+A party may disclose the other party’s Confidential Information if required by law so long as the receiving 
+party gives the disclosing party prompt written notice of such requirement prior to such disclosure and 
+assistance in obtaining an order protecting the information from public disclosure.  
+Neither party will reverse engineer, disassemble, or decompile any prototypes, software, or other 
+tangible objects  that embody the other party’s Confidential Information and that are provided to the 
+party under this Agreement.  Neither party may make any copies of any Confidential Information without 
+the prior written consent of the disclosing party.
+ 
+3. PROPRIETARY INFORMATION
+All rights, title and interest to the Confidential Information shall remain the sole and exclusive property of 
+the disclosing party and its co-inventors.  
+The  disclosing party is not hereby granting or extending to receiving party any  rights of any kind under 
+any patent, copyright, trademark, trade secret or other intellectual property right with respect to the 
+Confidential Information or other disclosing company intellectual property. 
+Upon the earlier of (i) a written request by  the disclosing party; or (ii) the expiration or termination of this 
+Agreement, each party shall promptly return to the other party or destroy all Confidential Information of 
+the other party together with any and all copies or excerpts  thereof and any and all other information 
+directly or indirectly derived therefrom.  
+Each party shall furnish the  other party, together with such returned materials or subsequent to any 
+destruction thereof, a certificate duly executed by an officer of such party, confirming that the provisions 
+of this section have been complied with.  Return or destruction of the Confidential Information as 
+required hereunder shall not affect the remaining obligations  pursuant to this Agreement. 
+4.  NON-CIRCUMVENTION
+Page 3 of 7
+Document Ref: RE3XD-R7E2G-Q7TJP-UQWOD
+Page 3 of 7
+Copyright Laava ID Pty Ltd 2021                                                                                                                                              Strictly Commercial-in-Confidence
+The parties agree that, during the term of this Agreement and thereafter, neither party will - either directly 
+or indirectly - entertain, engage, participate in or allow any activity designed to circumvent the terms of 
+this Agreement or the rights accruing to the parties (during or after Termination of this agreement) by 
+engaging in dealings or conduct the object of which would be to deprive either party of their entitlements 
+under this Agreement or the rights accruing to the parties. 
+5.  NO WARRANTY
+All Confidential Information is provided “as is”.  Each party makes no warranties, express, implied, or 
+otherwise, including regarding the accuracy, completeness, or  performance of its Confidential 
+Information.
+ 
+6.  MISCELLANEOUS
+This Agreement is the entire agreement between  the parties hereto with respect to the subject matter 
+hereof and supersedes all  prior arrangements between the parties with respect thereto.
+  
+This Agreement shall not be varied, extended,  or altered unless such variation, extension, or alteration 
+is made in writing.  This Agreement is not assignable without the  prior written consent of the other party 
+hereto.
+  
+Nothing in this Agreement will obligate either  party to proceed with any transaction between them, and 
+each party reserves the right, in its sole discretion, to terminate the discussions contemplated by  this 
+Agreement.
+Omission or delay on the part of either party in  requiring due and punctual fulfillment of any of the 
+obligations of the other  party hereunder shall not be deemed a waiver of such obligation, or any other 
+obligations, present or future, or of any resulting remedy for the breach  thereof.  
+The invalidity or unenforceability of any  particular provision of this Agreement shall not in any manner or 
+way affect  any other provisions hereof, and this Agreement shall be construed if possible  as if 
+amended to conform to legal requirements, failing which it shall be  construed as if any such offending 
+provision were omitted.
+This Agreement shall be governed by and  construed in accordance with the laws of New South Wales, 
+Australia.  Any dispute arising between the Parties in  respect to this Agreement shall be exclusively 
+referred to the competent court  in New South Wales, provided that either party may seek injunctive or 
+preliminary relief in any court of competent jurisdiction.  
+Each party acknowledges that any violation or  threatened violation of this Agreement may cause 
+irreparable injury to the other  party, entitling the other party to seek injunctive relief in addition to all 
+other legal remedies.
+All notices and reports provided for and/or  required under this Agreement shall be in writing and 
+addressed to the parties  at their addresses as specified in the preamble hereto.  All notices may be sent 
+by mail or by  facsimile.  All notices sent by mail  between the parties will be assumed to be received 7 
+Page 4 of 7
+Document Ref: RE3XD-R7E2G-Q7TJP-UQWOD
+Page 4 of 7
+Copyright Laava ID Pty Ltd 2021                                                                                                                                              Strictly Commercial-in-Confidence
+days after posting from a  national post office.  Facsimile  transmissions will be assumed to be received 
+12 hours after being sent. 
+Page 5 of 7
+Document Ref: RE3XD-R7E2G-Q7TJP-UQWOD
+Page 5 of 7
+Copyright Laava ID Pty Ltd 2021                                                                                                                                              Strictly Commercial-in-Confidence
+Mark-up Requests or Comments: Lumx Studios Ltda.
+Where applicable. Not applicable if left blank. 
+Page 6 of 7
+Document Ref: RE3XD-R7E2G-Q7TJP-UQWOD
+Page 6 of 7
+Copyright Laava ID Pty Ltd 2021                                                                                                                                              Strictly Commercial-in-Confidence
+Execution
+This Agreement is hereby acknowledged and agreed by the Parties.
+Laava ID (Aust) Pty Ltd
+Lumx Studios Ltda.
+06 / 09 / 2022
+08 / 09 / 2022
+Victor Silveira
+Michel Goldberg 
+Business Development Manager
+CFO
+Page 7 of 7
+Document Ref: RE3XD-R7E2G-Q7TJP-UQWOD
+Page 7 of 7
+Signature Certificate
+Reference number: RE3XD-R7E2G-Q7TJP-UQWOD
+Document completed by all parties on:
+08 Sep 2022 13:44:50 UTC
+Page 1 of 1
+Signer
+Timestamp
+Signature
+Victor Silveira
+Email: victor@laava.id
+Sent:
+06 Sep 2022 03:36:47 UTC
+Signed:
+06 Sep 2022 03:36:48 UTC
+IP address: 189.59.214.208 
+Location: Salvador, Brazil
+Michel Goldberg
+Email: michel@lumxstudios.com
+Recipient Verification:
+Sent:
+06 Sep 2022 03:36:47 UTC
+Viewed:
+08 Sep 2022 13:29:46 UTC
+Signed:
+08 Sep 2022 13:44:50 UTC
+✔Email verified
+08 Sep 2022 13:29:46 UTC
+IP address: 179.218.14.244 
+Location: Rio de Janeiro, Brazil
+Signed with PandaDoc
+PandaDoc is a document workflow and certified eSignature
+solution trusted by 30,000+ companies worldwide.
