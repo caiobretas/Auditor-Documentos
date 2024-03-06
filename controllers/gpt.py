@@ -1,4 +1,4 @@
-'''módulo de controller'''
+"""módulo de controller"""
 
 import os
 
@@ -10,113 +10,101 @@ from langchain_community.llms.ollama import Ollama
 from langchain_openai import OpenAI
 from openai import BadRequestError  # , RateLimitError
 
-KEY = os.environ.get('OPENAI_API_KEY')
+KEY = os.environ.get("OPENAI_API_KEY")
 
 
 class Model:
-    '''classe base para modelos de AI.
+    """classe base para modelos de AI.
     Utiliza como modelo printipal o da OpenAI.
     Se der erro de rate-limit ele usa o do Ollama
     (precisa fazer o download: https://ollama.com/download)
-    '''
+    """
 
     def __init__(self):
 
         # self.document = None  # é preciso rodar _load_document
 
         self.llm = OpenAI(api_key=KEY, temperature=0.0)  # type:ignore
-        self.backup_llm = Ollama(model='llama2')
+        self.backup_llm = Ollama(model="llama2")
 
     def _load_document(self, file_path: str):
-        '''método responsável por carregar o documento'''
+        """método responsável por carregar o documento"""
         _loader = UnstructuredFileLoader(file_path)
         return _loader.load()
 
     def _summarize_map_reduce(self):
-        '''cria uma chain com type = "map_reduce"
+        """cria uma chain com type = "map_reduce"
         esse método resume o conteúdo do documento
-        Ideal para documentos grandes'''
+        Ideal para documentos grandes"""
         if not self.document:
-            raise ValueError('Document not loaded')
+            raise ValueError("Document not loaded")
         chain = load_summarize_chain(
-            self.llm, chain_type='map_reduce',
-            verbose=False  # verbose=True mostra o que Langchain faz por baixo
+            self.llm,
+            chain_type="map_reduce",
+            verbose=False,  # verbose=True mostra o que Langchain faz por baixo
         )
         try:
             return chain.invoke(self.document)
         except BadRequestError:
             txt_splitter = RecursiveCharacterTextSplitter(
-                chunk_size=4000,
-                chunk_overlap=0
+                chunk_size=4000, chunk_overlap=0
             )
             return txt_splitter.split_documents(self.document)
 
     def _summarize_stuff(self, query=None):
-        '''cria uma chain com type = "stuff"
+        """cria uma chain com type = "stuff"
         esse método resume o conteúdo do documento
-        Não é o ideal para documentos grandes'''
+        Não é o ideal para documentos grandes"""
         if not self.document:
-            raise ValueError('Document not loaded')
+            raise ValueError("Document not loaded")
         chain = load_summarize_chain(
-            self.llm, chain_type='stuff',
-            verbose=False  # verbose=True mostra o que Langchain faz por baixo
+            self.llm,
+            chain_type="stuff",
+            verbose=False,  # verbose=True mostra o que Langchain faz por baixo
         )
 
         try:
-            invocation = {'input_documents': self.document}
+            invocation = {"input_documents": self.document}
 
             if query:
-                invocation['query'] = query
+                invocation["query"] = query
 
             return chain.invoke(invocation)
 
         except BadRequestError:
             txt_splitter = RecursiveCharacterTextSplitter(
-                chunk_size=4000,
-                chunk_overlap=0
+                chunk_size=4000, chunk_overlap=0
             )
             return txt_splitter.split_documents(self.document)
 
     def split_documents(self, file_path):
-        '''método responsável por dividir o documento em partes'''
+        """método responsável por dividir o documento em partes"""
         documents = self._load_document(file_path)
 
-        txt_splitter = RecursiveCharacterTextSplitter(
-            chunk_size=4000,
-            chunk_overlap=0
-        )
+        txt_splitter = RecursiveCharacterTextSplitter(chunk_size=4000, chunk_overlap=0)
         splitted_documents = txt_splitter.split_documents(documents)
 
         if not splitted_documents:
-            raise ValueError('No documents found')
+            raise ValueError("No documents found - Path ", file_path)
 
         return splitted_documents
 
     def _map_rerank(self, query: str, documents):
-        '''cria uma chain com type = "map_rerank"
+        """cria uma chain com type = "map_rerank"
         esse método calcula a % de assertividade dado a pergunta feita
-        (modelo Q&A) e retorna a resposta mais assertiva'''
+        (modelo Q&A) e retorna a resposta mais assertiva"""
 
-        chain = load_qa_chain(
-            self.llm,
-            chain_type='map_rerank',
-            verbose=False)
+        chain = load_qa_chain(self.llm, chain_type="map_rerank", verbose=False)
 
-        return chain.invoke({
-            'input_documents': documents,
-            "question": query
-            }
-        )
+        return chain.invoke({"input_documents": documents, "question": query})
 
 
-class GPT (Model):
-    '''classe responsável pelas requisições com a OpenAI'''
+class GPT(Model):
+    """classe responsável pelas requisições com a OpenAI"""
 
-    def questions_and_answers_by_file(self,
-                                      query,
-                                      file_path: str):
-        '''método responsável por fazer perguntas ao modelo
-        ideal para Q&A'''
+    def questions_and_answers_by_file(self, query, file_path: str):
+        """método responsável por fazer perguntas ao modelo
+        ideal para Q&A"""
         documents = self.split_documents(file_path)
         # try:
         return self._map_rerank(query, documents)
@@ -132,6 +120,7 @@ class GPT (Model):
     #         ]
     #     )
     #     return completion.choices[0].message
+
 
 # if __name__ == '__main__':
 #     os.system('clear')

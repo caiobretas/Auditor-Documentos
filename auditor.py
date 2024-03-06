@@ -1,9 +1,5 @@
 """módulo que contém a classe responsável pela auditoria"""
 
-import os
-import asyncio
-import datetime
-from pandas import DataFrame
 from main import (
     DOCUMENTS_PATH,
     contacts_mapping,
@@ -11,6 +7,11 @@ from main import (
     docs_vigency_mapping,
     downloaded_files_mapping,
 )
+
+import os
+import asyncio
+import datetime
+from pandas import DataFrame
 from models.compilers import DateCompiler, PartCompiler, VigencyCompiler
 from models.system import System
 
@@ -127,8 +128,8 @@ class Auditor:
 
         # # estação de auditoria
         await asyncio.gather(
-            # self.audit_signature_date(document_str, google_id),
-            # self.audit_parts(file_path, google_id),
+            self.audit_signature_date(document_str, google_id),
+            self.audit_parts(file_path, google_id),
             self.audit_vigencies(file_path, google_id),
         )
 
