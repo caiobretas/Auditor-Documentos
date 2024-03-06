@@ -3,6 +3,7 @@
 from main import (
     DOCUMENTS_PATH,
     contacts_mapping,
+    docs_mapping,
     docs_categories_mapping,
     docs_vigency_mapping,
     downloaded_files_mapping,
@@ -139,7 +140,22 @@ class Auditor:
 
     def report(self):
         """método responsável por gerar o relatório"""
+
+        for google_id, result in self.result_mapping.items():
+
+            result["weblink"] = docs_mapping[google_id].weblink
+            result["db_part"] = contacts_mapping[
+                docs_categories_mapping[google_id].categoria5
+            ].nomeamigavel
+            result["db_signature_date"] = docs_vigency_mapping[
+                google_id
+            ].data_assinatura
+            result["db_vigency_date"] = docs_vigency_mapping[
+                google_id
+            ].datafinal_vigencia
+
         report_path = "result.xlsx"
+
         df = (
             DataFrame.from_dict(self.result_mapping, orient="index")
             .reset_index()
