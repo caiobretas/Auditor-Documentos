@@ -32,50 +32,50 @@ class Model:
         _loader = UnstructuredFileLoader(file_path)
         return _loader.load()
 
-    def _summarize_map_reduce(self):
-        """cria uma chain com type = "map_reduce"
-        esse método resume o conteúdo do documento
-        Ideal para documentos grandes"""
-        if not self.document:
-            raise ValueError("Document not loaded")
-        chain = load_summarize_chain(
-            self.llm,
-            chain_type="map_reduce",
-            verbose=False,  # verbose=True mostra o que Langchain faz por baixo
-        )
-        try:
-            return chain.invoke(self.document)
-        except BadRequestError:
-            txt_splitter = RecursiveCharacterTextSplitter(
-                chunk_size=4000, chunk_overlap=0
-            )
-            return txt_splitter.split_documents(self.document)
+    # def _summarize_map_reduce(self):
+    #     """cria uma chain com type = "map_reduce"
+    #     esse método resume o conteúdo do documento
+    #     Ideal para documentos grandes"""
+    #     if not self.document:
+    #         raise ValueError("Document not loaded")
+    #     chain = load_summarize_chain(
+    #         self.llm,
+    #         chain_type="map_reduce",
+    #         verbose=False,  # verbose=True mostra o que Langchain faz por baixo
+    #     )
+    #     try:
+    #         return chain.invoke(self.document)
+    #     except BadRequestError:
+    #         txt_splitter = RecursiveCharacterTextSplitter(
+    #             chunk_size=4000, chunk_overlap=0
+    #         )
+    #         return txt_splitter.split_documents(self.document)
 
-    def _summarize_stuff(self, query=None):
-        """cria uma chain com type = "stuff"
-        esse método resume o conteúdo do documento
-        Não é o ideal para documentos grandes"""
-        if not self.document:
-            raise ValueError("Document not loaded")
-        chain = load_summarize_chain(
-            self.llm,
-            chain_type="stuff",
-            verbose=False,  # verbose=True mostra o que Langchain faz por baixo
-        )
+    # def _summarize_stuff(self, query=None):
+    #     """cria uma chain com type = "stuff"
+    #     esse método resume o conteúdo do documento
+    #     Não é o ideal para documentos grandes"""
+    #     if not self.document:
+    #         raise ValueError("Document not loaded")
+    #     chain = load_summarize_chain(
+    #         self.llm,
+    #         chain_type="stuff",
+    #         verbose=False,  # verbose=True mostra o que Langchain faz por baixo
+    #     )
 
-        try:
-            invocation = {"input_documents": self.document}
+    #     try:
+    #         invocation = {"input_documents": self.document}
 
-            if query:
-                invocation["query"] = query
+    #         if query:
+    #             invocation["query"] = query
 
-            return chain.invoke(invocation)
+    #         return chain.invoke(invocation)
 
-        except BadRequestError:
-            txt_splitter = RecursiveCharacterTextSplitter(
-                chunk_size=4000, chunk_overlap=0
-            )
-            return txt_splitter.split_documents(self.document)
+    #     except BadRequestError:
+    #         txt_splitter = RecursiveCharacterTextSplitter(
+    #             chunk_size=4000, chunk_overlap=0
+    #         )
+    #         return txt_splitter.split_documents(self.document)
 
     def split_documents(self, file_path):
         """método responsável por dividir o documento em partes"""

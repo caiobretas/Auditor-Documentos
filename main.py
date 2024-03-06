@@ -76,11 +76,13 @@ for google_id, document in docs_vigency_mapping.items():
             document_str = bytes_reader.read_document(document_bytes)[0]
 
             if not document_str:
+                print("Empty document", google_id)
                 continue
 
             # salva o arquivo para não ter que baixar novamente
             with open(FILE_PATH, "w", encoding="utf8") as f:
                 f.write(document_str)
+                print("Written document", google_id)
 
         # trata um erro de file data
         except fitz.FileDataError:
