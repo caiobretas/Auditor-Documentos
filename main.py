@@ -1,5 +1,5 @@
 # type:ignore
-'''main class'''
+"""main class"""
 import logging
 import os
 import warnings
@@ -20,9 +20,9 @@ from repositories.base import Repository
 
 # os.system('clear')
 # os.system(f'export OPENAI_API_KEY={os.environ.get("OPENAI_API_KEY")}')
-warnings.filterwarnings('ignore', category=UserWarning)
+warnings.filterwarnings("ignore", category=UserWarning)
 
-DOCUMENTS_PATH = 'documents/'
+DOCUMENTS_PATH = "documents/"
 
 # vamos instanciar algumas classes úteis para a lógica
 drive = Drive()  # classe responsável por interações com o Google Drive
@@ -40,20 +40,16 @@ repositoryContacts = ctt.Contact(session)
 # # abaixo, vamos definir alguns mappings úteis
 
 # documentos
-docs_mapping: Dict[str, Doc] = repositoryDocuments.\
-    get_mapper('googleid')
-docs_vigency_mapping: Dict[str, Vig] = repositoryVigency.\
-    get_mapper('googleid')
-docs_categories_mapping: Dict[str, Cat] = repositoryCategory.\
-    get_mapper('googleid')
+docs_mapping: Dict[str, Doc] = repositoryDocuments.get_mapper("googleid")
+docs_vigency_mapping: Dict[str, Vig] = repositoryVigency.get_mapper("googleid")
+docs_categories_mapping: Dict[str, Cat] = repositoryCategory.get_mapper("googleid")
 
 # contatos
-contacts_mapping: Dict[str, Ctt] = repositoryContacts.get_mapper('id')
+contacts_mapping: Dict[str, Ctt] = repositoryContacts.get_mapper("id")
 
 # arquivos salvos localmente
 downloaded_files_mapping = {
-    google_id.split('.')[0]:
-        system_reader.read_file(f'{DOCUMENTS_PATH + google_id}')
+    google_id.split(".")[0]: system_reader.read_file(f"{DOCUMENTS_PATH + google_id}")
     for google_id in system_reader.get_files(DOCUMENTS_PATH)
 }
 
@@ -61,7 +57,7 @@ result: list[dict] = []
 # iteração sobre todos os documentos que temos salvo em banco
 for google_id, document in docs_vigency_mapping.items():
 
-    FILE_PATH = DOCUMENTS_PATH + f'{google_id}.txt'
+    FILE_PATH = DOCUMENTS_PATH + f"{google_id}.txt"
 
     document_str, document_bytes = None, None
 
@@ -83,10 +79,10 @@ for google_id, document in docs_vigency_mapping.items():
                 continue
 
             # salva o arquivo para não ter que baixar novamente
-            with open(FILE_PATH, 'w', encoding='utf8') as f:
+            with open(FILE_PATH, "w", encoding="utf8") as f:
                 f.write(document_str)
 
         # trata um erro de file data
         except fitz.FileDataError:
-            logging.error('file data error')
+            logging.error("file data error")
             continue
