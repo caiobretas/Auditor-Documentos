@@ -1,7 +1,6 @@
 # type:ignore
 """main class"""
 import logging
-import os
 import warnings
 from typing import Dict
 
@@ -48,10 +47,12 @@ docs_categories_mapping: Dict[str, Cat] = repositoryCategory.get_mapper("googlei
 contacts_mapping: Dict[str, Ctt] = repositoryContacts.get_mapper("id")
 
 # arquivos salvos localmente
-downloaded_files_mapping = {
-    google_id.split(".")[0]: system_reader.read_file(f"{DOCUMENTS_PATH + google_id}")
-    for google_id in system_reader.get_files(DOCUMENTS_PATH)
-}
+downloaded_files_mapping = {}
+for google_id in system_reader.get_files(DOCUMENTS_PATH):
+    string = system_reader.read_file(f"{DOCUMENTS_PATH + google_id}")
+    if string not in ("", None):
+        downloaded_files_mapping[google_id.split(".")[0]] = string
+
 
 result: list[dict] = []
 # iteração sobre todos os documentos que temos salvo em banco
@@ -75,7 +76,7 @@ for google_id, document in docs_vigency_mapping.items():
             # tenta transformar os bytes em string
             document_str = bytes_reader.read_document(document_bytes)[0]
 
-            if not document_str:
+            if document_str in ("", None):
                 print("Empty document", google_id)
                 continue
 
