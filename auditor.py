@@ -13,12 +13,20 @@ import os
 import asyncio
 import datetime
 from pandas import DataFrame
-from models.compilers import DateCompiler, PartCompiler, VigencyCompiler
+from models.compilers import (
+    DateCompiler,
+    PartCompiler,
+    VigencyCompiler,
+    ExclusivityCompiler,
+    BoardAssemblyCompiler,
+)
 from models.system import System
 
 date_compiler = DateCompiler()
 part_compiler = PartCompiler()
 vigency_compiler = VigencyCompiler()
+exclusivity_compiler = ExclusivityCompiler()
+# board_assembly_compiler = BoardAssemblyCompiler()
 
 
 class Auditor:
@@ -111,6 +119,72 @@ class Auditor:
         print(result)
         await self.save_results(result)
 
+    async def audit_exclusivity(self, file_path, google_id):
+
+        exclusivity = exclusivity_compiler.compile_exclusivity_model(
+            document_path=file_path
+        )
+        try:
+            document = docs_vigency_mapping[google_id]
+
+        except KeyError:
+            exclusivity_status = "wrong exclusivity"
+            result = {
+                google_id: {
+                    "exclusivity": exclusivity,
+                    "exclusivity_status": exclusivity_status,
+                }
+            }
+            await self.save_results(result)
+            return
+
+        clausula_exclusividade = False
+
+        if document.clausula_exclusividade:
+            clausula_exclusividade = True
+
+        # se o modelo não tiver mapeado e o banco sim, está errado
+        if exclusivity == clausula_exclusividade:
+            exclusivity_status = "ok"
+        else:
+            exclusivity_status = "wrong exclusivity"
+
+        result = {
+            google_id: {
+                "exclusivity": exclusivity,
+                "exclusivity_status": exclusivity_status,
+            }
+        }
+        print(result)
+        await self.save_results(result)
+
+    async def audit_board_assembly(self, file_path, google_id):
+        document = docs_vigency_mapping[google_id]
+
+        board_assembly = board_assembly_compiler.compile_board_assembly_model(
+            document_path=file_path
+        )
+
+        saved_board_assembly = False
+
+        if document.aprovacao_assembleia:
+            saved_board_assembly = True
+
+        # se o modelo não tiver mapeado e o banco sim, está errado
+        if board_assembly == saved_board_assembly:
+            board_assembly_status = "ok"
+        else:
+            board_assembly_status = "wrong board_assembly"
+
+        result = {
+            google_id: {
+                "board_assembly": board_assembly,
+                "board_assembly_status": board_assembly_status,
+            }
+        }
+        print(result)
+        await self.save_results(result)
+
     async def _create_tasks(self):
         """método responsável por crias as coroutines"""
 
@@ -129,9 +203,10 @@ class Auditor:
 
         # # estação de auditoria
         await asyncio.gather(
-            self.audit_signature_date(document_str, google_id),
-            self.audit_parts(file_path, google_id),
-            self.audit_vigencies(file_path, google_id),
+            self.audit_exclusivity(file_path, google_id),
+            # self.audit_signature_date(document_str, google_id),
+            # self.audit_parts(file_path, google_id),
+            # self.audit_vigencies(file_path, google_id),
         )
 
     def audit(self):
@@ -142,18 +217,27 @@ class Auditor:
         """método responsável por gerar o relatório"""
 
         for google_id, result in self.result_mapping.items():
+            try:
+                result["weblink"] = docs_mapping[google_id].weblink
+                result["db_part"] = contacts_mapping[
+                    docs_categories_mapping[google_id].categoria5
+                ].nomeamigavel
+                result["db_signature_date"] = docs_vigency_mapping[
+                    google_id
+                ].data_assinatura
+                result["db_vigency_date"] = docs_vigency_mapping[
+                    google_id
+                ].datafinal_vigencia
 
-            result["weblink"] = docs_mapping[google_id].weblink
-            result["db_part"] = contacts_mapping[
-                docs_categories_mapping[google_id].categoria5
-            ].nomeamigavel
-            result["db_signature_date"] = docs_vigency_mapping[
-                google_id
-            ].data_assinatura
-            result["db_vigency_date"] = docs_vigency_mapping[
-                google_id
-            ].datafinal_vigencia
-
+            except KeyError:
+                result["weblink"] = "key error on saving -- debug on report() method"
+                result["db_part"] = "key error on saving -- debug on report() method"
+                result["db_signature_date"] = (
+                    "key error on saving -- debug on report() method"
+                )
+                result["db_vigency_date"] = (
+                    "key error on saving -- debug on report() method"
+                )
         report_path = "result.xlsx"
 
         df = (
@@ -164,9 +248,12 @@ class Auditor:
         df.to_excel(report_path, index=False, engine="openpyxl")
 
 
-auditor = Auditor()
-auditor.audit()
-auditor.report()
+if __name__ == "__main__":
 
-os.system("clear")
-print("Audit finished!")
+    os.system("clear")
+
+    auditor = Auditor()
+    auditor.audit()
+    auditor.report()
+
+    print("Audit finished!")

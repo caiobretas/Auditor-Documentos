@@ -1,7 +1,6 @@
 """módulo responsável por compilar strings de diferentes formatos"""
 
 import re
-from abc import ABC, abstractmethod
 from datetime import date, datetime
 from pathlib import Path
 from typing import Union
@@ -14,20 +13,24 @@ from entities.document_for_langchain import Document
 PROMPTS_PATH = Path(__file__).parent.parent / "prompts.json"
 
 
-class Compiler(ABC):
+class Compiler:
     """classe responsável por compilar strings de diferentes formatos"""
 
-    @abstractmethod
-    def compile(self, **kwargs) -> tuple:
-        """compile a string and return a tuple(object, status)"""
+    def __init__(self):
+        self._model = GPT()
+
+    def __repr__(self):
+        return f"{self.__class__.__name__}({self._model}())"
 
 
-class PartCompiler:
+class PartCompiler(Compiler):
     """classe responsável por acionar o modelo de AI para identificar se uma
     parte pertence ou não a um documento"""
 
     def __init__(self):
-        self._model = GPT()
+
+        super().__init__()
+
         self.__prompt = """"
         Me diga se um dos nomes abaixo uma das partes principais que assinam o documento.
 
@@ -48,7 +51,7 @@ class PartCompiler:
         return response
 
 
-class DateCompiler:
+class DateCompiler(Compiler):
     """classe responsável por compilar strings de diferentes formatos"""
 
     _date_patterns_ = [
@@ -212,11 +215,11 @@ class DateCompiler:
         return cpf_cnpj
 
 
-class VigencyCompiler:
+class VigencyCompiler(Compiler):
     """classe responsável por acionar o modelo de AI para identificar se a vigência de um documento está correta ou não"""
 
     def __init__(self):
-        self._model = GPT()
+        super().__init__()
         self.__prompt = """"
         Nosso objetivo aqui é identificar a data que a vigência acaba.
         Normalmente é encontrada em uma clausula específica de vigência
@@ -249,3 +252,79 @@ class VigencyCompiler:
         except ValueError:
             formatted_response = None, "unknown date format"
         return formatted_response
+
+
+class BoardAssemblyCompiler(Compiler):
+    """classe responsável por acionar o modelo de AI para identificar se a assembleia de um documento está correta ou não"""
+
+    def __init__(self, board_assembly_mapping):
+
+        super().__init__()
+
+        self._summarize_prompt = """
+        Avalie se o trecho abaixo contém uma assembleia de sócios
+        
+        Responda apenas sim ou não.
+
+        Na dúvida, diga não.
+        
+        Trecho:
+        """
+
+        # self.
+
+    def resume_and_summarize_board_assembly(self, board_assembly_docs_path):
+        """utiliza a classe GPT para resumir a pauta da ata"""
+
+        response = self._model.summarize(
+            self._summarize_prompt, board_assembly_docs_path
+        )
+        response = response["output_text"].strip().lower()
+        if response.lower() == "não":
+            response = False
+        else:
+            response = True
+        return response
+
+    def compile_board_assembly_model(self, document_path):
+        """utiliza a classe GPT para compilar a string"""
+
+        response = self._model.questions_and_answers_by_file(
+            self.__prompt, document_path
+        )
+        response = response["output_text"].strip().lower()
+        if response.lower() == "não":
+            response = False
+        else:
+            response = True
+        return response
+
+
+class ExclusivityCompiler(Compiler):
+
+    def __init__(self):
+
+        super().__init__()
+
+        self.__prompt = """
+        Avalie se o trecho abaixo contém cláusulas de exclusividade
+        
+        Responda apenas sim ou não.
+
+        Na dúvida, diga não.
+        
+        Trecho:
+        """
+
+    def compile_exclusivity_model(self, document_path):
+        """utiliza a classe GPT para compilar a string"""
+
+        response = self._model.questions_and_answers_by_file(
+            self.__prompt, document_path
+        )
+        response = response["output_text"].strip().lower()
+        if response.lower() == "não":
+            response = False
+        else:
+            response = True
+        return response

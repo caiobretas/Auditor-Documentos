@@ -51,31 +51,32 @@ class Model:
     #         )
     #         return txt_splitter.split_documents(self.document)
 
-    # def _summarize_stuff(self, query=None):
-    #     """cria uma chain com type = "stuff"
-    #     esse método resume o conteúdo do documento
-    #     Não é o ideal para documentos grandes"""
-    #     if not self.document:
-    #         raise ValueError("Document not loaded")
-    #     chain = load_summarize_chain(
-    #         self.llm,
-    #         chain_type="stuff",
-    #         verbose=False,  # verbose=True mostra o que Langchain faz por baixo
-    #     )
+    def _summarize_stuff(self, file_path, query):
+        """cria uma chain com type = "stuff"
+        esse método resume o conteúdo do documento
+        Não é o ideal para documentos grandes"""
 
-    #     try:
-    #         invocation = {"input_documents": self.document}
+        txt_splitter = RecursiveCharacterTextSplitter(chunk_size=4000, chunk_overlap=0)
 
-    #         if query:
-    #             invocation["query"] = query
+        documents = self._load_document(file_path)
+        splitted_docs = txt_splitter.split_documents(documents)
 
-    #         return chain.invoke(invocation)
+        chain = load_summarize_chain(
+            self.llm,
+            chain_type="stuff",
+            verbose=False,  # verbose=True mostra o que Langchain faz por baixo
+        )
 
-    #     except BadRequestError:
-    #         txt_splitter = RecursiveCharacterTextSplitter(
-    #             chunk_size=4000, chunk_overlap=0
-    #         )
-    #         return txt_splitter.split_documents(self.document)
+        try:
+            invocation = {"input_documents": splitted_docs}
+
+            if query:
+                invocation["query"] = query
+            response = chain.invoke(invocation)
+            return response
+
+        except BadRequestError:
+            return txt_splitter.split_documents(splitted_docs)
 
     def split_documents(self, file_path):
         """método responsável por dividir o documento em partes"""
@@ -108,6 +109,9 @@ class GPT(Model):
         documents = self.split_documents(file_path)
         # try:
         return self._map_rerank(query, documents)
+
+    def summarize(self, query, file_path):
+        return self._summarize_stuff(query=query, file_path=file_path)
 
     # def ask(self, user_content: str):
     #     '''método reponsável por fazer perguntas ao modelo'''
